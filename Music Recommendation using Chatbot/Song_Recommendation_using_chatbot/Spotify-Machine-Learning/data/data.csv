@@ -1,0 +1,789 @@
+name,artists,id,year,popularity,danceability,energy,valence,loudness,kmeans,album,acousticness,duration_ms,explicit,instrumentalness,key,liveness,mode,Unnamed: 18,release_date,speechiness,tempo,mood
+If I Believe You,['The 1975'],2J3ajGI1sVj9wnqThJHwPS,2016,55,0.703,0.308,0.346,-7.742,,,0.737,380320.0,0.0,0.00618,10.0,0.102,1.0,,26/02/2016,0.0355,130.084,Sad
+The Only Boy Awake,['Meadows'],4tRt91OQSbE9eFA3RwgqSd,2016,61,0.52,0.48,0.405,-10.288,,,0.61,163294.0,0.0,0.0344,5.0,0.107,1.0,,21/10/2016,0.0303,122.086,Sad
+Best to You,['Blood Orange'],1p2TWJxUlHE5JR0sE6E1d7,2016,58,0.658,0.785,0.345,-8.513,,,0.181,225748.0,0.0,0.00223,0.0,0.724,1.0,,28/06/2016,0.036,125.015,Energetic
+Make Me Like You,['Gwen Stefani'],2WIxwn8LZRI7knO1VbwdaE,2016,54,0.741,0.714,0.799,-4.739,,,0.0403,216947.0,0.0,1.58e-05,5.0,0.127,0.0,,01/04/2016,0.0476,118.036,Happy
+Edge,['Rezz'],4pCvnGkf7jveRMKHZosxxB,2016,59,0.844,0.682,0.352,-9.556,,,0.00207,223887.0,0.0,0.797,2.0,0.113,1.0,,22/01/2016,0.0453,99.99,Happy
+If You Let Me,"['Sinead Harnett', 'GRADES']",5LKXxwgll43fxe1lPF7sze,2016,58,0.407,0.403,0.329,-8.396,,,0.158,232878.0,0.0,5.98e-06,5.0,0.553,0.0,,28/07/2016,0.113,90.907,Sad
+Leave Me Lonely,"['Ariana Grande', 'Macy Gray']",0zXXqCxifU2u8jfW2r4POb,2016,60,0.445,0.446,0.389,-7.468,,,0.599,229680.0,0.0,2.21e-05,8.0,0.339,0.0,,20/05/2016,0.0312,90.927,Sad
+Ocean Beauty,['Deep Sleep Music Collective'],1NFpzFtGDWbtSCaXzxi1t7,2016,61,0.0657,0.00183,0.0396,-34.484,,,0.931,118988.0,0.0,0.98,1.0,0.116,1.0,,07/11/2016,0.0462,73.61,Calm
+Sparkle - movie ver.,['RADWIMPS'],3A4FRzgve9BjfKbvVXRIFO,2016,67,0.372,0.426,0.287,-8.421,,,0.687,537653.0,0.0,0.00784,11.0,0.109,1.0,,24/08/2016,0.0339,123.993,Sad
+Bones,['Crumb'],4rL1OrbBCOD5hDgXWPCqW3,2016,58,0.51,0.603,0.413,-9.691,,,0.191,193981.0,0.0,0.389,2.0,0.551,1.0,,06/09/2016,0.0361,91.118,Happy
+She's American,['The 1975'],51cd3bzVmLAjlnsSZn4ecW,2016,54,0.647,0.857,0.55,-3.94,,,0.167,270107.0,0.0,0.000437,1.0,0.0763,1.0,,26/02/2016,0.0547,115.976,Happy
+The Black and White,['The Band CAMINO'],3sgqeL8dmOt1Pw8TkeyjsR,2016,57,0.457,0.572,0.107,-7.241,,,0.178,279197.0,0.0,0.000176,4.0,0.102,1.0,,01/04/2016,0.0284,133.974,Sad
+Where The Skies Are Blue,['The Lumineers'],3CuscN8itbT86pQFKQMIk7,2016,53,0.569,0.477,0.552,-6.577,,,0.861,140120.0,0.0,0.000485,9.0,0.0644,1.0,,08/04/2016,0.0277,132.423,Sad
+Go Big Or Go Home,['American Authors'],1obisQNOcikRvTdStbW3pG,2016,58,0.665,0.875,0.66,-4.272,,,0.00939,169027.0,0.0,0.0,1.0,0.0897,1.0,,01/07/2016,0.0426,122.008,Energetic
+Kill Shit (feat. Lil Bibby) [Bonus Track],['G Herbo'],6FWA2CTpr0wtgjK6r2qDgc,2016,55,0.789,0.623,0.557,-8.709,,,0.109,179445.0,1.0,0.0,8.0,0.0706,1.0,,04/11/2016,0.237,141.041,Happy
+"Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)","['Chance the Rapper', 'Ty Dolla $ign', 'Anderson .Paak', 'BJ The Chicago Kid', 'Raury']",5IdQEHgtmj9th3OkfQKhf8,2016,56,0.381,0.462,0.542,-8.014,,,0.891,230017.0,1.0,0.0,8.0,0.199,1.0,,27/05/2016,0.124,80.08,Sad
+Too Late,['The Happy Fits'],3LbO439QNr3IX7Ho39Fq8X,2016,56,0.685,0.554,0.789,-10.473,,,0.443,201258.0,0.0,0.0,7.0,0.482,1.0,,27/08/2016,0.115,160.002,Happy
+Autumn Leaves,['BTS'],0c2E2zcsp8EoWmfw8YQphH,2016,63,0.394,0.799,0.297,-3.54,,,0.0107,267151.0,0.0,0.0,6.0,0.144,1.0,,02/05/2016,0.0914,104.999,Energetic
+Don't Want You,['Ella Mai'],7mlUgG3YkaE8AWRzsdEcNn,2016,58,0.684,0.443,0.332,-10.518,,,0.243,200960.0,1.0,0.0,7.0,0.18,1.0,,15/02/2016,0.175,101.508,Happy
+FLY HIGH!!,['BURNOUT SYNDROMES'],3Vpl1HddJXv8LUBWHlQlKF,2016,63,0.476,0.964,0.346,-1.48,,,0.0139,246000.0,0.0,0.0,11.0,0.326,1.0,,02/03/2016,0.0733,94.558,Energetic
+A MÃ­ Me Esta Doliendo,['Banda MS de Sergio LizÃ¡rraga'],01dVdmSV7eaVgRzUAi6o13,2016,63,0.779,0.389,0.674,-6.278,,,0.248,225960.0,0.0,5.13e-06,10.0,0.0641,1.0,,05/02/2016,0.0312,114.941,Sad
+iT's YoU,['ZAYN'],6dtWKqqdveI3YvdYJQKWWn,2016,63,0.611,0.319,0.176,-10.743,,,0.815,226653.0,1.0,0.0151,5.0,0.108,1.0,,25/03/2016,0.0357,124.92,Sad
+Mixtape (feat. Young Thug & Lil Yachty),"['Chance the Rapper', 'Young Thug', 'Lil Yachty']",0WCbhE2evMrIwRM0DlMy9k,2016,56,0.838,0.43,0.126,-5.868,,,0.0498,292910.0,1.0,1.59e-05,1.0,0.0977,1.0,,27/05/2016,0.281,126.981,Energetic
+Super Mario World,['Logic'],1py4qzrEEkOvU8uTHYLuOW,2016,56,0.862,0.662,0.394,-7.19,,,0.0548,177680.0,1.0,0.0,0.0,0.0993,1.0,,01/07/2016,0.209,131.964,Energetic
+Frogman,['Whiskey Myers'],0tZIR4O5WX47JBC1TCcxxY,2016,54,0.362,0.826,0.596,-5.416,,,0.0277,218897.0,0.0,0.0,0.0,0.176,1.0,,09/09/2016,0.0449,147.204,Energetic
+"Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) - Skrillex Remix","['Hundred Waters', 'Chance the Rapper', 'Moses Sumney', 'Robin Hannibal', 'Skrillex']",5PnBpKOVvQxeFvXVNYSoxs,2016,55,0.418,0.794,0.178,-4.973,,,0.08,241846.0,1.0,0.0,11.0,0.329,1.0,,22/03/2016,0.0816,129.434,Energetic
+Wicked Ones,['Dorothy'],1ogRu1dOUgHvel8To8oQbe,2016,61,0.587,0.635,0.591,-5.47,,,0.0353,172516.0,0.0,0.0,5.0,0.331,1.0,,24/06/2016,0.0377,96.519,Happy
+Silkk da Shocka (feat. Syd),"['Isaiah Rashad', 'Syd']",5f6esnDQcBiFAm8iMfkw12,2016,57,0.59,0.602,0.72,-8.195,,,0.577,166087.0,1.0,6.59e-06,8.0,0.643,1.0,,02/09/2016,0.413,121.986,Happy
+Bees,['The Ballroom Thieves'],3Iju4sprTb8as0be1A41q6,2016,59,0.516,0.136,0.428,-15.263,,,0.774,190120.0,0.0,0.0,0.0,0.139,1.0,,21/10/2016,0.0352,101.58,Sad
+Freestyle 4,['Kanye West'],6wfzokDylbrJzrJcpnBkcy,2016,58,0.564,0.537,0.459,-8.381,,,0.0449,123387.0,1.0,0.0,9.0,0.0907,0.0,,10/06/2016,0.095,126.036,Happy
+Fire,"['Louis The Child', 'Evalyn']",1bVR1UVkeaJRK5LNpIe7Gp,2016,55,0.386,0.714,0.289,-5.597,,,0.263,205618.0,0.0,0.0,6.0,0.233,0.0,,30/09/2016,0.381,89.807,Energetic
+Sleeping Bag,['Shakewell'],2os38o5E7NoO4B2cx42h5V,2016,58,0.674,0.646,0.222,-9.423,,,0.117,123000.0,1.0,0.0,0.0,0.104,1.0,,17/08/2016,0.4,160.028,Energetic
+Cake - Challenge Version,"['Flo Rida', '99 Percent']",6t2ubAB4iSYOuIpRAOGd4t,2016,59,0.786,0.854,0.687,-4.247,,,0.0729,157165.0,0.0,1.63e-06,2.0,0.179,1.0,,16/12/2016,0.0523,105.078,Happy
+Spirit Cold,['Tall Heights'],1vG6jMgSoqT3zG9tuDrL2E,2016,61,0.426,0.662,0.359,-6.158,,,0.211,222293.0,0.0,0.00652,11.0,0.176,1.0,,19/08/2016,0.0319,78.247,Energetic
+Thunder in the Rain,['Kane Brown'],1A8s182NfOT6dOXjPsWfTn,2016,55,0.549,0.877,0.377,-5.008,,,0.000555,164920.0,0.0,0.0,6.0,0.0969,1.0,,02/12/2016,0.0317,110.963,Energetic
+Mr. Doctor Man,['Palaye Royale'],1yIMrzF45Ven2FzPFAr0Gg,2016,61,0.376,0.939,0.529,-2.094,,,4.65e-05,244587.0,0.0,0.00023,4.0,0.109,0.0,,24/06/2016,0.0781,167.904,Energetic
+Above the Clouds,['Deep Sleep Music Collective'],4AkP8JV90cs05Q8vlVunMe,2016,61,0.128,0.00154,0.0377,-36.356,,,0.911,120790.0,0.0,0.944,4.0,0.0893,1.0,,07/11/2016,0.0519,78.291,Calm
+Faithful,"['Drake', 'Pimp C', 'dvsn']",2qLcJOLrh6Djda4uLbldSA,2016,57,0.536,0.449,0.171,-10.499,,,0.11,290133.0,1.0,1.49e-05,1.0,0.284,1.0,,06/05/2016,0.103,99.889,Sad
+Inspire The Liars,['Dance Gavin Dance'],2DdluBZleLq30PlfUAqSD5,2016,55,0.152,0.975,0.365,-3.072,,,0.0583,275253.0,0.0,0.0,7.0,0.124,0.0,,07/10/2016,0.26,178.947,Energetic
+iRobot,['Jon Bellion'],453QwgDIG95NmmLqSxnPsR,2016,54,0.377,0.576,0.265,-4.951,,,0.229,208659.0,0.0,1.07e-05,11.0,0.161,1.0,,10/06/2016,0.0639,206.235,Sad
+Redneck Shit,['Wheeler Walker Jr.'],6MmCP3F50aAlcOhjGJk4r0,2016,56,0.56,0.964,0.781,-5.353,,,0.0142,144240.0,1.0,1.18e-06,7.0,0.145,1.0,,12/02/2016,0.0642,135.638,Energetic
+No Words,['Cody Jinks'],6ZPCHQl5bzCBOdMupogB00,2016,54,0.55,0.656,0.25,-6.065,,,0.0203,217425.0,0.0,0.0043,6.0,0.106,1.0,,12/08/2016,0.0293,144.127,Energetic
+80's Films,['Jon Bellion'],5KSNxyuyp5K1kDT6LvX8oZ,2016,54,0.507,0.461,0.665,-7.761,,,0.0288,216037.0,0.0,0.0,6.0,0.0483,1.0,,10/06/2016,0.128,136.219,Happy
+Pray You Catch Me,['BeyoncÃ©'],7rLDARtJALM7QdiJDMXW7m,2016,59,0.25,0.215,0.0746,-13.676,,,0.632,195987.0,0.0,0.0717,8.0,0.401,0.0,,23/04/2016,0.037,174.824,Sad
+Sleeping Music (Piano Sleep Music),['Deep Sleep Music Collective'],1SPBJ5ol7xYyzxt1Gs0MTD,2016,61,0.204,0.00297,0.0396,-36.056,,,0.964,120033.0,0.0,0.984,1.0,0.111,1.0,,07/11/2016,0.0445,62.848,Calm
+Perfect Illusion,['Lady Gaga'],56ZrTFkANjeAMiS14njg4E,2016,64,0.613,0.857,0.664,-5.492,,,0.0012,182000.0,0.0,0.0,1.0,0.358,0.0,,21/10/2016,0.0366,124.987,Energetic
+Take This Heart of Gold,['Mandolin Orange'],0Zyt3eB2Ddhert42wIa181,2016,55,0.519,0.0609,0.122,-11.328,,,0.986,225280.0,0.0,0.00133,5.0,0.107,1.0,,30/09/2016,0.0514,118.56,Sad
+Heathens,['Twenty One Pilots'],3vZM2544ETmOCCHuBPZRzm,2016,62,0.737,0.476,0.555,-5.825,,,0.0908,195743.0,0.0,5.39e-05,4.0,0.0968,0.0,,05/08/2016,0.0262,90.028,Happy
+The Excavator Song,['Blippi'],3S4tE82kad4ybdfTjpWya3,2016,57,0.737,0.549,0.841,-13.215,,,0.525,173190.0,0.0,8.71e-05,9.0,0.315,1.0,,18/02/2016,0.0382,124.98,Sad
+Dream lantern,['RADWIMPS'],5mEqD00bdFcsiVd0MfvEeF,2016,66,0.206,0.871,0.125,-5.751,,,0.0316,131667.0,0.0,6.55e-05,8.0,0.0596,1.0,,24/08/2016,0.419,175.6,Energetic
+Sleep Music (Distant Lands),['Deep Sleep Music Collective'],2XrM7sxDMFn2LaKB7ITlJs,2016,61,0.0624,0.000868,0.134,-37.475,,,0.961,122175.0,0.0,0.918,2.0,0.187,1.0,,07/11/2016,0.0514,70.914,Calm
+ëŸ¬ì‹œì•ˆ ë£°ë › Russian Roulette,['Red Velvet'],5HiSc2ZCGn8L3cH3qSwzBT,2016,63,0.726,0.903,0.958,-2.277,,,0.055,211244.0,0.0,0.000225,7.0,0.158,0.0,,07/09/2016,0.0357,129.986,Happy
+Norrsken,['Karin Borg'],3toYHht60pj16nNK0e2HZy,2016,62,0.278,0.0434,0.0397,-22.396,,,0.98,95317.0,0.0,0.919,0.0,0.121,0.0,,20/07/2016,0.0383,133.853,Calm
+Sometimes,['Ariana Grande'],1FlYPPzFJUNh3KRE36pYbe,2016,59,0.397,0.666,0.568,-5.383,,,0.0907,226667.0,0.0,0.0,1.0,0.344,0.0,,20/05/2016,0.248,77.915,Energetic
+Pretty Lady,['Rebelution'],4d9dLobDQ4BcfNbOnSPHQC,2016,54,0.794,0.622,0.694,-7.454,,,0.0939,219978.0,0.0,0.0,1.0,0.0422,1.0,,03/06/2016,0.0889,138.018,Happy
+Bad Mutha Fucka,['Upchurch'],6AiZAvK2mGrdQQhcJde1Nh,2016,54,0.843,0.881,0.428,-4.979,,,0.18,182098.0,1.0,0.0,2.0,0.0832,1.0,,09/12/2016,0.175,143.022,Energetic
+Ditch,['Gus Dapperton'],34b7J43bozWsfeo4sqEViN,2016,58,0.547,0.564,0.0677,-8.307,,,0.0194,210233.0,0.0,0.0437,0.0,0.122,1.0,,03/06/2016,0.031,112.97,Happy
+38 Baby,['YoungBoy Never Broke Again'],35zkqY6kIGshmm8HhE3eSi,2016,53,0.712,0.661,0.836,-5.873,,,0.109,173684.0,1.0,0.0,3.0,0.0626,0.0,,28/10/2016,0.268,152.065,Energetic
+Baby Sleep Shhh: The Perfect Settling Tool for Babies!,['littleONES'],38wDkBNOGJJ0YtqWOaLEFh,2016,73,0.417,0.0787,0.00532,-26.446,,,0.961,331303.0,0.0,0.999,9.0,0.596,1.0,,08/10/2016,0.188,184.059,Calm
+Fuckin' wit Me,['Tank'],3v10vlZlZPApvDz3kE4aNe,2016,55,0.364,0.537,0.119,-5.912,,,0.298,242307.0,1.0,0.0,6.0,0.191,0.0,,22/01/2016,0.164,185.53,Energetic
+Angels We Have Heard on High,['Amelia van Hootens'],5RH7e8dotrJNLdfbDgXkxG,2016,58,0.578,0.0616,0.354,-23.99,,,0.994,138154.0,0.0,0.96,9.0,0.0866,1.0,,22/11/2016,0.052,77.716,Calm
+Snowfall,['Idealism'],3IL8NIwz2vZpy7fettGnZk,2016,58,0.511,0.325,0.47,-14.527,,,0.728,176500.0,0.0,0.391,0.0,0.0974,1.0,,19/12/2016,0.0754,83.122,Sad
+Surfin',"['Kid Cudi', 'Pharrell Williams']",3f2k8op0nWDoZM4pXim6wG,2016,57,0.809,0.685,0.827,-7.916,,,0.11,238387.0,1.0,0.00363,2.0,0.183,1.0,,30/09/2016,0.045,130.008,Happy
+Bad Decisions,['Ariana Grande'],1j0Rb762xxT0eccglHKsRv,2016,59,0.698,0.645,0.788,-5.368,,,0.0146,226427.0,1.0,0.0,4.0,0.269,0.0,,20/05/2016,0.0416,131.948,Happy
+Down,['R.K.M & Ken-Y'],0t0WIrjRcvgBAwLlby2gsZ,2016,65,0.801,0.773,0.796,-6.651,,,0.563,225693.0,0.0,0.00425,8.0,0.103,0.0,,04/11/2016,0.0896,94.988,Happy
+ChachachÃ¡,['JÃ³sean Log'],6aommJFM8i3iT4inKuDSXh,2016,75,0.68,0.321,0.416,-10.944,,,0.791,215986.0,0.0,4.67e-06,5.0,0.125,1.0,,14/10/2016,0.0376,110.827,Sad
+Midnight Daydream,['Jameson Rodgers'],03PTvKwCBFNGxIqvzVWHwg,2016,54,0.617,0.857,0.565,-5.756,,,0.512,189015.0,0.0,5.52e-06,4.0,0.136,1.0,,03/06/2016,0.0422,120.019,Happy
+The Bird,['Anderson .Paak'],7pamxApUs3CE8t7tKmUJ6Z,2016,57,0.488,0.645,0.595,-7.226,,,0.0838,217773.0,1.0,0.000355,11.0,0.154,1.0,,15/01/2016,0.421,148.733,Energetic
+Chucky vs. The Giant Tortoise,['Dance Gavin Dance'],44Ssjb20kLO6FshLp0gNZE,2016,55,0.405,0.973,0.484,-3.213,,,0.0298,236253.0,0.0,0.0,11.0,0.191,0.0,,07/10/2016,0.103,75.576,Energetic
+Light of the Seven,['Ramin Djawadi'],1SbsbLsUMnAKWHx1zAV6ER,2016,54,0.273,0.102,0.0583,-16.843,,,0.903,589095.0,0.0,0.721,0.0,0.268,0.0,,24/06/2016,0.0494,120.378,Sad
+Wave(s),['Lewis Del Mar'],3TTVgqpcMhzeymFY0OJ4Ia,2016,59,0.62,0.515,0.375,-8.174,,,0.505,238400.0,1.0,6.5e-05,4.0,0.103,0.0,,15/01/2016,0.172,73.997,Sad
+Te Vas,['Perdidos De Sinaloa'],6E5PU4i61dEahmW37mTtk9,2016,61,0.672,0.408,0.858,-5.98,,,0.566,219077.0,0.0,3.59e-06,2.0,0.0766,1.0,,27/04/2016,0.0272,99.989,Sad
+Merica (feat. Earl Dibbles Jr.),"['Granger Smith', 'Earl Dibbles Jr.']",3U1ebcYLCZGhXUefbLM80m,2016,54,0.516,0.896,0.742,-5.703,,,0.00236,270773.0,0.0,0.00106,0.0,0.13,0.0,,04/03/2016,0.0583,148.019,Happy
+Soft Rain Samples,['Natural Samples'],6Kfg9m0rNTOIvZPMkVar88,2017,63,0.165,0.998,1e-05,-18.424,,,0.147,236982.0,0.0,0.995,9.0,0.582,1.0,,05/05/2017,0.048,79.838,Calm
+Untouchable,['YoungBoy Never Broke Again'],6xL9MJ2yt39HPPZPyGkRy8,2017,59,0.768,0.79,0.398,-5.091,,,0.0754,180706.0,1.0,1.79e-06,1.0,0.13,1.0,,04/08/2017,0.191,84.95,Energetic
+Diamonds,['Danger Incorporated'],6ImNTJH4BqGfcx45IueM38,2017,62,0.614,0.618,0.269,-7.779,,,0.379,251857.0,1.0,3.8e-05,6.0,0.0784,1.0,,18/01/2017,0.0612,107.674,Sad
+Idgaf,['Sik World'],3Y6L3oiUydJIGsmk5zHlDO,2017,62,0.789,0.652,0.0775,-9.734,,,0.38,231857.0,1.0,1.57e-06,4.0,0.091,0.0,,11/12/2017,0.219,139.981,Energetic
+NO. 9,['Playboi Carti'],5Nq6lLSxphlsA6nQB0KtES,2017,61,0.885,0.607,0.391,-7.642,,,0.00973,199191.0,1.0,0.0,1.0,0.325,0.0,,14/04/2017,0.385,137.887,Energetic
+Moby Dick,['Jakey'],0ghq9ciZLPrFmlRCIUXgj0,2017,62,0.765,0.713,0.177,-4.969,,,0.174,195491.0,1.0,0.00734,0.0,0.207,1.0,,29/09/2017,0.0378,128.007,Happy
+Now I'm Up To My Neck With Offers,['$uicideBoy$'],1QSMyV4BAvNRwIpRzS8zWn,2017,61,0.792,0.862,0.345,-6.424,,,0.0569,167027.0,1.0,9.72e-06,6.0,0.181,0.0,,11/09/2017,0.428,137.887,Energetic
+Destiny,['NF'],5n4ZzdO7KtpxsDpoDTa3D6,2017,62,0.797,0.715,0.243,-6.054,,,0.404,239480.0,0.0,0.0,10.0,0.0891,0.0,,06/10/2017,0.233,112.044,Energetic
+What Do I Know?,['Ed Sheeran'],2pJZ1v8HezrAoZ0Fhzby92,2017,69,0.838,0.492,0.895,-5.69,,,0.251,237333.0,0.0,0.0,1.0,0.262,0.0,,03/03/2017,0.038,115.092,Happy
+Me Acostumbre (feat. Bad Bunny),"['Arcangel', 'Bad Bunny']",2FIm6YsSGL5acOqSuJDh5s,2017,67,0.808,0.586,0.568,-7.242,,,0.641,263288.0,1.0,0.0,10.0,0.14,0.0,,11/04/2017,0.169,124.041,Sad
+summertime,"['cinnamons', 'evening cinema']",172zA5Yn0YzayQWvEJuGAm,2017,68,0.688,0.704,0.849,-6.315,,,0.104,251818.0,0.0,0.0,3.0,0.0672,1.0,,07/08/2017,0.0303,131.969,Happy
+Betrayed,['Lil Xan'],6NWl2m8asvH83xjuXVNsuG,2017,62,0.823,0.419,0.277,-10.358,,,0.416,187453.0,1.0,0.0,10.0,0.105,0.0,,19/10/2017,0.165,119.958,Sad
+Te FallÃ©,['Christian Nodal'],2UDoZZSrs3NxlmvFZbffr4,2017,70,0.568,0.453,0.508,-5.061,,,0.317,231173.0,0.0,0.0,10.0,0.121,1.0,,25/08/2017,0.0284,162.129,Sad
+Sleep Easy Rain,['Rain Storm Sample Library'],0zL4obhcqLn9Ke2G3iNMd9,2017,63,0.158,0.317,0.0251,-18.64,,,0.182,229347.0,0.0,0.994,5.0,0.377,1.0,,12/04/2017,0.0908,111.15,Calm
+All Eyes on Me,['Or3o'],0gg5h5BgdjVlXTti79TUao,2017,63,0.563,0.808,0.372,-4.728,,,0.207,242774.0,0.0,1.32e-06,5.0,0.282,0.0,,13/12/2017,0.0944,110.023,Energetic
+hometown,['cleopatrick'],6p8DGrcAUBuLUgDIKcUn0P,2017,64,0.315,0.826,0.359,-4.314,,,0.00064,256072.0,0.0,0.000687,7.0,0.0703,0.0,,25/10/2017,0.0636,139.161,Energetic
+Raingurl,['Yaeji'],5z1wOyEyoRu0HTkXYvuqiH,2017,67,0.929,0.573,0.305,-6.934,,,0.0173,237231.0,0.0,0.00347,6.0,0.122,0.0,,03/11/2017,0.0511,128.037,Happy
+Rain All Night,['Lluvia PQ'],1SyVxxXzBEXtyP2duLCgT9,2017,63,0.103,0.999,0.00126,-15.465,,,0.123,207707.0,0.0,0.998,10.0,0.407,0.0,,12/04/2017,0.059,90.897,Calm
+I Fall in Love Too Easliy,['Caleb Belkin'],4BGfM7Faj0dyEnSuaOw67j,2017,63,0.662,0.349,0.234,-14.022,,,0.637,139691.0,0.0,0.00213,5.0,0.124,0.0,,16/07/2017,0.214,141.951,Sad
+Fear Is a Liar,['Zach Williams'],6Z85UCEueQcgSyChlrEu5G,2017,59,0.456,0.438,0.0972,-8.457,,,0.163,265120.0,0.0,0.0,5.0,0.194,1.0,,15/09/2017,0.0286,144.047,Sad
+GOD.,['Kendrick Lamar'],5p3NP9mQblDsVJLdfNZJ3I,2017,62,0.706,0.557,0.205,-5.8,,,0.0347,248827.0,1.0,0.0,0.0,0.276,1.0,,14/04/2017,0.0813,132.98,Happy
+Lo Que Siento,['Cuco'],3zoFkjJCH2ntsad8kfRhyi,2017,63,0.399,0.665,0.445,-5.915,,,0.499,311986.0,0.0,0.0,10.0,0.384,1.0,,20/01/2017,0.112,129.745,Sad
+Feel Something,['Jaymes Young'],0vMI3AJPQMjytAu8XMWr65,2017,66,0.61,0.59,0.352,-7.325,,,0.694,217400.0,0.0,2.32e-06,11.0,0.15,0.0,,23/06/2017,0.0362,137.838,Sad
+Questions,['Chris Brown'],3ojTJaonfkL96iIWa47SU3,2017,67,0.614,0.598,0.565,-6.335,,,0.00543,129478.0,0.0,0.0,10.0,0.1,0.0,,31/10/2017,0.0561,105.803,Happy
+Rain in the Park,['Rain Sounds ACE'],5aVTpbRU7DM9GfCNydb9MR,2017,63,0.0,0.654,0.0,-14.77,,,0.106,164452.0,0.0,1.0,3.0,0.859,0.0,,05/05/2017,0.0,0.0,Calm
+BOOGIE,['BROCKHAMPTON'],3NuN59jpH3B5cNa2M4r7XG,2017,63,0.604,0.933,0.28,-3.034,,,0.0137,193155.0,1.0,0.0,1.0,0.37,1.0,,15/12/2017,0.214,110.029,Energetic
+ILYSB,['LANY'],2btKtacOXuMtC9WjcNRvAA,2017,68,0.636,0.623,0.389,-7.016,,,0.468,211150.0,0.0,0.00453,5.0,0.351,1.0,,30/06/2017,0.0603,100.026,Sad
+Marcel,"[""Her's""]",5u9cuDcYdOpSRB7fAYXXdp,2017,61,0.625,0.645,0.685,-5.959,,,0.54,187572.0,0.0,0.0776,9.0,0.347,1.0,,12/05/2017,0.0278,106.996,Sad
+No Me Hubiera Enamorado,['Cornelio Vega y su Dinastia'],6XiSceaDaO2vaYF2B2A70t,2017,68,0.772,0.608,0.776,-5.746,,,0.45,207365.0,0.0,0.0,10.0,0.0897,1.0,,10/11/2017,0.0515,148.081,Happy
+Miss It,['Yung Bleu'],5WPXnJulBVflChZ8qIe91d,2017,59,0.704,0.534,0.189,-7.028,,,0.0243,245947.0,1.0,0.0,8.0,0.0824,1.0,,18/08/2017,0.276,104.99,Energetic
+Slow Hands,['Niall Horan'],27vTihlWXiz9f9lJM3XGVU,2017,63,0.735,0.423,0.851,-6.652,,,0.011,188174.0,0.0,0.0,0.0,0.0553,1.0,,04/05/2017,0.0459,85.899,Happy
+Crawl Outta Love,"['ILLENIUM', 'Annika Wells']",0q7oMII7kWTj1ZSX6GT6LU,2017,62,0.376,0.723,0.167,-2.951,,,0.178,242012.0,0.0,0.0,7.0,0.0815,1.0,,21/09/2017,0.046,84.146,Sad
+Girl Like You,['Toro y Moi'],6TFUZ8Bt1brEwomY90SKXi,2017,59,0.629,0.823,0.397,-5.744,,,0.35,223773.0,0.0,0.039,1.0,0.0801,1.0,,07/07/2017,0.0597,169.961,Sad
+Rain Sounds: Rainfall,['Sky Fall SF'],4j6NKbX08MJRruVUttANU8,2017,63,0.175,0.835,1e-05,-22.591,,,0.127,142502.0,0.0,0.932,1.0,0.959,1.0,,05/05/2017,0.0516,132.874,Happy
+MICHUUL.,['Duckwrth'],3iGNoYKIabGohB9A0C7dKU,2017,62,0.846,0.681,0.696,-6.172,,,0.384,186200.0,1.0,1.02e-05,1.0,0.185,1.0,,03/11/2017,0.144,117.978,Happy
+India,['Lil Durk'],2bPYtv3okqX5zpSxtwLBuu,2017,60,0.79,0.56,0.133,-7.043,,,0.0787,264862.0,1.0,0.0,1.0,0.344,1.0,,19/10/2017,0.341,145.012,Energetic
+The First Time,['Elliott Trent'],4HQYvC3uJxW3KDGxMln19H,2017,61,0.691,0.381,0.364,-13.269,,,0.594,240091.0,1.0,0.0,2.0,0.109,0.0,,19/05/2017,0.235,109.918,Sad
+Cotton Candy Skies,['Esthie'],4yWCiMOk150jbE3NPuhXHu,2017,62,0.71,0.187,0.586,-15.505,,,0.976,120348.0,0.0,4.32e-06,2.0,0.0939,1.0,,25/09/2017,0.0359,85.029,Sad
+Smoke Signals,['Phoebe Bridgers'],5g97GAdru7XfeJyJhViIll,2017,62,0.342,0.237,0.186,-14.601,,,0.945,324773.0,0.0,0.000267,10.0,0.112,1.0,,22/09/2017,0.0384,117.824,Sad
+Just A Dream,"['Kurt Hugo Schneider', 'Christina Grimmie', 'Sam Tsui']",0QfmQhr5npxuWQ4zzUDUhB,2017,71,0.439,0.751,0.221,-7.632,,,0.193,263598.0,0.0,4.61e-05,9.0,0.0577,1.0,,14/11/2017,0.0527,164.103,Energetic
+Safari Song,['Greta Van Fleet'],1BfR5GMOgW0peHkPxrwf11,2017,64,0.362,0.928,0.678,-4.015,,,0.164,234600.0,0.0,1.61e-05,2.0,0.315,1.0,,10/11/2017,0.0503,175.868,Energetic
+Carry You,['Novo Amor'],0u4rkpmNtgcFxYHepnVF4v,2017,66,0.334,0.397,0.035,-7.993,,,0.558,273107.0,0.0,0.0774,7.0,0.126,1.0,,26/05/2017,0.0284,93.445,Sad
+Jennifer,['Trinidad Cardona'],5ZJ9wxMqAhIOekYLmukc2L,2017,62,0.757,0.769,0.774,-6.291,,,0.518,213540.0,1.0,0.0,5.0,0.334,0.0,,11/09/2017,0.0992,124.129,Happy
+White Noise - BP 228 hz,['Granular'],2eWqBNH136U8Et0UTxBacB,2017,64,0.0,2.03e-05,0.0,-27.194,,,0.872,104516.0,0.0,1.0,1.0,0.0954,1.0,,14/10/2017,0.0,0.0,Calm
+My Dawg,"['Quality Control', 'Lil Baby', 'Kodak Black', 'Quavo', 'Moneybagg Yo']",49K3jbwZmZKaDGTfjpIVg0,2017,59,0.911,0.637,0.615,-7.251,,,0.0259,317701.0,1.0,0.0,1.0,0.104,1.0,,08/12/2017,0.112,133.036,Happy
+Sacrifices,"['Drake', '2 Chainz', 'Young Thug']",0xl1w2q4VLojeXp4JfazPL,2017,62,0.903,0.439,0.532,-11.813,,,0.0407,307593.0,1.0,0.0,8.0,0.138,1.0,,18/03/2017,0.397,139.112,Happy
+Remind Me to Forget,"['Kygo', 'Miguel']",6xTU6B6nFwKKTSZ9ySXS80,2017,66,0.689,0.505,0.312,-6.389,,,0.158,217293.0,0.0,0.0,0.0,0.138,1.0,,03/11/2017,0.0933,99.017,Happy
+Funeral,['Phoebe Bridgers'],2Tbym0L4Xlox9nol0YzPct,2017,62,0.215,0.263,0.307,-14.416,,,0.947,232373.0,0.0,0.00028,11.0,0.0919,1.0,,22/09/2017,0.0378,172.332,Sad
+Lonely Together (feat. Rita Ora),"['Avicii', 'Rita Ora']",75NhhYjHO43mvZgYtnXgti,2017,71,0.655,0.666,0.272,-5.309,,,0.134,181812.0,0.0,2.12e-05,5.0,0.0683,1.0,,10/08/2017,0.0612,102.977,Happy
+Peek-A-Boo,['Red Velvet'],42tFTth2jcF7iSo0RBjfJF,2017,69,0.839,0.902,0.639,-3.612,,,0.0868,189050.0,0.0,0.00257,1.0,0.272,0.0,,17/11/2017,0.0536,114.953,Energetic
+Aahhyeahh,['Oliver Francis'],6q22ySlGYH8PEcciOeN1Ki,2017,61,0.631,0.675,0.0626,-9.83,,,0.0223,185491.0,0.0,0.136,3.0,0.358,1.0,,03/04/2017,0.0634,144.985,Energetic
+Never Enough (Reprise),['Loren Allred'],6f8b6mxNNDJdE5tC4MCTxt,2017,66,0.382,0.0541,0.133,-19.376,,,0.889,80293.0,0.0,2.88e-06,9.0,0.0832,1.0,,08/12/2017,0.03,82.486,Sad
+Ghost Duet,['Louie Zong'],4MVk79dmYqi7HQs0bMgboy,2017,62,0.707,0.234,0.611,-16.523,,,0.96,60004.0,0.0,0.861,7.0,0.124,1.0,,31/10/2017,0.0864,78.036,Calm
+At My Best (feat. Hailee Steinfeld),"['Machine Gun Kelly', 'Hailee Steinfeld']",77lGafvlU68CeHgB2pkHC9,2017,63,0.524,0.772,0.237,-6.696,,,0.00273,199973.0,0.0,0.000169,7.0,0.224,0.0,,12/05/2017,0.152,169.855,Energetic
+Butterflies,['Samsa'],6kVku2CoE7fbD29miiutzw,2017,60,0.54,0.744,0.925,-10.942,,,0.307,199184.0,1.0,8.95e-05,1.0,0.103,1.0,,16/05/2017,0.405,92.207,Energetic
+Habits,['Machine Gun Kelly'],7IHznpBxFDKwGSFFZitRk2,2017,61,0.664,0.597,0.201,-8.835,,,0.0152,200116.0,1.0,0.00218,0.0,0.0915,1.0,,12/05/2017,0.0437,143.99,Energetic
+Ambiente Lluvia,['Sample Rain Library'],5fhZ8Pd7ieNCeebaLZDjN3,2017,63,0.112,0.536,0.0237,-20.181,,,0.125,257433.0,0.0,0.965,0.0,0.385,0.0,,12/04/2017,0.072,95.393,Calm
+Shinzo wo Sasageyo! - TV Size,['Linked Horizon'],27iksNpaur1CcH0w8703by,2017,67,0.435,0.953,0.612,-5.327,,,0.246,90000.0,0.0,0.0,0.0,0.123,1.0,,02/04/2017,0.0423,79.959,Happy
+We Don't Luv Em,['HoodRich Pablo Juan'],7Ay41oJQbfdIrhfNy46PuD,2017,62,0.861,0.627,0.929,-6.438,,,0.35,186096.0,1.0,0.0,4.0,0.112,1.0,,06/10/2017,0.342,139.989,Happy
+Song #3,['Stone Sour'],5jsDxDkJ1PqyYUWhDMr86B,2017,64,0.481,0.945,0.427,-5.468,,,0.00264,256533.0,0.0,0.0,1.0,0.135,1.0,,30/06/2017,0.0813,157.059,Energetic
+No Effort,['Tee Grizzley'],6iF5JgF1GNUQwlnsgnMzUu,2017,59,0.895,0.698,0.325,-6.575,,,0.565,193020.0,1.0,0.0,1.0,0.305,1.0,,07/04/2017,0.207,99.998,Sad
+Faking It (feat. Kehlani & Lil Yachty),"['Calvin Harris', 'Kehlani', 'Lil Yachty', 'Funk Wav']",0pJPdSVti6cTM1Q6xYGmcf,2017,62,0.776,0.589,0.668,-4.543,,,0.319,240093.0,1.0,0.0,9.0,0.0715,0.0,,30/06/2017,0.115,120.034,Happy
+Freak in You,['PARTYNEXTDOOR'],16aNJYinJv9AAetWD5yJen,2017,62,0.424,0.419,0.119,-8.503,,,0.144,272340.0,1.0,0.0,1.0,0.174,1.0,,02/06/2017,0.054,86.5,Sad
+No Frauds,"['Nicki Minaj', 'Drake', 'Lil Wayne']",7KcGEssn7BnJdTgildK5y0,2017,63,0.867,0.558,0.432,-6.975,,,0.0884,272453.0,1.0,4.05e-06,1.0,0.541,1.0,,10/03/2017,0.258,139.061,Energetic
+Skateboard P (feat. Big Sean),"['MadeinTYO', 'Big Sean']",72UCHNyJcymw81x0AKevho,2017,61,0.831,0.47,0.339,-7.48,,,0.0371,242307.0,1.0,0.0,1.0,0.144,0.0,,15/02/2017,0.425,75.474,Happy
+Never in My Wildest Dreams,['Dan Auerbach'],3MJov5mT64K42o1Rffhblq,2017,64,0.559,0.466,0.623,-6.769,,,0.315,176027.0,0.0,0.0039,5.0,0.0933,1.0,,02/06/2017,0.0362,117.21,Sad
+Garden Shed (feat. Estelle),"['Tyler, The Creator', 'Estelle']",6ACiYjq5Q7e6BlhZEHz7cd,2017,62,0.423,0.456,0.148,-8.45,,,0.381,223947.0,1.0,0.016,2.0,0.12,0.0,,21/07/2017,0.0579,112.984,Sad
+Slow Down Love,"['Louis The Child', 'Chelsea Cutler']",7LtqwGP2UIj0FHbOsqm6VG,2017,60,0.618,0.59,0.285,-7.751,,,0.559,157891.0,0.0,3.42e-05,11.0,0.208,0.0,,24/03/2017,0.359,127.275,Happy
+There You Are,['ZAYN'],5y4XJ9UFS5eOdoYPF5pSAE,2017,69,0.452,0.688,0.313,-4.84,,,0.0263,199600.0,0.0,0.0,0.0,0.11,0.0,,2017,0.0385,76.99,Happy
+Ayala (Outro),['XXXTENTACION'],5xbrhx2tMMcN68IT3cJbhS,2017,64,0.57,0.285,0.0973,-14.125,,,0.737,99707.0,1.0,0.0133,9.0,0.108,0.0,,25/08/2017,0.0381,83.485,Sad
+Dusk Till Dawn (feat. Sia) - Radio Edit,"['ZAYN', 'Sia']",3e7sxremeOE3wTySiOhGiP,2017,72,0.259,0.437,0.0951,-6.589,,,0.102,239000.0,0.0,1.32e-06,11.0,0.106,0.0,,2017,0.0386,180.042,Sad
+"American Dream (feat. J. Cole, Kendrick Lamar)","['Jeezy', 'J. Cole', 'Kendrick Lamar']",2j8MsmmNqmc6UBEA54KOlY,2017,60,0.64,0.849,0.64,-5.684,,,0.058,249040.0,1.0,0.0,2.0,0.303,1.0,,15/12/2017,0.153,76.983,Energetic
+X,['Lil Uzi Vert'],5tRmoZRoupvMYPV1oezFrH,2017,60,0.623,0.58,0.301,-7.076,,,0.0043,173798.0,1.0,0.0,8.0,0.394,1.0,,25/08/2017,0.332,163.159,Energetic
+777,"['Kid Trunks', 'XXXTENTACION']",7dI3HTnuicC2aKkXigoFS2,2017,63,0.793,0.312,0.525,-12.01,,,0.325,180707.0,1.0,0.00324,3.0,0.111,0.0,,14/07/2017,0.0602,84.97,Sad
+ACID TRIP,['Rejjie Snow'],7Es2OBtD2DPHfz6gqSWH8Z,2017,58,0.72,0.562,0.393,-7.642,,,0.0359,188293.0,0.0,0.0,2.0,0.126,1.0,,17/05/2017,0.0367,98.943,Happy
+Ho hey,['Ronald Emery'],2ahwerIzRcGeSMQnZ2DDJa,2017,65,0.394,0.0281,0.301,-23.71,,,0.995,212400.0,0.0,0.969,1.0,0.108,1.0,,26/04/2017,0.0666,200.615,Calm
+Real Hitta (feat. Kodak Black),"['Plies', 'Kodak Black']",1fnRwgZLgAYMM1dVL1oqwG,2017,58,0.559,0.531,0.333,-6.981,,,0.0137,231674.0,1.0,0.0,10.0,0.293,0.0,,12/05/2017,0.404,144.367,Energetic
+Daylily,['Movements'],6AgtouHw1KrKy1PsoLjY3o,2017,60,0.565,0.778,0.421,-5.475,,,0.00195,208853.0,0.0,0.00129,2.0,0.156,1.0,,20/10/2017,0.028,104.067,Energetic
+Dark Rain Sound,['Sample Rain Library'],6IMPIkbRTfw1GIb4w270Vr,2017,63,0.146,0.00279,1e-05,-19.075,,,0.14,218050.0,0.0,0.994,2.0,0.885,0.0,,12/04/2017,0.0676,106.126,Calm
+Likey,['TWICE'],4P66rfizAl2nIJCICSMymC,2017,69,0.722,0.903,0.445,-1.261,,,0.42,207813.0,0.0,0.000371,4.0,0.118,0.0,,30/10/2017,0.0331,132.006,Happy
+The Girl I Haven't Met,['Kudasaibeats'],00iwQgjIgoGO94BRBDyClo,2017,63,0.785,0.222,0.327,-21.624,,,0.86,195000.0,0.0,0.84,8.0,0.106,1.0,,20/12/2017,0.0418,139.885,Calm
+Black & Chinese,"['Huncho Jack', 'Travis Scott', 'Quavo']",628Ueb4sRiXApObhcU9iPU,2017,64,0.668,0.844,0.33,-4.151,,,0.00389,172017.0,1.0,0.00879,1.0,0.119,1.0,,21/12/2017,0.0956,159.108,Energetic
+Both Eyes Closed (feat. 2 Chainz and Young Dolph),"['Gucci Mane', '2 Chainz', 'Young Dolph']",5HtziFfFGxXpugCqZaAHoY,2017,59,0.704,0.558,0.414,-6.042,,,0.379,260009.0,1.0,0.000111,1.0,0.407,1.0,,26/05/2017,0.287,163.964,Happy
+Go To War,['Nothing More'],4A0LV6W7IUKPP2pyAZ356E,2017,61,0.461,0.892,0.35,-4.807,,,0.00187,245196.0,1.0,1.34e-06,6.0,0.0942,0.0,,15/09/2017,0.0901,137.35,Energetic
+ExplÃ­cale (feat. Bad Bunny),"['Yandel', 'Bad Bunny']",1LszjjoVwDDZcWUQbzeDLG,2017,67,0.808,0.69,0.64,-4.151,,,0.0583,223147.0,0.0,0.0,1.0,0.103,1.0,,08/09/2017,0.148,125.086,Happy
+"Go Off (with Lil Uzi Vert, Quavo & Travis Scott)","['Lil Uzi Vert', 'Quavo', 'Travis Scott']",53MHr9cjIlwet0mpmqNvjC,2017,58,0.733,0.777,0.724,-2.83,,,0.0256,217561.0,0.0,0.0,8.0,0.239,0.0,,02/03/2017,0.0791,88.494,Happy
+We Stayed Up All Night,"['Tourist', 'Ardyn']",7eSWgAlmLPXbGxgH3RNoWh,2017,63,0.519,0.843,0.592,-6.508,,,0.214,265759.0,0.0,0.000446,11.0,0.21,1.0,,28/06/2017,0.0431,84.997,Happy
+pop a pill,['gianni & kyle'],15VIPlqNYLgN6T43kBAClE,2017,61,0.688,0.551,0.558,-6.299,,,0.184,180808.0,1.0,0.0,0.0,0.159,0.0,,18/10/2017,0.229,162.118,Happy
+I Ain't Got Time!,"['Tyler, The Creator']",430qNtapCS3Ue1yoSql1oV,2017,62,0.549,0.725,0.547,-7.239,,,0.0539,206267.0,1.0,3.52e-05,1.0,0.148,1.0,,21/07/2017,0.397,108.822,Energetic
+High,['Sir Sly'],17aDyX39gb1iV1ZWvD1ffE,2017,61,0.743,0.733,0.726,-5.576,,,0.00705,231897.0,0.0,0.00753,2.0,0.0565,1.0,,30/06/2017,0.0352,122.975,Happy
+I'm Done.,['$uicideBoy$'],4SfkdEVtC16VvjCyDvN60N,2017,62,0.819,0.862,0.678,-6.641,,,0.0957,158459.0,1.0,0.00147,10.0,0.0853,0.0,,07/09/2017,0.0647,99.966,Happy
+Curve (feat. The Weeknd),"['Gucci Mane', 'The Weeknd']",2yuyaYAELoMG4ApV5wJsWR,2017,62,0.76,0.476,0.354,-8.103,,,0.294,161990.0,1.0,0.0,8.0,0.1,1.0,,13/10/2017,0.241,147.01,Energetic
+Pothole (feat. Jaden Smith),"['Tyler, The Creator', 'Jaden']",5SxlUF7J8tyFIEF22EomeP,2017,62,0.543,0.572,0.569,-8.974,,,0.51,237000.0,1.0,7.23e-06,11.0,0.28,1.0,,21/07/2017,0.338,89.386,Happy
+Idk How to Kill Myself,['Yunggothâœ°'],1Dy3UTkDu5vO1cPgiFYdSE,2017,63,0.434,0.656,0.185,-6.063,,,0.617,136620.0,1.0,0.00126,10.0,0.107,1.0,,27/10/2017,0.0375,115.879,Sad
+Sociopath,"['StayLoose', 'Bryce Fox']",0xx5CXMss5CFv2GPkg97aC,2017,64,0.611,0.562,0.318,-7.849,,,0.0767,204827.0,1.0,3.23e-06,1.0,0.118,0.0,,06/10/2017,0.0874,74.994,Energetic
+my new love,['Elijah Who'],23gcQr3NRKzLXsP9H5jFQ1,2017,63,0.614,0.277,0.236,-11.943,,,0.967,65790.0,0.0,0.891,1.0,0.0698,0.0,,29/09/2017,0.042,84.938,Calm
+Sweet Love,['Anita Baker'],3Z6DV0jsGqCs4whsfda7lX,2017,57,0.504,0.728,0.683,-5.699,,,0.36,266201.0,0.0,0.0,10.0,0.159,0.0,,23/06/2017,0.0234,89.255,Happy
+Jasmine,['DPR LIVE'],2IgbYlOlFpiSFYnsqB39lM,2017,64,0.597,0.486,0.397,-5.893,,,0.331,201511.0,0.0,0.0,8.0,0.14,1.0,,08/10/2017,0.0986,137.68,Sad
+Drinkin' Problem,['Midland'],2qcHhMi1MQBDEtzy8p4tRR,2017,59,0.622,0.763,0.621,-6.4,,,0.055,221467.0,0.0,8.91e-06,9.0,0.315,1.0,,22/09/2017,0.0263,102.0,Happy
+Saturnz Barz (feat. Popcaan),"['Gorillaz', 'Popcaan']",7l9CE3wmEGOUYw1j4ETjnL,2017,65,0.383,0.621,0.213,-5.878,,,0.0272,181907.0,0.0,0.0,6.0,0.427,0.0,,28/04/2017,0.113,80.051,Energetic
+Some,['BOL4'],3mmLyEhphJAaW7hyEXAD8l,2017,73,0.659,0.799,0.782,-2.849,,,0.417,181373.0,0.0,0.0,1.0,0.0562,0.0,,28/09/2017,0.0629,103.99,Happy
+Candy Wrappers,['Summer Salt'],2WrzwxqDxBWcWYkk9DAJ9j,2017,61,0.691,0.546,0.483,-7.33,,,0.696,194418.0,0.0,0.415,5.0,0.302,1.0,,18/07/2017,0.0263,95.047,Sad
+Miss You,['Louis Tomlinson'],3zxrecYFao03IrrcyFiaMU,2017,70,0.541,0.69,0.681,-5.391,,,0.0216,182026.0,1.0,0.0,3.0,0.257,1.0,,01/12/2017,0.206,180.239,Happy
+Love U Better (feat. Lil Wayne & The-Dream),"['Ty Dolla $ign', 'Nathaniel Alford', 'Twice As Nice', 'Lil Wayne', 'The-Dream']",270aLuFCbX32hhBr8MQyPM,2017,62,0.645,0.541,0.411,-6.312,,,0.0802,181880.0,1.0,0.0,10.0,0.325,0.0,,27/10/2017,0.0385,95.061,Happy
+Serenity Rain,['Rain Storm Sample Library'],1LjsSXsKZ4mi7eP6NA8Au8,2017,62,0.153,0.996,1e-05,-16.574,,,0.121,177022.0,0.0,0.999,10.0,0.755,0.0,,12/04/2017,0.047,94.976,Energetic
+I Like Me Better - Recorded at Spotify Studios NYC,['Lauv'],2uQNcZYa0SEbfW4cj0d9OS,2017,67,0.454,0.151,0.362,-13.444,,,0.777,202685.0,0.0,0.0,9.0,0.0792,1.0,,19/07/2017,0.06,90.187,Sad
+Found You,"['Kasbo', 'Chelsea Cutler']",05IyD7K9Q4lgu8W4Xfi9Lx,2017,59,0.478,0.634,0.121,-6.092,,,0.395,196010.0,0.0,0.00889,0.0,0.599,1.0,,04/04/2017,0.0728,180.185,Happy
+Awakening Rain,"['Rain Sounds', 'Mindfulness Meditation Music Spa Maestro', 'Mindfulness Mediation World']",7wOv2XP17ZZHzEWoBmbi9t,2017,63,0.29,0.997,0.00447,-22.985,,,0.689,130901.0,0.0,0.962,1.0,0.913,0.0,,15/10/2017,0.0492,78.73,Calm
+For Forever,['Ben Platt'],0ZWW07BD8W85lUbgx2sn7E,2017,62,0.371,0.457,0.166,-7.674,,,0.222,301013.0,0.0,0.0,5.0,0.0882,1.0,,03/02/2017,0.0407,96.269,Sad
+Stargazing,"['Kygo', 'Justin Jesso']",0Zbbxnx4SGGHoIow4PpISP,2017,70,0.677,0.497,0.419,-5.763,,,0.152,236853.0,0.0,0.0,5.0,0.0911,1.0,,21/09/2017,0.0809,99.137,Happy
+Champagne & Sunshine (Ellusive Remix),"['PLVTINUM', 'Tarro', 'Ellusive']",1H47LILEj9nGb74EPcZKWw,2017,63,0.568,0.79,0.566,-4.411,,,0.174,184000.0,1.0,0.0,8.0,0.269,1.0,,31/03/2017,0.0791,109.747,Happy
+The Man,['The Killers'],5aWhs651KYM26HYM16kRdk,2017,66,0.606,0.942,0.519,-2.598,,,0.0737,250093.0,0.0,2.23e-06,6.0,0.0709,0.0,,22/09/2017,0.115,106.02,Energetic
+Outcast,['NF'],0we7ShV1o6cPTFjxOADPbC,2017,62,0.739,0.751,0.321,-7.161,,,0.165,325720.0,0.0,0.0,2.0,0.0599,1.0,,06/10/2017,0.349,130.176,Energetic
+Okay,['Chase Atlantic'],492PZFHvGTm3RZZYeeUVWT,2017,65,0.614,0.815,0.431,-6.784,,,0.112,212307.0,1.0,0.0,0.0,0.121,1.0,,04/10/2017,0.131,130.049,Energetic
+Don't Wanna Cry,['SEVENTEEN'],6Upu6yjkdi0DVI8E3IBZEU,2017,70,0.781,0.683,0.722,-4.258,,,0.164,203427.0,0.0,1.53e-06,0.0,0.16,1.0,,22/05/2017,0.0325,100.005,Happy
+Strangers,"['Halsey', 'Lauren Jauregui']",11EDhDAVDtGPoSar6ootYA,2017,64,0.69,0.784,0.284,-4.724,,,0.01,221206.0,0.0,4.08e-05,11.0,0.22,1.0,,02/06/2017,0.056,109.969,Energetic
+Good Life (with G-Eazy & Kehlani),"['G-Eazy', 'Kehlani']",1Eck97uRMlprKOOJN9oO1E,2017,59,0.565,0.771,0.573,-5.22,,,0.00464,225526.0,0.0,0.0,1.0,0.0568,1.0,,16/03/2017,0.213,168.385,Energetic
+Tell It All Town,['Koe Wetzel'],6GsNYeGGsV4nz3IqRLAMjK,2017,57,0.595,0.281,0.385,-9.4,,,0.325,232661.0,0.0,0.0,0.0,0.143,1.0,,01/03/2017,0.0268,129.941,Sad
+This Is Me,"['Keala Settle', 'The Greatest Showman Ensemble']",2xGjteMU3E1tkEPVFBO08U,2017,66,0.284,0.704,0.1,-7.276,,,0.00583,234707.0,0.0,0.000115,2.0,0.0424,1.0,,27/10/2017,0.186,191.702,Energetic
+Loose,['Daniel Caesar'],59acp1OhcvxwVBwQJBYKuX,2017,61,0.198,0.162,0.0527,-15.815,,,0.926,185523.0,0.0,0.00896,1.0,0.135,1.0,,25/08/2017,0.0343,70.453,Sad
+Promise to Love Her,['Blane Howard'],3lUg5sjsXAJD6BAULCFTA5,2017,59,0.54,0.513,0.51,-6.978,,,0.713,197658.0,0.0,0.0,11.0,0.149,1.0,,10/03/2017,0.0331,78.862,Sad
+Pineapple Skies,['Miguel'],19EnyPZhNPbRoCxAuv5pKD,2017,62,0.654,0.587,0.288,-6.331,,,0.026,281360.0,0.0,0.0,10.0,0.589,1.0,,01/12/2017,0.0439,100.014,Happy
+Slow Dance In A Parking Lot,['Jordan Davis'],5kp3JbZL1ROMxc32pcpn29,2017,60,0.519,0.833,0.514,-4.47,,,0.303,193929.0,0.0,1.39e-06,7.0,0.169,1.0,,01/01/2017,0.0344,81.992,Happy
+Call It Dreaming,['Iron & Wine'],1MxHIIzcTeFnaNsDGY3pfj,2017,64,0.512,0.501,0.726,-9.971,,,0.609,231755.0,0.0,6.25e-05,5.0,0.0973,1.0,,25/08/2017,0.0325,79.989,Sad
+Que Te Vaya Bien,['Grupo Jalado'],5IdaVuUzEDF3T56U5vS5ck,2017,65,0.822,0.705,0.938,-3.147,,,0.495,217587.0,0.0,1.2e-05,7.0,0.115,1.0,,07/09/2017,0.0373,94.011,Happy
+Vengo a Aclarar - En Vivo,"['El Fantasma', 'Banda los Populares del Llano']",3APlmd8L4fTpLioW9i8WhZ,2017,64,0.818,0.412,0.866,-6.007,,,0.617,156592.0,0.0,0.0,10.0,0.254,1.0,,24/01/2017,0.109,115.348,Sad
+Infant Airplane Training Pink Noise - Loopable with No Fade,['Pink Noise Babies'],595FX7UUfZmbFgf0LzrwSX,2017,64,0.161,0.162,0.0283,-26.315,,,0.241,195195.0,0.0,0.973,1.0,0.112,1.0,,04/09/2017,0.115,127.795,Calm
+You Might Be Sleeping,"['Jakob Ogawa', 'Clairo']",2KvbRojbZGMsWr1Nuj5n2f,2017,62,0.587,0.565,0.508,-9.249,,,0.731,147093.0,0.0,0.341,7.0,0.169,1.0,,16/06/2017,0.0265,92.604,Sad
+Play Wit Yo' Bitch,['Young Dolph'],1QstbjmlSF0xMxGIdvhiGh,2017,57,0.784,0.459,0.277,-7.614,,,0.00469,310399.0,1.0,0.0,1.0,0.25,1.0,,03/02/2017,0.311,75.974,Happy
+Sailor Moon,['lilbootycall'],4a7pHqkM05VQj1ZH5onbHx,2017,60,0.7,0.377,0.181,-15.07,,,0.0959,148606.0,0.0,0.0,9.0,0.133,1.0,,16/10/2017,0.342,130.003,Energetic
+Thief - Flux Pavilion Remix,"['Ookay', 'Flux Pavilion']",6btkdvumrTmcFzy3oFpZqS,2017,60,0.55,0.858,0.577,-2.58,,,0.041,271749.0,0.0,0.199,6.0,0.0562,1.0,,18/08/2017,0.0357,145.169,Happy
+Calming Sea Sound,['The Sound Designers'],2bPAX8bgA99aDcLveZpZeW,2017,61,0.0659,0.83,1e-05,-16.107,,,0.135,112303.0,0.0,0.019,1.0,0.224,1.0,,09/01/2017,0.0591,77.408,Energetic
+"If You Need To, Keep Time on Me",['Fleet Foxes'],7d0XkI4iJ32nxeFAHFXbLQ,2017,64,0.521,0.22,0.135,-10.202,,,0.647,210507.0,0.0,0.00814,9.0,0.179,1.0,,16/06/2017,0.0314,104.03,Sad
+Graceland,['Justin Townes Earle'],2UduNMj9tpsEcBTur8VwH2,2017,58,0.566,0.231,0.616,-13.718,,,0.938,194640.0,0.0,2.58e-06,11.0,0.109,1.0,,28/04/2017,0.0314,104.136,Sad
+Bottom Of The Deep Blue Sea,['MISSIO'],6AvslIXIi9iaGvukefyVVK,2017,63,0.573,0.754,0.241,-4.788,,,0.0248,231587.0,0.0,0.00019,4.0,0.104,1.0,,19/05/2017,0.0329,132.964,Energetic
+Oh Devil,['Electric Guest'],1kcfGBb6kSrGqNIMW7rAlB,2017,58,0.903,0.532,0.701,-7.188,,,0.122,217587.0,0.0,0.0345,7.0,0.176,0.0,,17/02/2017,0.0593,96.991,Happy
+Rainy Alley,['Rain Recorders'],1ewDC0xdTNVmzszuZ93BiO,2017,62,0.152,0.206,1e-05,-21.578,,,0.119,205811.0,0.0,0.993,3.0,0.885,0.0,,09/01/2017,0.0574,108.785,Calm
+you're my world,['atlas'],7tjLhVohcthjLc72nXrWT2,2017,60,0.785,0.563,0.425,-7.805,,,0.655,157038.0,1.0,0.00916,6.0,0.108,1.0,,29/08/2017,0.103,86.025,Sad
+Thief,['Ansel Elgort'],3BtA1koBtnClfirgg4BpjI,2017,62,0.592,0.741,0.379,-3.792,,,0.0251,220680.0,0.0,0.0,1.0,0.111,0.0,,27/01/2017,0.0842,180.038,Energetic
+I'm Just Snacking,['Gus Dapperton'],6413UUgINHbZsCJeJBFlmT,2017,61,0.615,0.475,0.378,-7.351,,,0.135,198117.0,0.0,4.1e-06,8.0,0.235,0.0,,17/05/2017,0.029,127.982,Happy
+Rain Sounds: Raining,['Sky Fall SF'],03E06FTE8LrhTfdOfDBb2q,2017,62,0.19,0.635,1e-05,-16.847,,,0.135,209938.0,0.0,0.995,10.0,0.551,1.0,,05/05/2017,0.0669,91.361,Calm
+You Broke Up with Me,['Walker Hayes'],6UsoV6X96Rox9mfxoz7SFy,2017,58,0.846,0.711,0.883,-7.939,,,0.496,197840.0,0.0,0.0,0.0,0.247,1.0,,27/01/2017,0.061,120.013,Happy
+just friends,['keshi'],2KEnu7ABoDpekTUae5rrU0,2017,64,0.713,0.244,0.199,-15.639,,,0.767,123126.0,1.0,0.00435,6.0,0.101,0.0,,19/12/2017,0.101,119.993,Sad
+Found You,['Kane Brown'],4iLeL1aYGcQBsYcWIhXIUO,2017,59,0.46,0.821,0.438,-5.333,,,0.0528,191733.0,0.0,0.0,4.0,0.0818,0.0,,06/10/2017,0.0404,164.144,Energetic
+Rain Sound : Night Time,['Rain Sounds Factory STHLM'],1VfrDK40zAC1jzk1Rp6R1j,2017,62,0.144,0.999,1e-05,-23.489,,,0.605,199798.0,0.0,0.852,10.0,0.911,0.0,,13/04/2017,0.0419,79.182,Calm
+Plants,['Crumb'],2cOzI3LOIkRIKEidcGZ1Bc,2017,61,0.494,0.406,0.219,-10.725,,,0.607,191904.0,0.0,0.53,11.0,0.122,0.0,,23/06/2017,0.0416,81.067,Sad
+Next To Me,['Imagine Dragons'],31VOknKjFrEX47bZXzqcoF,2017,71,0.301,0.672,0.384,-4.497,,,0.28,230289.0,0.0,3.1e-05,2.0,0.0609,1.0,,23/06/2017,0.0623,169.497,Happy
+Goodpain,['Yoke Lore'],3rFeq7vjP5iyhEDssZV49n,2017,59,0.666,0.665,0.364,-5.116,,,0.00338,261986.0,0.0,0.000104,9.0,0.068,0.0,,23/05/2017,0.0278,96.994,Happy
+Ways to Be Wicked,"['Dove Cameron', 'Sofia Carson', 'Cameron Boyce', 'Booboo Stewart']",2ziVTVizQdVNC2QhQhNGvg,2017,64,0.625,0.98,0.408,-4.222,,,0.11,218005.0,0.0,8.07e-06,5.0,0.409,0.0,,21/07/2017,0.132,113.027,Energetic
+Judas,['Fozzy'],2QQDH8gt4nyxFu2XX6bhG8,2017,62,0.418,0.907,0.473,-3.675,,,0.000101,250793.0,0.0,0.000433,0.0,0.346,1.0,,13/10/2017,0.0584,99.17,Energetic
+Marvelous Day (feat. Lil Uzi Vert & Gunna),"['Kap G', 'Lil Uzi Vert', 'Gunna']",4kfEy7h6bWBS5OaDpccTap,2017,60,0.846,0.651,0.581,-5.481,,,0.634,223921.0,1.0,0.0,7.0,0.125,0.0,,17/11/2017,0.128,140.048,Happy
+TwoÂ®,['Lil Uzi Vert'],65kp3OFn7JXbCvkm3m2Ui2,2017,59,0.266,0.642,0.0371,-5.133,,,0.424,185276.0,1.0,0.0,7.0,0.0943,1.0,,25/08/2017,0.0694,75.022,Sad
+For the Last Time,['$uicideBoy$'],240audWazVjwvwh7XwfSZE,2017,61,0.844,0.533,0.23,-9.612,,,0.0735,156081.0,1.0,3.46e-06,1.0,0.0953,1.0,,05/09/2017,0.552,140.078,Energetic
+Location - Live from Spotify,['AJR'],1xpv74iYg4ZSKHX1WcnTQF,2017,57,0.566,0.261,0.477,-8.801,,,0.863,178795.0,0.0,0.0,10.0,0.106,1.0,,28/07/2017,0.0375,97.595,Sad
+Ooh Nah Nah (feat. Masego),"['SiR', 'Masego']",6NblUCwJXYkQlQ6LhcmSlQ,2017,62,0.85,0.273,0.572,-11.567,,,0.052,240000.0,1.0,2.22e-06,7.0,0.104,0.0,,23/01/2017,0.278,116.894,Happy
+Cherry Bomb,['NCT 127'],3o8QzWsiiqTUVgBZfHgF58,2017,68,0.713,0.603,0.799,-4.896,,,0.000759,236667.0,0.0,5.51e-06,6.0,0.0453,0.0,,14/06/2017,0.287,78.027,Happy
+Obey The Walrus,"['$uicideBoy$', 'Germ']",44ApO1Q5s0dXveC0zRlWxi,2017,60,0.85,0.805,0.346,-4.541,,,0.016,141819.0,1.0,0.0,8.0,0.104,1.0,,21/02/2017,0.233,149.127,Energetic
+16 Shots,['Stefflon Don'],2169IKAivSUUFGcedGASXc,2017,71,0.684,0.79,0.549,-4.871,,,0.0271,224728.0,1.0,0.000371,3.0,0.0854,0.0,,22/05/2017,0.0735,95.083,Happy
+In Bloom,['Neck Deep'],0lgiIwUU7Y10uXfKkgXdjk,2017,63,0.593,0.958,0.378,-4.697,,,0.00347,218055.0,0.0,1.3e-05,7.0,0.101,1.0,,18/08/2017,0.048,110.979,Energetic
+I Have Questions,['Camila Cabello'],3NgCzSW98SsqBdpYcnm4kv,2017,66,0.393,0.555,0.22,-6.096,,,0.405,221881.0,0.0,0.0,10.0,0.105,0.0,,21/05/2017,0.276,167.999,Energetic
+So It Goes...,['Taylor Swift'],5PxFv9yJEg9dxvbZggykro,2017,63,0.574,0.61,0.374,-7.283,,,0.122,227907.0,0.0,1.1e-06,2.0,0.13,1.0,,10/11/2017,0.0732,74.957,Energetic
+Perfect Rain,['Tranquility Spree'],53QeelegqpAqMah5XNh5ef,2017,62,0.135,0.999,1e-05,-18.009,,,0.112,220742.0,0.0,0.997,2.0,0.813,1.0,,05/05/2017,0.0485,77.501,Energetic
+Neck And Neck - DNMO Remix,"['Zeds Dead', 'Dragonette', 'DNMO']",2bCjaF7cRm53Wdq9RtkYJu,2017,60,0.601,0.591,0.37,-7.407,,,0.0188,182400.0,0.0,0.0766,5.0,0.126,0.0,,09/06/2017,0.0337,150.044,Happy
+Spirit Body Rain Fall,['Sampling XL'],78YfFq0BoyU3liELT9xm5D,2017,62,0.183,0.784,1e-05,-24.539,,,0.14,161206.0,0.0,0.971,0.0,0.902,0.0,,05/05/2017,0.0533,83.128,Sad
+Rise Up,['Imagine Dragons'],3zT2616WcD9Df5m21OsCX0,2017,67,0.447,0.74,0.102,-6.607,,,0.0122,231720.0,0.0,0.000228,3.0,0.0958,1.0,,23/06/2017,0.0475,93.759,Energetic
+Brain Relaxation Sky,['Sample Rain Library'],1OhTW1OIZW8g0PrRuccUtZ,2017,62,0.193,0.13,1e-05,-14.831,,,0.121,262645.0,0.0,0.785,2.0,0.755,0.0,,12/04/2017,0.0463,84.218,Sad
+Cocoon,['Milky Chance'],6acDlNeA06MCVCzsTVGr9V,2017,60,0.743,0.659,0.804,-6.755,,,0.0998,255160.0,0.0,0.00028,10.0,0.0622,1.0,,17/03/2017,0.0343,114.033,Happy
+Say You Wont Let Go,['Ronald Emery'],4eyOZVDzYlVslh6POZ9AVP,2017,65,0.514,0.0282,0.244,-20.249,,,0.995,230000.0,0.0,0.95,11.0,0.111,1.0,,26/04/2017,0.0693,96.015,Calm
+Tip Toe (feat. French Montana),"['Jason Derulo', 'French Montana']",2z4pcBLQXF2BXKFvd0BuB6,2017,68,0.845,0.709,0.62,-4.547,,,0.0233,187521.0,0.0,0.0,10.0,0.094,0.0,,10/11/2017,0.0714,98.062,Happy
+"Peace and Love on the Planet Earth (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Shelby Rabara)","['Steven Universe', 'Deedee Magno Hall', 'Estelle', 'Michaela Dietz', 'Shelby Rabara', 'Zach Callison']",5UOXwSPgkkOf8Ba9ehmDgu,2017,61,0.747,0.34,0.752,-11.05,,,0.864,112199.0,0.0,0.0,2.0,0.103,0.0,,02/06/2017,0.451,91.928,Energetic
+Silhouette,['Aquilo'],0ygOBx60exSPPvnI4sS28r,2017,65,0.234,0.414,0.144,-8.371,,,0.702,230417.0,0.0,0.0,1.0,0.0391,1.0,,27/01/2017,0.0476,78.216,Sad
+Chillin' Like a Villain,"['Sofia Carson', 'Cameron Boyce', 'Booboo Stewart', 'Mitchell Hope']",1rM0CnyUiiw6A9CHJRXjZA,2017,65,0.697,0.775,0.826,-6.664,,,0.0318,193792.0,0.0,0.0,8.0,0.232,1.0,,21/07/2017,0.083,113.886,Energetic
+There He Go,['Kodak Black'],6canmpFnLHVUzvVWAodifz,2017,58,0.794,0.608,0.316,-6.822,,,0.115,196113.0,1.0,0.0,4.0,0.11,0.0,,31/03/2017,0.0437,138.042,Energetic
+Summer Bummer (feat. A$AP Rocky & Playboi Carti),"['Lana Del Rey', 'A$AP Rocky', 'Playboi Carti']",5QqyRUZeBE04yJxsD1OC0I,2017,64,0.76,0.574,0.137,-8.57,,,0.0155,260672.0,1.0,2.02e-05,1.0,0.199,1.0,,21/07/2017,0.126,134.981,Energetic
+Fields Of Gold,['Elisa Mosel'],61FnfOx61kMlzmVfbl5Jtx,2017,64,0.562,0.0206,0.207,-19.857,,,0.995,188473.0,0.0,0.93,9.0,0.108,1.0,,26/10/2017,0.0426,72.953,Calm
+El Paciente,['Alfredo Olivas'],2Nk3gXgekore0lfB7PCnub,2017,70,0.706,0.713,0.973,-3.609,,,0.319,211267.0,0.0,0.0,3.0,0.114,1.0,,18/08/2017,0.0367,142.002,Happy
+Me DejÃ© Llevar,['Christian Nodal'],3paOSlqrFcMhdGDZ5513AJ,2017,69,0.647,0.376,0.7,-5.299,,,0.228,181453.0,0.0,0.0,7.0,0.158,1.0,,25/08/2017,0.0273,137.863,Happy
+Stronger Than You (feat. Estelle),"['Steven Universe', 'Estelle']",4qmT806nB5E33pZSYYqWcU,2017,61,0.713,0.546,0.458,-7.173,,,0.123,172636.0,0.0,0.0,8.0,0.109,1.0,,02/06/2017,0.0565,97.854,Happy
+Writer In The Dark,['Lorde'],193Dm5SqYy3hTSbuzxbwKc,2017,64,0.325,0.271,0.279,-8.069,,,0.73,216611.0,0.0,0.0,7.0,0.301,1.0,,16/06/2017,0.0418,71.855,Sad
+Black Wedding (feat. Rob Halford),"['In This Moment', 'Rob Halford']",3zUwwYcmob803s2Bkck8GY,2017,62,0.54,0.967,0.293,-4.174,,,0.00796,247373.0,0.0,0.0,1.0,0.683,0.0,,21/07/2017,0.162,136.896,Energetic
+I Saw You Close Your Eyes,['Local Natives'],5AKYyNPYhumqKeOMhdEgQO,2017,57,0.385,0.604,0.251,-6.709,,,0.0753,216840.0,0.0,1.27e-05,9.0,0.718,1.0,,23/03/2017,0.0321,77.468,Energetic
+Dog Years,['Maggie Rogers'],5RRNZFyOi17nTh2bPEKPtp,2017,60,0.644,0.561,0.0615,-7.118,,,0.234,277507.0,0.0,0.00359,9.0,0.104,1.0,,16/02/2017,0.0318,95.014,Sad
+Happens Like That,['Granger Smith'],11fWR3u9wjDMW4oVDbUbyT,2017,58,0.557,0.807,0.578,-5.428,,,0.189,171493.0,0.0,0.0,7.0,0.234,1.0,,27/10/2017,0.0825,81.045,Happy
+Rookie Of The Year,['Chris Webby'],3jZV2hlM8mPyEKL0RhLJzF,2017,60,0.638,0.716,0.587,-7.519,,,0.152,221379.0,1.0,3.34e-06,11.0,0.114,0.0,,20/12/2017,0.31,145.156,Energetic
+Please Keep Loving Me,['James TW'],78zUxUPvONPgMIt46q5be6,2017,69,0.537,0.469,0.294,-8.486,,,0.117,195920.0,0.0,1.78e-06,5.0,0.106,1.0,,28/07/2017,0.0764,175.971,Sad
+How to Talk,['Lil Uzi Vert'],0ro5QCkSCtbfhMHnvMase3,2017,59,0.728,0.73,0.736,-5.402,,,0.741,201544.0,1.0,0.0,5.0,0.705,1.0,,25/08/2017,0.213,136.052,Happy
+Gashina,['SUNMI'],0jFHMDRXxKaREor3hBEEST,2017,70,0.722,0.833,0.53,-3.915,,,0.0556,180000.0,0.0,0.0,6.0,0.195,1.0,,22/08/2017,0.094,93.941,Energetic
+Downtown,"['Anitta', 'J Balvin']",3Ga6eKrUFf12ouh9Yw3v2D,2017,72,0.775,0.679,0.619,-4.985,,,0.18,193456.0,0.0,7.26e-05,4.0,0.068,0.0,,19/11/2017,0.135,166.008,Happy
+"Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)","['Young Thug', '2 Chainz', 'Wiz Khalifa', 'PnB Rock']",5PfTI3zrQbZEWcQdycMqJM,2017,58,0.631,0.732,0.549,-4.706,,,0.0304,231659.0,1.0,0.0,1.0,0.261,1.0,,23/03/2017,0.203,151.779,Energetic
+Big Fish,['Vince Staples'],6eL1ncVDtQHgSm3E288TS7,2017,61,0.898,0.547,0.763,-5.707,,,0.484,198133.0,0.0,1.04e-05,3.0,0.37,0.0,,23/06/2017,0.313,100.01,Happy
+Pacific Rest Ocean,['Ocean Makers'],7HgBLJT1daE6jTNJ1bnCPF,2017,60,0.166,0.0945,1e-05,-15.351,,,0.168,170048.0,0.0,0.957,9.0,0.491,1.0,,06/05/2017,0.0764,118.932,Calm
+Chateau,['Angus & Julia Stone'],62oCnK99vT8HOgwPsvXuiM,2017,59,0.662,0.585,0.606,-11.255,,,0.658,273533.0,0.0,0.881,5.0,0.102,1.0,,15/09/2017,0.0367,129.979,Sad
+Would You Ever,"['Skrillex', 'Poo Bear']",57p8CBvPOxrvyCbn6ttl5r,2017,65,0.653,0.91,0.0921,-3.36,,,0.0079,234286.0,0.0,0.0,10.0,0.318,1.0,,26/07/2017,0.0566,126.047,Energetic
+For Real,['Lil Uzi Vert'],3tcoEYOZUHKB3RKNByIN13,2017,59,0.902,0.673,0.615,-7.481,,,0.159,177048.0,1.0,0.0,4.0,0.289,1.0,,25/08/2017,0.458,132.066,Energetic
+OMG (feat. Quavo),"['Camila Cabello', 'Quavo']",4xBjsLUSjcx2h7PcRikpQp,2017,65,0.655,0.576,0.167,-6.735,,,0.0295,228893.0,0.0,0.115,5.0,0.132,0.0,,03/08/2017,0.0536,139.953,Happy
+Selfish (feat. Rihanna),"['Future', 'Rihanna']",6yHkPtl6UQ7RjtJLBPzbJw,2017,62,0.415,0.369,0.0913,-10.044,,,0.0303,251423.0,1.0,7.64e-06,8.0,0.383,1.0,,27/07/2017,0.0741,95.746,Sad
+"Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)","['Mike WiLL Made-It', 'Kendrick Lamar', 'Gucci Mane', 'Rae Sremmurd']",3A2OHirUAlQp2x73BJlEDA,2017,60,0.741,0.562,0.292,-5.474,,,0.172,240926.0,1.0,0.0,4.0,0.0751,0.0,,24/03/2017,0.165,180.068,Energetic
+Old Church Choir,['Zach Williams'],4F7GcPH79KzsQfNphjtkGx,2017,58,0.675,0.814,0.607,-5.816,,,0.125,176453.0,0.0,0.0,0.0,0.163,1.0,,15/09/2017,0.0347,103.989,Happy
+Love Triangle,['RaeLynn'],3YM0vEH7taFj7OLW3dWfiu,2017,57,0.686,0.525,0.322,-6.721,,,0.135,225627.0,0.0,0.0,2.0,0.11,1.0,,24/03/2017,0.0331,132.927,Sad
+Feelings Mutual,['Lil Uzi Vert'],5Y3Tj0wJhKAaPbwWxXxZGS,2017,59,0.585,0.691,0.349,-6.015,,,0.105,233645.0,1.0,0.0,0.0,0.088,1.0,,25/08/2017,0.259,125.978,Energetic
+Mockingbird,['Ruston Kelly'],6fS1CEMY4LlvQNWuUMoWEQ,2018,62,0.474,0.723,0.239,-4.66,,,0.0628,277293.0,0.0,3e-06,10.0,0.109,1.0,,07/09/2018,0.0354,148.379,Energetic
+Tie Me Down (with Elley DuhÃ©),"['Gryffin', 'Elley DuhÃ©']",4QVS8YCpK71R4FsxSMCjhP,2018,66,0.548,0.839,0.314,-2.371,,,0.135,218296.0,0.0,0.0,6.0,0.102,1.0,,03/08/2018,0.0644,98.932,Energetic
+Hammer,['Point North'],5kqr6EkKEafBGKxzjdXOVP,2018,63,0.417,0.869,0.665,-6.173,,,0.00157,220833.0,0.0,0.0,1.0,0.405,1.0,,06/04/2018,0.103,179.972,Energetic
+Blood,['Breaking Benjamin'],7gQ7DfSSc3b8e4cHtFnDxu,2018,65,0.478,0.971,0.284,-2.729,,,3.83e-05,189120.0,1.0,2.77e-05,7.0,0.295,1.0,,13/04/2018,0.0858,90.526,Energetic
+CorazÃ³n (feat. Nego do Borel),"['Maluma', 'Nego do Borel']",5cepAtqnEQ6yVG6088zMMu,2018,71,0.722,0.738,0.748,-6.073,,,0.328,184720.0,0.0,1.47e-05,9.0,0.198,0.0,,18/05/2018,0.247,198.075,Happy
+GET UP,['Shinedown'],1OKQIvaO7yn7R2BpdUFG7D,2018,62,0.552,0.935,0.38,-4.096,,,0.0174,245787.0,0.0,1.98e-06,0.0,0.116,1.0,,04/05/2018,0.0623,74.954,Energetic
+Hard (feat. Tay-K and BlocBoy JB),"['No Jumper', 'Tay-K', 'BlocBoy JB']",32OkBQinMWqa7ZydEkHqVi,2018,62,0.886,0.542,0.314,-5.424,,,0.113,138997.0,1.0,0.0,1.0,0.151,1.0,,22/03/2018,0.338,83.519,Happy
+Dura,['Daddy Yankee'],6KuqAtoeVzxAYOaMveLNpH,2018,72,0.783,0.84,0.839,-3.416,,,0.174,200480.0,0.0,0.0,1.0,0.412,1.0,,18/01/2018,0.051,95.001,Happy
+Good Form,['Nicki Minaj'],19Fcrc0nJiwMKom00gS9SW,2018,65,0.88,0.775,0.284,-5.133,,,0.113,199400.0,1.0,0.00264,7.0,0.0943,1.0,,10/08/2018,0.0953,96.503,Energetic
+Roaring 20s,['Panic! At The Disco'],0wdV94AXGRphrbkDWLNzVC,2018,64,0.271,0.948,0.515,-2.207,,,0.0467,186600.0,0.0,0.0,1.0,0.163,1.0,,22/06/2018,0.263,83.19,Energetic
+I Feel Good About This,"[""The Mowgli's""]",7d06uajfr1DZUeKVCaE9BS,2018,63,0.525,0.841,0.495,-6.053,,,0.00428,201528.0,0.0,0.0,7.0,0.146,1.0,,17/08/2018,0.0419,119.864,Energetic
+The Story Never Ends,['Lauv'],3u5bTqHMM1P34ZkbwzdckV,2018,69,0.614,0.126,0.351,-9.403,,,0.911,229029.0,0.0,0.0,9.0,0.148,1.0,,31/05/2018,0.0376,119.945,Sad
+Too Little Too Late - 2018,['JoJo'],3hc7PLcmuZbJGPjhIore1i,2018,67,0.394,0.821,0.509,-4.304,,,0.00302,223533.0,0.0,0.019,6.0,0.186,0.0,,20/12/2018,0.0404,82.764,Energetic
+Worst of You,['Maisie Peters'],54iSfkh69fxhnSNrgvTEBp,2018,69,0.741,0.466,0.351,-7.258,,,0.558,197369.0,0.0,0.0,4.0,0.0583,1.0,,11/05/2018,0.0357,102.058,Sad
+Don't Lose Ur Head,"['Six', 'Christina Modestou']",6sUQqRmOcRyAG5M3EWXzr3,2018,65,0.859,0.605,0.722,-7.635,,,0.251,245303.0,0.0,0.0,7.0,0.132,0.0,,31/08/2018,0.357,82.91,Happy
+A Holly Jolly Christmas,['Brett Eldredge'],1GpPsjjd4D1jsteGYpGGIN,2018,65,0.681,0.474,0.7,-8.623,,,0.621,142840.0,0.0,1.24e-06,7.0,0.137,0.0,,26/10/2018,0.0423,71.957,Sad
+Rearview Town,['Jason Aldean'],5WA2SHuL5eesmPnYflNzlT,2018,60,0.526,0.85,0.338,-4.47,,,0.023,184173.0,0.0,0.0,10.0,0.0948,0.0,,13/04/2018,0.0313,141.973,Energetic
+The Night We Met (feat. Phoebe Bridgers),"['Lord Huron', 'Phoebe Bridgers']",0jZO7p0nBUi9VHedWUBS9l,2018,69,0.424,0.437,0.131,-8.588,,,0.962,208173.0,0.0,0.336,2.0,0.664,1.0,,18/05/2018,0.0355,174.127,Sad
+Memories Are Made Of,['Luke Combs'],0h31TZMlv0ZLc5yppKngwk,2018,62,0.694,0.718,0.368,-6.188,,,0.0159,216667.0,0.0,1.72e-06,2.0,0.287,1.0,,01/06/2018,0.0322,121.074,Happy
+TAlk tO Me (with Rich The Kid),"['Tory Lanez', 'Rich The Kid']",2QihWAl9xAwGPm5vGoO7uM,2018,65,0.731,0.657,0.49,-8.56,,,0.0591,184490.0,1.0,0.0,0.0,0.0874,1.0,,26/10/2018,0.0434,159.97,Happy
+Sham Pain,['Five Finger Death Punch'],1YLxrvfvFivQj7eh3Y5yxA,2018,60,0.555,0.938,0.401,-4.901,,,0.000173,209703.0,1.0,2.69e-06,11.0,0.139,0.0,,18/05/2018,0.0533,96.504,Energetic
+Thatâ€™s How You Feel,['Drake'],41a7dZcq30Ss5kPMayWRV0,2018,64,0.85,0.473,0.38,-5.747,,,0.117,157605.0,1.0,0.0103,10.0,0.108,0.0,,29/06/2018,0.209,85.454,Energetic
+"Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse","['Nicki Minaj', 'Anuel AA', 'Bantu']",4Uy3kNxW2kB8AEoXljEcth,2018,67,0.766,0.881,0.674,-5.158,,,0.0166,174893.0,0.0,2.3e-06,9.0,0.347,0.0,,14/12/2018,0.137,112.027,Energetic
+Triste,"['Bryant Myers', 'Bad Bunny']",7narbj6zkSW1SnMhAPep0u,2018,69,0.692,0.719,0.266,-5.373,,,0.408,264906.0,1.0,0.0,9.0,0.0986,1.0,,27/07/2018,0.124,130.053,Happy
+EstÃ¡ Rico,"['Marc Anthony', 'Will Smith', 'Bad Bunny']",2wRkBumdItthjYP9XknImg,2018,68,0.817,0.74,0.674,-4.566,,,0.266,215151.0,0.0,0.0,11.0,0.0992,0.0,,28/09/2018,0.283,130.04,Happy
+I'm Fine,['BTS'],0EQMrxdeiBhry9JCxskko3,2018,71,0.51,0.842,0.302,-2.782,,,0.00852,240339.0,0.0,0.0,11.0,0.346,0.0,,24/08/2018,0.103,87.605,Energetic
+Oblivion,"['Rufi-O', 'Lily Potter']",2zhPy8zbBf53XgTtkEbnbO,2018,68,0.714,0.131,0.685,-21.958,,,0.975,152920.0,0.0,0.904,5.0,0.354,1.0,,13/12/2018,0.0556,113.032,Calm
+"A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)","['A$AP Rocky', 'Moby', 'T.I.', 'Kid Cudi']",3oHkMCVJyOcjg5FhfLc2Rq,2018,65,0.428,0.754,0.394,-6.416,,,0.3,315773.0,1.0,0.0,5.0,0.136,0.0,,25/05/2018,0.179,125.948,Energetic
+Fr Fr (feat. Lil Skies),"['Wiz Khalifa', 'Lil Skies']",1RagpNpkD3KcjXMLGMe99V,2018,65,0.916,0.493,0.327,-7.371,,,0.12,195591.0,1.0,2.63e-06,1.0,0.211,0.0,,13/07/2018,0.162,140.057,Happy
+Perfecto,['Mac Miller'],0Xcy81PsJCOO6mhLZaQyQ4,2018,63,0.599,0.317,0.203,-11.212,,,0.748,215413.0,1.0,0.0,1.0,0.111,1.0,,03/08/2018,0.174,148.09,Sad
+Change Ya Life,['Haiti Babii'],5JboK5zbbhXIN7iN9NHS8t,2018,64,0.696,0.399,0.364,-8.673,,,0.0224,156770.0,1.0,0.0,4.0,0.0747,0.0,,05/12/2018,0.0369,98.004,Happy
+Rock Salt and Nails (Live),['Tyler Childers'],20dkebBtPR4AJ8vVos41Gw,2018,60,0.449,0.296,0.139,-12.608,,,0.892,194813.0,0.0,0.000755,0.0,0.892,1.0,,29/06/2018,0.0361,139.828,Sad
+Youth (feat. Khalid),"['Shawn Mendes', 'Khalid']",1h0yImRPIVAjhhHeNVlTuC,2018,70,0.534,0.596,0.324,-6.653,,,0.56,190867.0,0.0,0.0,6.0,0.133,0.0,,25/05/2018,0.117,100.121,Sad
+Next Song,['DaBaby'],0rrVn0KMlLHtAklzUrrfoj,2018,61,0.81,0.754,0.68,-6.138,,,0.0243,79360.0,1.0,0.0,5.0,0.255,0.0,,02/11/2018,0.302,148.091,Energetic
+Can't Love Myself,"['Monty Datta', 'Mishaal']",0MO1qNhm8aRZchi8CJlIRo,2018,67,0.541,0.0836,0.452,-12.663,,,0.913,122723.0,0.0,0.00199,1.0,0.126,1.0,,16/02/2018,0.313,181.032,Sad
+Lost In Japan - Remix,"['Shawn Mendes', 'Zedd']",575NJxNUVDqwJGdzBrlLbv,2018,68,0.706,0.855,0.293,-5.377,,,0.0911,201253.0,0.0,0.0,10.0,0.347,1.0,,27/09/2018,0.215,107.184,Energetic
+Scary Love,['The Neighbourhood'],6TA5aymvVrtiPVbuAwmPIc,2018,69,0.595,0.636,0.147,-5.981,,,9.45e-05,222667.0,0.0,0.0529,5.0,0.196,0.0,,02/11/2018,0.0312,112.008,Energetic
+Whatchamacallit (feat. Chris Brown),"['Ella Mai', 'Chris Brown']",1YLfaRr3QIW1fF3nvDO0gX,2018,67,0.656,0.616,0.269,-4.668,,,0.17,179411.0,1.0,0.0,5.0,0.219,1.0,,12/10/2018,0.0392,98.871,Happy
+Top Off,['Gunna'],0HCnj7pfrvshnocOJUFeit,2018,63,0.906,0.395,0.376,-11.277,,,0.0103,197420.0,1.0,0.000195,1.0,0.117,1.0,,02/02/2018,0.206,146.056,Happy
+A Long Way,['Luke Combs'],3z1QH1O1h15lFROjcECqgi,2018,62,0.483,0.713,0.595,-5.027,,,0.0194,217280.0,0.0,0.000144,2.0,0.316,1.0,,01/06/2018,0.0295,161.903,Energetic
+Symphony (feat. Zara Larsson),"['Clean Bandit', 'Zara Larsson']",72gv4zhNvRVdQA0eOenCal,2018,74,0.715,0.605,0.454,-5.128,,,0.239,212733.0,0.0,1.41e-05,0.0,0.189,0.0,,30/11/2018,0.0428,122.956,Happy
+Bring Me Love,['John Legend'],5MknXpAUgINT11lxoobaJK,2018,66,0.505,0.86,0.576,-6.276,,,0.198,199547.0,0.0,0.0,2.0,0.125,1.0,,12/10/2018,0.425,191.535,Energetic
+State Lines,['Novo Amor'],7CoMBpPTwQi2wPT0U0Nr9b,2018,66,0.509,0.31,0.151,-10.623,,,0.959,208653.0,0.0,0.229,9.0,0.0963,1.0,,19/10/2018,0.0313,137.474,Sad
+Beyond (feat. Luke Combs) - Live,"['Leon Bridges', 'Luke Combs']",05zt3H2jdG0MA1V6Q2t2Et,2018,62,0.619,0.623,0.309,-6.33,,,0.455,246947.0,0.0,0.0,11.0,0.167,1.0,,21/09/2018,0.0328,76.037,Sad
+Walls,['The Lumineers'],3UpEsDQyd6eyRQzgQdNyGo,2018,60,0.609,0.44,0.43,-6.32,,,0.692,199119.0,0.0,0.0,10.0,0.0688,1.0,,02/10/2018,0.0265,108.427,Sad
+Make Out in My Car - Sufjan Stevens Version,"['Moses Sumney', 'Sufjan Stevens']",045NQr6Xvm5o9YFUMwbMzG,2018,64,0.547,0.379,0.654,-11.655,,,0.973,166880.0,0.0,0.0155,5.0,0.123,1.0,,25/05/2018,0.0308,149.853,Sad
+Happy & Sad,['Kacey Musgraves'],04MoJkJzCoU9ukeewv5Vzu,2018,61,0.642,0.657,0.658,-5.246,,,0.249,243187.0,0.0,0.0,10.0,0.111,1.0,,30/03/2018,0.0333,90.0,Happy
+Poke It Out (with Nicki Minaj),"['Playboi Carti', 'Nicki Minaj']",2rPSFKzGeqUWwfcCFVkkq3,2018,64,0.894,0.59,0.576,-5.716,,,0.0969,269813.0,1.0,8.9e-06,9.0,0.329,1.0,,11/05/2018,0.221,147.009,Energetic
+Bitch Lasagna,"['pewdiepie', 'Party in Backyard']",1AKGJQIHP3dIPuhOjdxD6a,2018,68,0.795,0.789,0.535,-5.21,,,0.0133,134417.0,1.0,0.0,2.0,0.113,1.0,,06/11/2018,0.259,149.961,Energetic
+Baby Dreams PT 2,['Dream Shard'],2ynHMuxTmMJ8DXfV49xsWA,2018,68,0.144,0.888,0.00987,-30.462,,,0.984,102563.0,0.0,0.699,10.0,0.106,0.0,,15/11/2018,0.0582,139.074,Calm
+Ibiza,"['Ozuna', 'Romeo Santos']",1h9P5WJwyvK8OB7O2YiXgp,2018,70,0.69,0.71,0.726,-5.144,,,0.25,200747.0,0.0,0.0,5.0,0.108,1.0,,24/08/2018,0.335,192.068,Energetic
+Drunk on Halloween,['Wallows'],0z9dPcBhJvqO06QMaKelUE,2018,63,0.631,0.634,0.774,-4.456,,,0.231,237027.0,0.0,1.3e-05,6.0,0.0924,1.0,,12/10/2018,0.0247,100.967,Happy
+Darte Remix,"['Alex Rose', 'Casper Magico', 'Ã‘engo Flow', 'Bryant Myers', 'Noriel', 'Juhn', 'Miky Woodz', 'Jhay Cortez', 'Myke Towers']",6wxZq37sANWYDJiDN5khyL,2018,69,0.809,0.634,0.601,-6.432,,,0.147,512060.0,1.0,1.85e-06,9.0,0.532,0.0,,27/07/2018,0.0833,154.979,Happy
+High (feat. Elton John),"['Young Thug', 'Elton John']",7iMDaY1LnASwCk2uUpMtii,2018,62,0.759,0.498,0.244,-10.615,,,0.223,195160.0,1.0,5.84e-05,10.0,0.406,1.0,,24/09/2018,0.0776,126.972,Happy
+Fell In Luv (feat. Bryson Tiller),"['Playboi Carti', 'Bryson Tiller']",1s9DTymg5UQrdorZf43JQm,2018,63,0.657,0.668,0.227,-6.208,,,0.0273,206333.0,1.0,0.0,2.0,0.32,1.0,,11/05/2018,0.136,162.997,Energetic
+Into Your Arms (feat. Ava Max),"['Witt Lowry', 'Ava Max']",0b11D9D0hMOYCIMN3OKreM,2018,75,0.504,0.788,0.228,-4.113,,,0.0134,186022.0,1.0,0.0,3.0,0.363,0.0,,08/06/2018,0.215,170.039,Energetic
+COOLEST MONKEY IN THE JUNGLE,"['Ski Mask The Slump God', 'SahBabii']",1D23GEeQ32aqLw5ZnY3Ivp,2018,62,0.893,0.676,0.804,-4.867,,,0.324,152213.0,1.0,0.0,9.0,0.0968,0.0,,11/05/2018,0.227,125.923,Happy
+Catch Hell,"['Adam Calhoun', 'Katie Noel']",6TLcWhEFySe0lTNgUWVPc4,2018,60,0.772,0.594,0.498,-6.22,,,0.121,186988.0,1.0,0.0,8.0,0.0598,1.0,,02/11/2018,0.121,152.952,Happy
+Walker Texas Ranger,['DaBaby'],0eBOVXdnrVQ0rITgKXBAA7,2018,61,0.873,0.682,0.799,-5.869,,,0.025,151600.0,1.0,0.0,11.0,0.0685,0.0,,02/11/2018,0.377,157.943,Energetic
+Way With Words,['Bahamas'],6ioeN8jQ8Qc3tS8dhpoAVi,2018,64,0.785,0.53,0.729,-6.995,,,0.359,260960.0,0.0,0.00198,6.0,0.0774,0.0,,16/02/2018,0.0634,146.38,Happy
+WAKA,"['6ix9ine', 'A Boogie Wit da Hoodie']",057sdYirt745dVbe48m7Hl,2018,64,0.772,0.812,0.655,-3.995,,,0.0834,128769.0,1.0,0.0,0.0,0.115,0.0,,27/11/2018,0.153,97.407,Energetic
+Build My Life,['Pat Barrett'],2UeOsbOZ3h1QxUX2Jfw42j,2018,62,0.431,0.591,0.274,-6.198,,,0.112,244893.0,0.0,0.0,8.0,0.129,1.0,,20/07/2018,0.0298,144.012,Sad
+Cold (feat. Future),"['Maroon 5', 'Future']",7gwLQ4tZ5UdZ7qNcDyJ8wr,2018,62,0.693,0.717,0.412,-6.346,,,0.14,234308.0,1.0,0.0,9.0,0.0464,0.0,,15/06/2018,0.107,99.836,Happy
+No Issue,"['Future', 'Juice WRLD']",7L95O7D34EWhwtDCQkwGMR,2018,63,0.818,0.443,0.722,-11.444,,,0.114,184960.0,1.0,0.0,5.0,0.412,0.0,,19/10/2018,0.404,74.491,Energetic
+"Woman, Amen",['Dierks Bentley'],3nBXOlFTADNvG9nkqy2O2W,2018,61,0.484,0.804,0.391,-5.889,,,0.000837,179827.0,0.0,9.29e-06,5.0,0.17,1.0,,08/06/2018,0.0912,119.838,Energetic
+Anpanman,['BTS'],01gUlvzAPiwB9Ekq9kGVCM,2018,72,0.813,0.875,0.756,-2.92,,,0.0237,232966.0,0.0,0.0,1.0,0.288,0.0,,24/08/2018,0.0918,99.004,Happy
+Reggaeton,['J Balvin'],2D3z17LBMJ2HEHeBFFjTLi,2018,72,0.747,0.74,0.552,-4.325,,,0.0165,158800.0,0.0,9.94e-05,4.0,0.101,0.0,,17/11/2018,0.191,176.059,Energetic
+Mess,['Trevor Daniel'],4Zc4kyc7VSdZNF9wFeBIcz,2018,66,0.655,0.56,0.0917,-7.97,,,0.124,168484.0,0.0,3.75e-06,9.0,0.106,1.0,,11/10/2018,0.0389,154.957,Energetic
+On Your Mind,['Kaskade'],5IpIl6c14WCJhjlIl6poVD,2018,65,0.835,0.828,0.178,-4.512,,,0.00235,320280.0,0.0,0.743,4.0,0.0602,0.0,,07/12/2018,0.0949,107.995,Happy
+How To Be Yours,['Chris Renzema'],04oS27FkMKZ68VBkzx7JKN,2018,61,0.5,0.338,0.0951,-8.42,,,0.619,288593.0,0.0,0.0,6.0,0.124,1.0,,30/03/2018,0.0331,131.82,Sad
+Guiding Light,['Mumford & Sons'],4VeCmOb1rAEZQfH7Rlms9C,2018,60,0.551,0.685,0.289,-8.649,,,0.0547,217633.0,0.0,1.18e-05,7.0,0.0743,1.0,,16/11/2018,0.0421,100.05,Energetic
+Magic Shop,['BTS'],2tMBCYj22KxtmkAACIvvk4,2018,72,0.541,0.661,0.285,-5.838,,,0.103,275696.0,0.0,0.0,1.0,0.0779,1.0,,24/08/2018,0.0889,149.926,Happy
+Who You Say I Am - Live,['Hillsong Worship'],2lUgap86Pux7qAgvWzuJWs,2018,59,0.269,0.666,0.226,-6.048,,,0.000278,329080.0,0.0,0.0,6.0,0.609,1.0,,06/04/2018,0.0362,171.722,Energetic
+Suncity (feat. Empress Of),"['Khalid', 'Empress Of']",6SkHm6poyKfzV6kc9any8k,2018,67,0.694,0.63,0.341,-6.84,,,0.0998,189493.0,0.0,0.000635,7.0,0.12,0.0,,19/10/2018,0.162,90.045,Energetic
+A$AP Forever (feat. Moby),"['A$AP Rocky', 'Moby']",1YmF9PvLhIISIANoMLIYGq,2018,66,0.469,0.78,0.444,-6.49,,,0.224,233061.0,1.0,0.0,10.0,0.13,0.0,,05/04/2018,0.122,125.999,Energetic
+Alone,['Alan Walker'],3LlmKSHR3Rs0Y3KHQLAYDk,2018,74,0.673,0.914,0.183,-3.962,,,0.229,160427.0,0.0,0.000478,10.0,0.186,1.0,,14/12/2018,0.0496,97.021,Energetic
+Pure Imagination,"['Unclenathannn', 'Shiloh Dynasty']",36V4aP2bpDUuvBYcpku9LI,2018,66,0.824,0.0312,0.314,-15.873,,,0.765,99838.0,1.0,7.55e-05,7.0,0.0845,1.0,,19/03/2018,0.0921,72.727,Sad
+Cosas De La Clica,['Herencia de Patrones'],1AfImPZFi9IMKqUUBLK7in,2018,64,0.466,0.688,0.853,-8.05,,,0.578,140173.0,0.0,0.0,7.0,0.284,0.0,,19/10/2018,0.145,78.963,Happy
+OKRA,"['Tyler, The Creator']",74ZovzRxHBvCq5yIwe8boh,2018,63,0.589,0.57,0.441,-9.54,,,0.0456,151027.0,1.0,1.51e-06,1.0,0.137,1.0,,30/03/2018,0.361,136.203,Energetic
+Booty,['Blac Youngsta'],0FbSpY8RPxTRxi1Fpj9Dz9,2018,61,0.938,0.549,0.412,-8.368,,,0.000831,160038.0,1.0,0.000243,1.0,0.082,1.0,,27/02/2018,0.098,144.005,Energetic
+Freaky,['Tory Lanez'],7EAaSaj1OgZgMX5yZyFXFC,2018,65,0.966,0.563,0.363,-5.764,,,0.00202,173926.0,1.0,0.0,8.0,0.105,1.0,,26/10/2018,0.0618,104.991,Happy
+66,"['Lil Yachty', 'Trippie Redd']",6tarvNiKnEjYMj1VZhlDqR,2018,64,0.667,0.723,0.251,-4.31,,,0.0455,153475.0,1.0,0.000193,5.0,0.213,0.0,,09/03/2018,0.27,148.058,Energetic
+Black Rover,['Vickeblanka'],0OGw7V8wAI6OsZIQ12JkTP,2018,68,0.592,0.937,0.529,-4.905,,,0.00139,209573.0,0.0,1.74e-05,11.0,0.189,1.0,,21/11/2018,0.0442,102.073,Energetic
+Level Up,['Ciara'],5ubwXXOsH9bUhZsQ0Cybha,2018,67,0.746,0.825,0.584,-4.666,,,0.0142,204150.0,0.0,0.0107,1.0,0.121,1.0,,18/07/2018,0.169,152.914,Energetic
+Capital Letters,"['Hailee Steinfeld', 'BloodPopÂ®']",6l0Ky2PycJV1Bz88kFeVGL,2018,72,0.661,0.814,0.459,-5.529,,,0.0337,219373.0,0.0,8.27e-06,0.0,0.0518,1.0,,09/02/2018,0.0759,99.963,Energetic
+Done for Me (feat. Kehlani),"['Charlie Puth', 'Kehlani']",1lsBTdE6MGsKeZCD6llNu7,2018,67,0.856,0.632,0.697,-3.692,,,0.193,180493.0,0.0,0.0,6.0,0.0688,0.0,,11/05/2018,0.074,112.009,Happy
+I Don't Die,"['Joyner Lucas', 'Chris Brown']",3NSmC1EQKOdUe6KhMrDDk5,2018,64,0.743,0.876,0.574,-4.326,,,0.099,224735.0,1.0,0.0,1.0,0.119,1.0,,02/05/2018,0.301,149.041,Energetic
+Christmas Time Is Here - Recorded at Sound Emporium Nashville,['Devin Dawson'],1dinW5tLGDdPhxtW8vMkUn,2018,65,0.431,0.195,0.157,-13.207,,,0.802,204347.0,0.0,0.0,5.0,0.0862,1.0,,19/11/2018,0.0518,80.983,Sad
+Bad,['Lennon Stella'],1ydOxBgLmEMfWffu6t4H5x,2018,62,0.827,0.613,0.747,-5.34,,,0.366,177973.0,0.0,1.25e-05,8.0,0.093,1.0,,17/11/2018,0.0621,137.96,Happy
+Unica,['Ozuna'],33b2wX9d0kxqxhi7lcsC1A,2018,67,0.653,0.859,0.706,-3.048,,,0.212,218387.0,0.0,0.0,0.0,0.111,1.0,,24/08/2018,0.0449,174.038,Happy
+Chapters,"['Brett Young', 'Gavin DeGraw']",4tQhxBKakIwoWZ7tuGBr7d,2018,61,0.589,0.613,0.643,-6.816,,,0.179,237107.0,0.0,0.0,11.0,0.0967,1.0,,07/12/2018,0.0379,81.015,Happy
+WESTWORLD,['EVAN GIIA'],6u8MYoxXvAHNR0enhdUqgd,2018,59,0.713,0.666,0.277,-6.128,,,0.2,209224.0,0.0,2.09e-05,11.0,0.137,1.0,,06/03/2018,0.0511,112.015,Happy
+Despicable,['grandson'],5IPT4Noqvo7bsfbWUOHcG4,2018,66,0.576,0.782,0.367,-6.167,,,0.0123,223893.0,0.0,0.00241,1.0,0.467,1.0,,15/06/2018,0.0346,87.971,Energetic
+This Way - From SUPERFLY - Original Soundtrack,"['Khalid', 'H.E.R.']",6fbYL76UWbHdYq4B91TPQi,2018,63,0.62,0.282,0.193,-10.533,,,0.694,211205.0,1.0,0.0,5.0,0.119,0.0,,06/06/2018,0.0464,124.609,Sad
+Narcissist (feat. The 1975),"['No Rome', 'The 1975']",4qjLvvBh5ZeKEPyShKRf06,2018,66,0.543,0.682,0.424,-5.81,,,0.218,195502.0,1.0,1.53e-06,3.0,0.085,1.0,,28/08/2018,0.113,179.969,Energetic
+Pictures of Girls,['Wallows'],415dK4glwDO7fXxYg3np8B,2018,64,0.443,0.819,0.494,-5.502,,,0.000248,204667.0,0.0,0.00759,6.0,0.0802,1.0,,06/04/2018,0.0322,154.958,Energetic
+Low,['Lund'],5RLDbZPiqULNl4cr17eoIV,2018,63,0.745,0.438,0.0409,-7.018,,,0.678,233963.0,1.0,0.112,4.0,0.125,0.0,,28/04/2018,0.0326,119.99,Sad
+Invitation (feat. Kodie Shane),"['Ashnikko', 'Kodie Shane']",46aopTu45teng25ROkoeXk,2018,64,0.592,0.654,0.816,-6.91,,,0.0337,159141.0,1.0,0.0,8.0,0.135,0.0,,23/11/2018,0.146,128.013,Energetic
+Nobody Knows,['Russ'],1pNAf6W7POwjOD8x8mWf8G,2018,67,0.715,0.71,0.526,-9.504,,,0.445,215556.0,1.0,0.000284,4.0,0.103,1.0,,23/12/2018,0.432,162.043,Energetic
+Adictiva,"['Daddy Yankee', 'Anuel AA']",6MJUCumnQsQEKbCy28tbCP,2018,70,0.788,0.771,0.701,-3.206,,,0.291,207853.0,0.0,5.62e-05,4.0,0.172,0.0,,09/11/2018,0.0563,99.038,Happy
+Solar Eclipse,['YoungBoy Never Broke Again'],0Jr4zQh5i3vrKFEcXrhhxl,2018,60,0.671,0.775,0.331,-3.969,,,0.203,227060.0,1.0,0.0,10.0,0.223,0.0,,29/06/2018,0.0667,148.195,Energetic
+Dance Macabre,['Ghost'],1E2WTcYLP1dFe1tiGDwRmT,2018,61,0.619,0.696,0.727,-6.269,,,1.89e-05,219720.0,0.0,0.00555,7.0,0.38,0.0,,01/06/2018,0.0315,125.986,Happy
+A TravÃ©s Del Vaso,['Banda Los Sebastianes'],1uqjLVaSyTkdDvfGAmXrHo,2018,64,0.649,0.529,0.964,-4.895,,,0.621,180120.0,0.0,0.0,2.0,0.0563,0.0,,31/08/2018,0.0398,144.869,Sad
+Connection,['OneRepublic'],3T4UodGkfZObJ43RtA5KFU,2018,66,0.611,0.602,0.624,-4.89,,,0.000837,148460.0,0.0,0.0,5.0,0.112,1.0,,26/06/2018,0.0437,168.154,Happy
+Memories,['Thutmose'],2CWOMDYFK4Ef3867nEhnVM,2018,65,0.567,0.651,0.519,-7.146,,,0.0519,199147.0,0.0,0.0,5.0,0.183,0.0,,14/12/2018,0.0554,93.989,Happy
+"Oh, What A World",['Kacey Musgraves'],5ToJzoVfLYyF7ohMOBNObi,2018,61,0.503,0.536,0.21,-7.229,,,0.642,241467.0,0.0,0.00143,4.0,0.111,1.0,,30/03/2018,0.0259,90.966,Sad
+Dunno - Recorded at Spotify Studios NYC,['Mac Miller'],6eIEJLVaPTU3NuctqdWCzJ,2018,63,0.523,0.153,0.184,-12.785,,,0.945,224347.0,1.0,0.000944,1.0,0.114,1.0,,28/11/2018,0.0689,84.659,Sad
+Workin Out,['JID'],46Lx5epWOQBA3J86ovnxmV,2018,62,0.818,0.57,0.561,-8.067,,,0.384,226859.0,1.0,0.000102,10.0,0.19,0.0,,26/11/2018,0.285,126.938,Happy
+Grape Soda,['Rook1e'],1VFbHdNzYUJr0FsxoayP1N,2018,63,0.54,0.48,0.68,-8.728,,,0.334,103549.0,0.0,0.00166,4.0,0.177,1.0,,26/01/2018,0.0554,66.918,Happy
+Woman,['Mumford & Sons'],4LngVAmigX4WrBEDfonBlU,2018,60,0.587,0.514,0.15,-11.924,,,0.64,274553.0,0.0,0.391,1.0,0.11,0.0,,16/11/2018,0.0394,156.948,Sad
+Heart to Break,['Kim Petras'],2Cu5ExXidcoE4vF5hIYict,2018,65,0.74,0.631,0.887,-4.865,,,0.0403,225973.0,0.0,2.77e-06,11.0,0.253,1.0,,14/02/2018,0.196,109.029,Happy
+Say My Name,"['David Guetta', 'Bebe Rexha', 'J Balvin']",3MoV1UsAJmz64LHqyiRMp0,2018,64,0.703,0.66,0.79,-5.119,,,0.137,198947.0,0.0,0.0,10.0,0.192,0.0,,14/09/2018,0.123,95.031,Happy
+Garden Kisses,['Giveon'],62d6YXEYxmMWAuLpw1EysL,2018,62,0.478,0.373,0.354,-9.505,,,0.915,195406.0,0.0,6.36e-06,5.0,0.128,1.0,,08/08/2018,0.0317,120.129,Sad
+Eastside,['Dylan Scott'],3sfJXqWV7sr2aQiSaahbZc,2018,61,0.541,0.734,0.69,-5.235,,,0.0122,167143.0,0.0,1.15e-06,5.0,0.0696,1.0,,14/12/2018,0.0457,83.938,Energetic
+Home,"['Vince Staples', 'Richie Kohan']",7pBsquIkbED6W6uSQJGbkn,2018,66,0.604,0.736,0.345,-5.596,,,0.00608,211360.0,0.0,0.109,10.0,0.11,0.0,,14/12/2018,0.0555,118.012,Energetic
+2002,['Anne-Marie'],4Pbg79cTBu4vgSphoyNq3j,2018,72,0.697,0.683,0.603,-2.881,,,0.0372,186987.0,0.0,0.0,1.0,0.137,0.0,,19/04/2018,0.117,96.133,Happy
+I Am (Lil Baby & Gunna),"['Lil Baby', 'Gunna']",3F57PtOdqRpD6euFYqtKXX,2018,61,0.822,0.461,0.268,-6.506,,,0.328,145060.0,1.0,0.0,1.0,0.122,1.0,,05/10/2018,0.449,130.003,Energetic
+Perfect,['Simple Plan'],4j3X4KX8rURekAVIFUhI23,2018,69,0.494,0.672,0.557,-4.877,,,0.0273,277027.0,0.0,0.0,3.0,0.105,1.0,,06/04/2018,0.0405,156.208,Happy
+Nicotine Patches,['$uicideBoy$'],53AiGAa0Qi2VbX7eUpur1U,2018,62,0.743,0.569,0.384,-9.703,,,0.0174,156034.0,1.0,0.000736,0.0,0.264,0.0,,07/09/2018,0.131,145.905,Energetic
+Just My Type,['The Vamps'],0q2e5jdjxFaaYRf49b1vLj,2018,60,0.61,0.87,0.523,-4.012,,,0.00299,211360.0,0.0,0.0,2.0,0.064,0.0,,13/07/2018,0.0693,125.014,Energetic
+Waste It On Me,"['Steve Aoki', 'BTS']",66XDf77gBcfQKi4I2vIbTj,2018,69,0.669,0.684,0.466,-4.595,,,0.252,192537.0,0.0,0.0,7.0,0.72,1.0,,09/11/2018,0.0585,96.097,Happy
+Easy,['DaniLeigh'],2kYB66omjIRkqPx8zRPEAH,2018,62,0.844,0.322,0.531,-11.815,,,0.203,186200.0,0.0,1.98e-06,7.0,0.0848,1.0,,30/11/2018,0.192,100.017,Happy
+you deserve better,['sadeyes'],5MsydV2Ii4A7r85gSgh90x,2018,65,0.591,0.488,0.362,-11.178,,,0.358,141928.0,1.0,0.0,8.0,0.357,1.0,,31/08/2018,0.16,109.9,Happy
+Teenager in Love,['Madison Beer'],2IRH2r95UDqvlrrMOgOXjU,2018,66,0.673,0.579,0.578,-5.398,,,0.301,214908.0,0.0,5.82e-06,0.0,0.0705,1.0,,02/02/2018,0.0278,109.976,Happy
+Something For Your M.I.N.D.,['Superorganism'],4rCKRVJZKVysScn2piDuOT,2018,63,0.698,0.542,0.664,-4.317,,,0.132,165391.0,0.0,0.00117,2.0,0.199,1.0,,02/03/2018,0.131,140.096,Happy
+Confidence,['Sanctus Real'],6sToW2vF0y8ZEXuHoMQob9,2018,59,0.452,0.81,0.439,-4.748,,,0.0291,181733.0,0.0,0.0,9.0,0.118,1.0,,27/04/2018,0.0422,167.143,Energetic
+This Too Shall Last,['Anderson East'],0CuXzMEgFzuQhLEYQHYas4,2018,62,0.503,0.49,0.68,-8.553,,,0.323,222400.0,0.0,0.799,4.0,0.0873,1.0,,12/01/2018,0.0279,148.884,Sad
+No Mentions,['YoungBoy Never Broke Again'],2YVt7k1qZXFhzYDe8FMDW6,2018,60,0.803,0.54,0.345,-6.862,,,0.27,220260.0,1.0,0.0,1.0,0.0819,0.0,,21/09/2018,0.318,139.989,Energetic
+Daydream (ë°±ì¼ëª½),['j-hope'],4YAgH8s0JFfwikTNwe0aIk,2018,69,0.748,0.961,0.856,-6.518,,,0.00512,228759.0,0.0,0.0,8.0,0.175,0.0,,02/03/2018,0.0875,116.037,Energetic
+She Wonders Why,['Astrus*'],0I3Lzmf3JDIOyFLcrruRjO,2018,63,0.671,0.288,0.42,-14.176,,,0.468,131202.0,1.0,0.0,1.0,0.139,1.0,,07/02/2018,0.496,68.287,Happy
+Remember When,['Bad Wolves'],7jp3STyCSsoakSPUoKTtFX,2018,62,0.433,0.973,0.298,-4.82,,,2.38e-05,209302.0,0.0,1.79e-06,8.0,0.0813,1.0,,11/05/2018,0.145,171.955,Energetic
+Mind On My Murder,['YNW Melly'],2xBfOUdiRafSWGqTj4yToU,2018,62,0.633,0.559,0.443,-9.638,,,0.0632,276268.0,1.0,0.0,0.0,0.308,0.0,,03/08/2018,0.0458,105.009,Happy
+Waking Lions,['Pop Evil'],1VMSib83ZkffP22T64hxot,2018,62,0.507,0.973,0.706,-2.905,,,2.1e-05,231963.0,0.0,0.0329,6.0,0.346,1.0,,16/02/2018,0.176,143.075,Energetic
+It Ain't Me,['Kolby Cooper'],610z3fv4hqlH5eff9yBJTN,2018,59,0.395,0.737,0.239,-4.962,,,0.00131,268539.0,0.0,6.66e-05,6.0,0.364,1.0,,15/02/2018,0.0304,150.056,Energetic
+Go Go,['BTS'],1ok4gxOv8cg5WLjWK6TQhD,2018,72,0.856,0.617,0.759,-5.308,,,0.171,235780.0,0.0,0.0,10.0,0.0857,0.0,,24/08/2018,0.0841,136.082,Happy
+Trippy (feat. J. Cole),"['Anderson .Paak', 'J. Cole']",2lRe5wBRm4xaSKTbDn2vLD,2018,63,0.57,0.65,0.174,-8.538,,,0.0707,323587.0,1.0,0.0,2.0,0.339,1.0,,16/11/2018,0.326,96.767,Energetic
+Save Me From Myself (with NoMBe & Big Gigantic),"['Louis The Child', 'NoMBe', 'Big Gigantic']",7f4bRMqRKRfUNPW2gbTHSt,2018,61,0.673,0.676,0.391,-4.888,,,0.0198,211686.0,0.0,1.26e-05,4.0,0.428,0.0,,26/10/2018,0.216,82.979,Energetic
+Blue Tint,['Drake'],4n1bdaKwynQndm47x5HqWX,2018,63,0.889,0.372,0.123,-10.254,,,0.013,162800.0,1.0,0.0,7.0,0.184,0.0,,29/06/2018,0.357,133.997,Energetic
+La player (Bandolera),['Zion & Lennox'],0VKkyBKCXyR99navhVRqcP,2018,75,0.769,0.838,0.602,-5.238,,,0.16,249609.0,0.0,0.0,2.0,0.0935,1.0,,23/02/2018,0.0633,93.996,Happy
+Dimple,['BTS'],0DrxFkuc1mpxdbUbssLQ4d,2018,71,0.612,0.844,0.653,-4.694,,,0.142,196776.0,0.0,0.0,5.0,0.287,0.0,,24/08/2018,0.0756,134.868,Energetic
+Hungry Hippo,['Tierra Whack'],0WpDeBJ22LcwF4QoERQOTv,2018,63,0.893,0.61,0.778,-5.691,,,0.0227,60000.0,1.0,0.00744,4.0,0.102,0.0,,30/05/2018,0.0488,136.64,Happy
+Quiere Beber,['Anuel AA'],0FDMH2ahuIVzCybwHJK9zh,2018,69,0.773,0.57,0.772,-3.482,,,0.372,187125.0,0.0,0.00524,8.0,0.108,1.0,,17/07/2018,0.113,95.038,Happy
+Airplane pt.2,['BTS'],0xKNTDmIym4R2TfKnS4FQo,2018,71,0.769,0.817,0.866,-4.092,,,0.0268,218615.0,0.0,9.95e-05,0.0,0.084,0.0,,24/08/2018,0.0339,139.979,Happy
+Nobody Cares,['Kina'],4CALLtGlZBwdpfQvMQvhH2,2018,67,0.657,0.159,0.0833,-15.618,,,0.725,175229.0,1.0,0.73,4.0,0.279,0.0,,05/03/2018,0.0395,100.018,Calm
+Whuss The Deal,['Shoreline Mafia'],64FxpKdU055iIaMDY441Qc,2018,60,0.837,0.403,0.2,-10.053,,,0.155,195636.0,1.0,0.000511,2.0,0.225,1.0,,04/05/2018,0.33,82.517,Happy
+First Time (feat. Dylan Matthew),"['Seven Lions', 'SLANDER', 'Dabin', 'Dylan Matthew']",27YD36FUikKxbp3bKSiKGZ,2018,61,0.422,0.677,0.146,-5.76,,,0.251,297782.0,0.0,3.55e-06,11.0,0.16,1.0,,12/10/2018,0.0365,150.131,Sad
+No Lie,"['Sean Paul', 'Dua Lipa']",48QmG1dfvMuYLxMPt7KSRA,2018,77,0.742,0.882,0.463,-2.862,,,0.0466,221176.0,0.0,0.0,7.0,0.206,1.0,,29/06/2018,0.117,102.04,Energetic
+moonchild,['RM'],5Zlo5ZYjrr6DwQw1kBi5bA,2018,69,0.504,0.869,0.19,-5.576,,,0.0254,205833.0,0.0,0.0,9.0,0.0659,0.0,,22/10/2018,0.213,157.992,Energetic
+Mi ReligiÃ³n,['T3R Elemento'],33MU3TnkqOle5HjXefemdx,2018,66,0.676,0.556,0.851,-7.058,,,0.806,194715.0,1.0,0.0,6.0,0.125,0.0,,16/11/2018,0.0308,119.007,Sad
+Napkins,['RIZ LA VIE'],37b1KAbfOZeBzeMB0LGO3g,2018,62,0.76,0.444,0.66,-8.976,,,0.431,215625.0,0.0,1.25e-06,0.0,0.106,0.0,,23/02/2018,0.386,144.15,Happy
+ONCE UPON A TIME (FREESTYLE),"['IDK', 'Denzel Curry']",7hZoTr4ffMGqm9opMiGmBp,2018,64,0.653,0.91,0.818,-3.797,,,0.114,150819.0,1.0,0.0,6.0,0.111,1.0,,09/11/2018,0.319,91.102,Energetic
+Switch,['6LACK'],29ZZAShKhwRUuKULSNtxX6,2018,65,0.66,0.658,0.153,-6.127,,,0.0409,207071.0,1.0,0.00595,7.0,0.102,1.0,,14/09/2018,0.0387,176.701,Energetic
+I Could Never Be Loved,['Powfu'],2c9iVAV8Vte2POKrVZFC02,2018,64,0.911,0.255,0.244,-15.257,,,0.499,213943.0,0.0,0.000246,8.0,0.0937,1.0,,18/06/2018,0.153,137.994,Sad
+High On Life (feat. Bonn),"['Martin Garrix', 'Bonn']",4ut5G4rgB1ClpMTMfjoIuy,2018,73,0.414,0.486,0.368,-6.431,,,0.0129,230762.0,0.0,0.0,6.0,0.111,0.0,,29/07/2018,0.0311,128.038,Sad
+Blue Laces 2,['Nipsey Hussle'],7yB6GF5kgPEoeGE4EAWiJU,2018,60,0.569,0.836,0.0927,-3.831,,,0.0276,250920.0,1.0,0.0,4.0,0.479,0.0,,16/02/2018,0.226,75.701,Energetic
+Dura - Remix,"['Daddy Yankee', 'Natti Natasha', 'Becky G', 'Bad Bunny']",6U2NuJILEOEpW2tVCuqKHb,2018,68,0.772,0.803,0.853,-3.035,,,0.188,242160.0,0.0,0.0,1.0,0.434,1.0,,27/04/2018,0.0468,94.981,Happy
+She Bad,"['Cardi B', 'YG']",0CfmNX2TXk7yoJqHJiixnp,2018,62,0.791,0.504,0.355,-7.864,,,0.0183,230953.0,1.0,0.0,10.0,0.0963,1.0,,06/04/2018,0.266,159.949,Energetic
+Â¿Quien Tu Eres?,['Bad Bunny'],6kN06eEOblRAuWI0xUUS91,2018,66,0.727,0.58,0.325,-6.804,,,0.185,159229.0,1.0,3.58e-06,2.0,0.125,0.0,,23/12/2018,0.136,137.048,Happy
+RAP DEVIL,['Machine Gun Kelly'],43TP6JCWXgkc2D7Xjz5hBr,2018,64,0.896,0.834,0.776,-4.682,,,0.215,281587.0,1.0,3.92e-06,9.0,0.184,0.0,,21/09/2018,0.238,149.968,Happy
+TATI,"['6ix9ine', 'DJ SpinKing']",6SOBCABlykuNrO04rmXpLs,2018,65,0.779,0.767,0.523,-5.462,,,0.00214,154565.0,1.0,0.0,11.0,0.102,0.0,,27/11/2018,0.258,91.981,Energetic
+Rise,"['Jonas Blue', 'Jack & Jack']",3u1S1OmAUhx5DRlLrXqyp3,2018,73,0.69,0.784,0.669,-4.653,,,0.323,194408.0,0.0,0.0,1.0,0.203,1.0,,25/05/2018,0.032,106.066,Energetic
+CrÃ©eme,"['KAROL G', 'Maluma']",1mT47pKLXUwPYGwB91GcNz,2018,71,0.715,0.872,0.682,-3.501,,,0.154,212493.0,0.0,0.000146,6.0,0.11,1.0,,02/11/2018,0.0547,96.939,Happy
+No Te Contaron Mal,['Christian Nodal'],1LO951RWD10l9Vys0NrFty,2018,71,0.617,0.57,0.632,-3.074,,,0.388,156947.0,0.0,0.0,9.0,0.143,0.0,,07/09/2018,0.0374,163.2,Happy
+Lonely One,['Luke Combs'],5w5fbyYHo5129Ce4c7qeWa,2018,61,0.495,0.628,0.414,-5.288,,,0.131,206107.0,0.0,6.77e-06,8.0,0.104,1.0,,01/06/2018,0.029,144.944,Happy
+Body - Dzeko Remix,"['Loud Luxury', 'Brando', 'Dzeko']",4RgDgaohkG08f630ZT9QKc,2018,68,0.653,0.946,0.653,-3.757,,,0.00812,165714.0,0.0,0.000207,5.0,0.126,0.0,,27/08/2018,0.0556,125.966,Energetic
+BBO (Bad Bitches Only),"['Migos', '21 Savage']",4BHzHISX21PYwGXiBEUQ70,2018,62,0.808,0.771,0.471,-5.719,,,0.0413,251859.0,1.0,1.29e-06,4.0,0.18,0.0,,26/01/2018,0.0645,161.94,Happy
+Unappreciated,['Yung Bleu'],3cLLfUGDcr5VSU3R4GsAOG,2018,60,0.643,0.589,0.324,-4.793,,,0.201,171947.0,1.0,0.0,4.0,0.108,0.0,,22/08/2018,0.12,158.108,Energetic
+My Way,['Queen Key'],0ChBY4SDZOrsfRCRiXAVXz,2018,62,0.846,0.809,0.512,-3.076,,,0.0761,144660.0,1.0,0.0,11.0,0.082,0.0,,01/06/2018,0.336,140.011,Energetic
+CHANCES,"['KAYTRANADA', 'Shay Lia']",439X8jGytErRiPnaoUJHju,2018,67,0.835,0.527,0.611,-7.272,,,0.204,218200.0,0.0,0.000423,7.0,0.283,0.0,,30/11/2018,0.128,106.003,Happy
+Night Shift,['Lucy Dacus'],2AF5Kzxb4pz7j79Ity84pP,2018,62,0.48,0.31,0.16,-7.887,,,0.312,391829.0,0.0,1.47e-05,9.0,0.113,1.0,,02/03/2018,0.0258,86.149,Sad
+09/16,['Russ'],7a5RvlW5tMU0AZ4tvbGLhn,2018,63,0.679,0.376,0.321,-12.39,,,0.947,249867.0,0.0,0.0,1.0,0.115,1.0,,20/07/2018,0.395,123.352,Sad
+Let It All Work Out,['Lil Wayne'],3BUWNzPWz2mDbptZmGEXpB,2018,60,0.551,0.562,0.438,-6.862,,,0.0218,316192.0,1.0,0.0,8.0,0.302,0.0,,28/09/2018,0.163,135.679,Energetic
+Intro,['Juice WRLD'],7LoWAhcGbxSkT6trTqXQR6,2018,62,0.558,0.384,0.829,-13.644,,,0.93,74866.0,1.0,6.79e-05,6.0,0.604,0.0,,10/12/2018,0.143,75.956,Sad
+Por Siempre Mi Amor,['Banda MS de Sergio LizÃ¡rraga'],38ofGhTF7TlGS4HkM6e2VS,2018,67,0.812,0.37,0.744,-6.505,,,0.174,200173.0,0.0,0.0,8.0,0.123,1.0,,14/09/2018,0.0376,124.938,Happy
+All Out Life,['Slipknot'],6vAQtUlYrzolE6SS9QCTs5,2018,67,0.499,0.97,0.0506,-2.838,,,0.000683,340132.0,1.0,0.136,0.0,0.0871,1.0,,31/10/2018,0.116,106.558,Energetic
+Dreams,['Bazzi'],6fZpcVRr45Z6fLtciswBBU,2018,63,0.663,0.666,0.605,-5.441,,,0.583,147021.0,0.0,3.85e-06,6.0,0.222,1.0,,12/04/2018,0.125,159.983,Sad
+Disease,['Beartooth'],1hkm127hnTSa2xjGNw8IAE,2018,62,0.525,0.957,0.456,-3.742,,,0.00202,228373.0,0.0,3.25e-06,0.0,0.333,1.0,,28/09/2018,0.0689,97.445,Energetic
+forget her,['girl in red'],00gLisxOrLruNwJFdpkHc2,2018,66,0.533,0.313,0.517,-16.827,,,0.631,143356.0,0.0,0.681,2.0,0.072,1.0,,21/11/2018,0.033,148.926,Calm
+Morph,['Twenty One Pilots'],01vv2AjxgP4uUyb8waYO5Y,2018,67,0.734,0.607,0.518,-7.249,,,0.0747,258853.0,0.0,0.000577,8.0,0.0968,0.0,,05/10/2018,0.0806,90.023,Happy
+Skoompin',['ShooterGang Kony'],1aEvsjCo142yxn02ACMCd7,2018,59,0.772,0.623,0.692,-6.149,,,0.148,158496.0,1.0,0.0,7.0,0.408,1.0,,18/05/2018,0.354,102.953,Energetic
+didya think,['Arlie'],4HOg84QsolNLzNp08qZ3sX,2018,61,0.468,0.89,0.709,-2.974,,,0.00415,200467.0,0.0,1.21e-05,4.0,0.508,1.0,,19/09/2018,0.0701,140.265,Energetic
+Two Shots (feat. gnash),"['Goody Grace', 'gnash']",1746Hs7bQJMMYAZvVYM3ig,2018,59,0.768,0.408,0.0905,-8.551,,,0.0542,179915.0,1.0,0.0,4.0,0.106,0.0,,23/03/2018,0.0714,129.96,Sad
+The Girl I Haven't Met (Biskwiq Flip),"['Kudasaibeats', 'Biskwiq']",4IGgG3xT8XL64Mf2P69F9d,2018,62,0.733,0.547,0.295,-5.464,,,0.301,194220.0,0.0,0.00537,8.0,0.383,1.0,,06/05/2018,0.203,71.976,Happy
+Cross Me (feat. Lil Baby and Plies),"['YoungBoy Never Broke Again', 'Lil Baby', 'Plies']",3V3JxDpiUg0RAt1Mfbn6Ht,2018,59,0.717,0.617,0.654,-7.385,,,0.244,233684.0,1.0,0.0,9.0,0.148,0.0,,20/12/2018,0.343,152.049,Energetic
+The Champion - Bonus Track,"['Carrie Underwood', 'Ludacris']",2F6JxWMP2ZfmVErc3ZTmqQ,2018,61,0.529,0.87,0.36,-3.32,,,0.0529,222507.0,0.0,0.0,8.0,0.0946,0.0,,14/09/2018,0.327,182.1,Energetic
+Kids Turned Out Fine,['A$AP Rocky'],0qp8MuZNKelOGTK2HPlXBA,2018,63,0.302,0.669,0.127,-9.404,,,0.275,183120.0,1.0,3.58e-05,1.0,0.369,1.0,,25/05/2018,0.238,164.8,Energetic
+Leave (Get Out) - 2018,['JoJo'],6nIcGJK6Pj1ThzC6r8O8hA,2018,63,0.491,0.73,0.461,-4.399,,,0.039,239560.0,0.0,0.0,2.0,0.112,0.0,,21/12/2018,0.0432,87.098,Happy
+Indica Badu,"['Logic', 'Wiz Khalifa']",0jqBo5RYn008f4ZY8kPewW,2018,62,0.742,0.72,0.97,-2.876,,,0.0402,260320.0,1.0,0.000846,0.0,0.0839,1.0,,09/03/2018,0.116,77.011,Happy
+Perfect Strangers,"['Jonas Blue', 'JP Cooper']",3P3pw6C19j31Rnzgo3JG7o,2018,76,0.73,0.861,0.704,-4.1,,,0.39,196613.0,0.0,0.0,1.0,0.213,1.0,,09/11/2018,0.0451,117.965,Happy
+Mutual Butterflies,['Ryan Trey'],531MBHrtGF6nAkK4zUafi9,2018,62,0.616,0.649,0.751,-5.133,,,0.59,183875.0,1.0,0.0,3.0,0.142,0.0,,31/08/2018,0.462,78.131,Energetic
+just friends,['potsu'],5Mn3siu0XehRb9kTEPqotX,2018,63,0.563,0.3,0.38,-16.664,,,0.927,172800.0,0.0,0.655,11.0,0.234,0.0,,17/07/2018,0.0512,74.971,Calm
+Proud of You,"['A L E X', 'Alicks']",6mRmaBAb8ysO3pcGDaegL2,2018,64,0.82,0.281,0.62,-15.194,,,0.869,182869.0,0.0,0.961,8.0,0.0925,0.0,,18/06/2018,0.0802,104.988,Calm
+Found/Tonight,"['Ben Platt', 'Lin-Manuel Miranda']",0ileL1L3Vtpf5VZ5RQZ94m,2018,62,0.349,0.307,0.447,-7.197,,,0.801,179242.0,0.0,0.0,10.0,0.0968,1.0,,19/03/2018,0.0402,80.964,Sad
+Finest Hour (feat. Abir),"['Cash Cash', 'ABIR']",0p0ljM6RxgpGt7wthGqBZa,2018,62,0.656,0.729,0.438,-4.223,,,0.0789,215781.0,0.0,0.0,5.0,0.133,0.0,,12/04/2018,0.0765,95.974,Happy
+Polaroid,"['Jonas Blue', 'Liam Payne', 'Lennon Stella']",49COPp81lGS9Hl9OwKlsKl,2018,71,0.652,0.898,0.472,-4.481,,,0.29,193377.0,0.0,0.0,7.0,0.073,0.0,,09/11/2018,0.0361,114.043,Happy
+Toxic Waste,['Trippie Redd'],1SxagO9GK0UUeEYLmH8Pln,2018,61,0.728,0.517,0.379,-11.404,,,0.0555,173129.0,1.0,1.95e-06,8.0,0.107,1.0,,09/11/2018,0.0629,111.974,Happy
+The Count (feat. Wiz Khalifa),"['Curren$y', 'Harry Fraud', 'Wiz Khalifa']",171PWhxgdrIOgcAiBPO3Gr,2018,60,0.385,0.757,0.469,-5.96,,,0.709,194595.0,1.0,0.0,0.0,0.235,1.0,,30/05/2018,0.167,82.673,Sad
+Fuentes de Ortiz,['Ed Maverick'],0akyEssGRVHstqCSWXusJL,2018,77,0.83,0.159,0.189,-14.461,,,0.946,207400.0,1.0,2.02e-05,1.0,0.362,1.0,,02/03/2018,0.0383,104.95,Sad
+I donâ€™t let go,['XXXTENTACION'],4axYWgXASdsCBHuwInAubT,2018,64,0.797,0.293,0.478,-7.479,,,0.591,121630.0,1.0,0.0724,5.0,0.148,1.0,,07/12/2018,0.08,80.035,Sad
+In Love,['khai dreams'],27Y4mbj2tHmCrM3BdSmlVP,2018,63,0.511,0.235,0.584,-13.345,,,0.918,69389.0,0.0,0.0,5.0,0.105,1.0,,12/02/2018,0.127,117.769,Sad
+Freaks,['Jordan Clarke'],44r4zta6P9flkhKaVnbsvG,2019,67,0.674,0.568,0.64,-6.356,,,0.116,174800.0,0.0,0.0,1.0,0.165,1.0,,25/02/2019,0.0408,166.107,Happy
+Somos Arrieros,['Los Dos Carnales'],5fbpA0qTcTDd4I5h39ox4a,2019,67,0.717,0.639,0.721,-5.216,,,0.538,178509.0,0.0,0.0,8.0,0.0749,1.0,,29/11/2019,0.15,99.184,Happy
+shut up,['Greyson Chance'],65mPCrY32YMQlBnmWVrKNa,2019,66,0.821,0.448,0.45,-4.33,,,0.296,170364.0,0.0,3.26e-06,9.0,0.0683,1.0,,15/03/2019,0.0468,105.006,Sad
+AÃ§aÃ­ Bowl,['Dominic Fike'],5M3KOe4FGUidvRDUbFFdFk,2019,65,0.687,0.439,0.352,-8.347,,,0.502,177400.0,1.0,0.000367,2.0,0.109,1.0,,07/06/2019,0.0426,91.972,Sad
+Love Like That,['Lauv'],23tJmuwvUOa2kTsOlNMWCS,2019,72,0.679,0.481,0.486,-9.045,,,0.208,184557.0,0.0,1.02e-05,3.0,0.284,1.0,,20/12/2019,0.0593,80.011,Happy
+"Spooky, Scary Skeletons - Undead Tombstone Remix",['Andrew Gold'],1sUdq3kWa9dJXHu3eYOUll,2019,68,0.772,0.788,0.574,-5.414,,,0.0027,125625.0,0.0,0.000583,9.0,0.353,0.0,,18/10/2019,0.0619,127.91,Happy
+Hey Lover!,['Wabie'],7rC3P7tpWriaC4hYWKwGQd,2019,65,0.586,0.744,0.523,-10.142,,,0.00614,162560.0,0.0,0.000172,4.0,0.372,1.0,,19/06/2019,0.0508,117.006,Energetic
+Tutu,"['Camilo', 'Pedro CapÃ³']",1nocRtwyNPVtGcIJqfgdzZ,2019,78,0.731,0.832,0.94,-2.592,,,0.273,178613.0,0.0,0.0,9.0,0.0665,1.0,,09/08/2019,0.0503,146.013,Happy
+Caught Up (feat. Khalid),"['Majid Jordan', 'Khalid']",1opARDDYaOeE1QUdwXmBGu,2019,67,0.678,0.438,0.501,-8.847,,,0.29,247546.0,1.0,0.0,9.0,0.0838,0.0,,24/07/2019,0.0577,81.498,Sad
+Outnumbered,['Dermot Kennedy'],6UjZ2Yx2g2a52XxiA8ONxZ,2019,73,0.614,0.684,0.258,-5.79,,,0.247,245700.0,0.0,0.0,0.0,0.0976,1.0,,13/06/2019,0.157,156.85,Energetic
+Opps,"['JayDaYoungan', 'Yungeen Ace']",5Jdob8VuV2VzvOx1IUn5jm,2019,62,0.902,0.475,0.584,-9.267,,,0.128,222614.0,1.0,0.0,5.0,0.109,1.0,,28/06/2019,0.388,129.978,Happy
+The Next Right Thing,['Kristen Bell'],1gilgPrTkkZTp09Xf8zCmK,2019,66,0.296,0.119,0.146,-14.256,,,0.839,216773.0,0.0,1.59e-05,0.0,0.385,0.0,,15/11/2019,0.0475,170.037,Sad
+Only Child,['Tierra Whack'],4zMmqb0pYwX6b0qc0slCoT,2019,64,0.826,0.365,0.802,-7.024,,,0.849,239324.0,1.0,3.8e-06,1.0,0.186,1.0,,19/02/2019,0.0412,85.244,Sad
+Poison,['Rod Wave'],1CxYDvfq3KVvsPSZ9NCdM9,2019,61,0.667,0.616,0.759,-10.154,,,0.137,195866.0,1.0,0.0,11.0,0.146,1.0,,01/11/2019,0.256,152.112,Happy
+Uno,['Ambjaay'],3AEgic4yp82NxMWUjHtxnO,2019,64,0.978,0.477,0.196,-8.159,,,0.000143,109091.0,1.0,0.0,8.0,0.133,1.0,,10/05/2019,0.155,110.002,Energetic
+You Can't Save Me,['SiR'],5LKzqs734Xs528hqK8bGS1,2019,64,0.623,0.585,0.538,-7.895,,,0.0628,174947.0,1.0,0.000155,0.0,0.119,1.0,,30/08/2019,0.124,158.273,Happy
+Drive Safe,['Rich Brian'],6eDfe957aV4sqGnDhlSikJ,2019,67,0.635,0.312,0.414,-8.134,,,0.635,240118.0,1.0,0.0,7.0,0.138,1.0,,26/07/2019,0.0265,98.017,Sad
+WHEN I WAS OLDER - Music Inspired By The Film ROMA,['Billie Eilish'],7tGEAA1f8MydT7eVbbO9Zy,2019,69,0.696,0.332,0.0628,-12.834,,,0.853,270520.0,0.0,0.433,6.0,0.0848,1.0,,09/01/2019,0.0425,150.13,Sad
+You've Always Been,['Unspoken'],3WJu00SBajX0tuNfg53yKU,2019,63,0.458,0.669,0.488,-5.637,,,0.0365,218147.0,0.0,0.0,2.0,0.118,0.0,,21/06/2019,0.0331,166.069,Energetic
+Ghost,['Badflower'],7w09r53aPON8ZUvEAnPe94,2019,63,0.505,0.839,0.326,-4.966,,,0.0111,259520.0,1.0,0.0,11.0,0.211,0.0,,22/02/2019,0.0569,139.961,Energetic
+FREEDDAWG,['YoungBoy Never Broke Again'],1GeFOFZjBs91Dl9vXQSNOR,2019,63,0.74,0.555,0.706,-10.329,,,0.00581,111882.0,1.0,1.23e-06,1.0,0.296,1.0,,03/06/2019,0.407,173.974,Energetic
+Say It,['Maggie Rogers'],6PyZGb1rB7oLKCICWTmGYa,2019,63,0.557,0.496,0.248,-7.184,,,0.208,220960.0,0.0,0.00824,10.0,0.147,1.0,,18/01/2019,0.0332,84.912,Sad
+veil,['é ˆç”°æ™¯å‡ª'],1dGF5ymTyBB2ZmOypkeU1F,2019,67,0.559,0.873,0.797,-4.401,,,0.0281,209636.0,0.0,0.0,0.0,0.185,0.0,,21/08/2019,0.0543,150.055,Energetic
+VOICES (feat. XXXTENTACION),"['Skye', 'XXXTENTACION']",2Yr2BzqNDpIh0YQcnFqM09,2019,66,0.678,0.672,0.625,-5.688,,,0.00959,155993.0,1.0,0.0,0.0,0.0868,1.0,,31/10/2019,0.0302,136.933,Happy
+Calm Rain pt. 1,['Outside HD Samples'],2weL2wx1EVyZ8srNtRIs6T,2019,67,0.14,0.187,0.0333,-25.987,,,0.135,151715.0,0.0,0.992,1.0,0.18,1.0,,30/09/2019,0.0554,84.077,Calm
+Worth It,['YK Osiris'],4XiGKQqbmnMVxDzUj6j3f2,2019,65,0.764,0.528,0.422,-4.082,,,0.468,189253.0,0.0,0.0,5.0,0.0811,0.0,,08/02/2019,0.0588,123.936,Sad
+å†¬ã®ã¯ãªã—,['ã‚®ãƒ´ãƒ³'],0bgujdpFkvd6vmQpqmT2pz,2019,69,0.445,0.974,0.414,-1.455,,,0.000826,206307.0,0.0,0.0,5.0,0.292,1.0,,18/09/2019,0.0696,134.969,Energetic
+Sounds of Nature: Thunder,['The Outdoor Library'],1ODtZW4pDlZtl0UyPg0ax3,2019,66,0.128,0.389,0.0224,-20.07,,,0.00412,166790.0,0.0,0.988,2.0,0.457,0.0,,10/10/2019,0.0639,95.252,Calm
+Nero Forte,['Slipknot'],56fiFTRrSiHHH3gBeaTg2P,2019,69,0.336,0.978,0.496,-2.358,,,0.000437,315177.0,1.0,0.000525,7.0,0.138,1.0,,09/08/2019,0.0846,129.842,Energetic
+Sea Of Colors,['Airship Express'],0vpo0LIlSsiqIWf44ydK2z,2019,65,0.255,0.118,0.109,-20.562,,,0.963,184250.0,0.0,0.897,6.0,0.101,1.0,,01/11/2019,0.0769,139.642,Calm
+Battle Cry,['Polo G'],7caP3UAf8ZtIMVpWfEIA4H,2019,64,0.754,0.597,0.347,-7.809,,,0.212,192080.0,1.0,0.0,7.0,0.0866,1.0,,07/06/2019,0.38,150.089,Energetic
+El Dinero Los Cambio,['Fuerza Regida'],4kgZoTVXtWLcDgs0M5Coiz,2019,66,0.749,0.73,0.958,-3.096,,,0.44,184501.0,0.0,3.84e-06,6.0,0.0968,0.0,,22/02/2019,0.0346,115.438,Happy
+Degenerates,['A Day To Remember'],77Ht6FFAeyHgKl6X87mnTk,2019,64,0.426,0.946,0.433,-3.089,,,6.92e-05,184893.0,0.0,7.04e-05,10.0,0.331,0.0,,20/08/2019,0.0822,174.052,Energetic
+9 and Three Quarters (Run Away),['TOMORROW X TOGETHER'],2MsNSKQNQNRklkKFxxvIav,2019,71,0.639,0.756,0.532,-4.42,,,0.0055,211867.0,0.0,0.0,1.0,0.13,1.0,,21/10/2019,0.0608,128.937,Energetic
+SAYONARA,['Aries'],3h0xzCrYEVVFhhycY7jGBs,2019,65,0.548,0.63,0.338,-6.1,,,0.0111,180789.0,1.0,0.000721,5.0,0.128,1.0,,18/04/2019,0.0343,75.972,Happy
+Darkside,['grandson'],3JyvSSU0VnlMUsQckyEVfX,2019,68,0.497,0.701,0.18,-6.834,,,0.000568,229531.0,1.0,0.000287,7.0,0.352,1.0,,22/02/2019,0.119,76.918,Energetic
+Pose (feat. Lil Uzi Vert),"['Yo Gotti', 'Lil Uzi Vert']",6e9biVAugkOfydEN8OiJpi,2019,64,0.944,0.613,0.328,-5.999,,,0.00818,170156.0,1.0,0.0,10.0,0.0893,0.0,,23/08/2019,0.291,120.102,Energetic
+With U,"['SwuM', 'Idealism']",0rNpm25xLsckCS9JPAgpwP,2019,67,0.469,0.309,0.185,-11.858,,,0.863,218667.0,0.0,0.809,1.0,0.0923,0.0,,21/02/2019,0.0341,90.062,Calm
+Another In The Fire - Studio,"['Hillsong UNITED', 'TAYA']",4HP7ZEPa8nCVhKsGK9gzKM,2019,61,0.497,0.566,0.245,-7.07,,,0.0901,265519.0,0.0,0.0,7.0,0.0942,1.0,,26/04/2019,0.0331,129.865,Sad
+Pretty,"['Landon Cube', '24kGoldn']",3Z9vR8JrHFyyjB0JoHzx6p,2019,64,0.679,0.853,0.767,-5.289,,,0.195,191440.0,1.0,0.0,0.0,0.132,0.0,,18/10/2019,0.0659,76.064,Happy
+Lunchbox Friends,['Melanie Martinez'],6viCrMdt8zgjOygIuJMC5X,2019,67,0.696,0.574,0.434,-6.899,,,0.404,169869.0,1.0,0.0,3.0,0.0954,0.0,,06/09/2019,0.0949,93.033,Sad
+Something Real (with London On Da Track & Chris Brown),"['Summer Walker', 'London On Da Track', 'Chris Brown']",4otQJBpb8okSeykALR3eCH,2019,66,0.685,0.667,0.643,-3.837,,,0.0564,183138.0,1.0,0.0,8.0,0.115,1.0,,22/11/2019,0.0365,95.518,Happy
+The King,['Conan Gray'],54GASuUdLbhhdyECNUp3Pb,2019,67,0.643,0.716,0.854,-6.733,,,0.0643,174320.0,0.0,0.0,2.0,0.14,1.0,,08/03/2019,0.0915,81.027,Happy
+Breakin Bad (Okay),"['Sleepy Hallow', 'Sheff G']",2KMPEI406H9G8UqiWDfuTK,2019,64,0.748,0.62,0.915,-5.631,,,0.34,131287.0,1.0,0.0,1.0,0.15,0.0,,31/10/2019,0.349,94.508,Happy
+Power Over Me,['Dermot Kennedy'],4tViDtaHuSLnh7HVJTrKhs,2019,75,0.319,0.841,0.483,-4.232,,,0.0518,206960.0,0.0,0.0,9.0,0.106,0.0,,04/10/2019,0.147,173.868,Energetic
+Ashley (with DaBaby),"['Stunna 4 Vegas', 'DaBaby']",4gH4e5ENzVDg4N8fOp2vDP,2019,62,0.884,0.807,0.916,-3.462,,,0.00284,151859.0,1.0,0.0,8.0,0.111,0.0,,10/05/2019,0.325,144.018,Energetic
+Strings,"['iann dior', 'Gunna']",2VdWzhJDjWaELCEhwyO8Q4,2019,65,0.797,0.566,0.392,-6.654,,,0.128,194000.0,1.0,0.0,1.0,0.114,1.0,,08/11/2019,0.042,119.937,Happy
+MOJAITA,"['J Balvin', 'Bad Bunny']",71pEiUWwfDFiRO6RmFpnBf,2019,69,0.45,0.842,0.885,-3.602,,,0.0171,187333.0,0.0,0.0,0.0,0.377,1.0,,28/06/2019,0.102,172.069,Energetic
+Bad Idea (feat. Chance the Rapper),"['Cordae', 'Chance the Rapper']",5yK37zazHUe3WxEvymZs20,2019,64,0.732,0.464,0.353,-8.591,,,0.309,234615.0,1.0,0.0,7.0,0.107,0.0,,26/07/2019,0.301,82.494,Sad
+I Don't Belong In This Club,"[""Why Don't We"", 'Macklemore']",6N22Yl2nHPnksP1hu3mxJE,2019,60,0.797,0.543,0.164,-5.744,,,0.0202,222621.0,0.0,0.0,11.0,0.0726,1.0,,20/03/2019,0.0439,115.036,Sad
+Drugs,['Falling In Reverse'],5BkCDt5w0WOGgBgDC7T39i,2019,67,0.503,0.904,0.384,-3.895,,,0.000482,231920.0,0.0,0.0,2.0,0.132,0.0,,08/04/2019,0.048,165.099,Energetic
+Every Time You Leave,"['I Prevail', 'Delaney Jane']",5icbZiF6lcuEORG0UzMsS2,2019,64,0.473,0.749,0.167,-5.047,,,0.000466,216627.0,0.0,5.5e-06,1.0,0.0883,0.0,,29/03/2019,0.0287,150.022,Energetic
+Hakuna Matata,"['Billy Eichner', 'Seth Rogen', 'JD McCrary', 'Childish Gambino']",1ymvyDsiAUbzEhmSkfCSYh,2019,67,0.53,0.584,0.575,-11.891,,,0.274,251520.0,0.0,0.0,0.0,0.158,1.0,,11/07/2019,0.218,81.854,Happy
+Be Alright,['Parmalee'],7MPc82UJLQm5VasRVkwquM,2019,62,0.598,0.861,0.325,-3.215,,,0.0453,201027.0,0.0,0.0,10.0,0.257,1.0,,15/03/2019,0.0424,128.025,Energetic
+Ghetto Angels,['NoCap'],0T6DHuLI3NANOAFPgE8AXR,2019,62,0.68,0.669,0.429,-5.621,,,0.107,235263.0,1.0,0.0,2.0,0.112,0.0,,28/05/2019,0.191,152.174,Happy
+Daphne Blue,['The Band CAMINO'],2FhJvFKyZng57iVQmFayVw,2019,63,0.567,0.925,0.704,-2.775,,,0.00239,182840.0,0.0,0.0054,1.0,0.348,0.0,,23/08/2019,0.0906,118.006,Energetic
+Backpack City,"['Flovry', 'tender spring']",6Fv9r2ov4aWPArkb5cKIZR,2019,67,0.666,0.197,0.12,-15.365,,,0.879,151731.0,0.0,0.881,4.0,0.109,1.0,,26/11/2019,0.0692,77.079,Calm
+Lost in the Fire (feat. The Weeknd),"['Gesaffelstein', 'The Weeknd']",2vXKRlJBXyOcvZYTdNeckS,2019,70,0.658,0.671,0.166,-12.21,,,0.0933,202093.0,1.0,0.000927,2.0,0.115,1.0,,08/03/2019,0.0363,100.966,Happy
+War Baby,['Roddy Ricch'],78X9D3v7OarDPNdTPUV4CQ,2019,64,0.663,0.706,0.244,-6.97,,,0.337,195668.0,1.0,0.0,5.0,0.113,0.0,,06/12/2019,0.329,74.836,Energetic
+Baila Baila Baila,['Ozuna'],5PXsZaT8cOxb4mXrA20PMQ,2019,73,0.837,0.626,0.592,-5.674,,,0.0588,158760.0,0.0,0.0,11.0,0.252,0.0,,29/11/2019,0.152,99.987,Happy
+Buster,['$atori Zoom'],7fm5r6dD04emTplbHD5wDP,2019,67,0.883,0.625,0.871,-4.098,,,0.239,141519.0,1.0,0.0,6.0,0.0765,1.0,,11/09/2019,0.245,126.677,Happy
+That's Life (feat. Mac Miller & Sia),"['88-Keys', 'Mac Miller', 'Sia']",5h0Jgt873QtgL6nJRBGfT6,2019,64,0.525,0.774,0.526,-4.532,,,0.24,202391.0,1.0,1.07e-06,9.0,0.495,1.0,,20/06/2019,0.241,154.192,Energetic
+"Ride Or Die - From ""Queen & Slim: The Soundtrack""","['Megan Thee Stallion', 'VickeeLo']",6CYyxobulcKumfeV6e2I9g,2019,63,0.852,0.839,0.484,-4.653,,,0.0335,123200.0,1.0,0.0,1.0,0.176,1.0,,25/10/2019,0.206,100.016,Energetic
+ã‚«ãƒ¯ã‚­ãƒ²ã‚¢ãƒ¡ã‚¯,['ç¾Žæ³¢'],1gUAX2ImxDsB3YDcyxMXlB,2019,70,0.541,0.846,0.524,-2.729,,,0.0122,251933.0,0.0,0.000149,6.0,0.163,0.0,,30/01/2019,0.0551,129.138,Energetic
+Falling For Boys,['Julia Michaels'],5AmTHXOp1sTFkYZBRBQ7zt,2019,65,0.646,0.485,0.408,-6.647,,,0.501,183720.0,1.0,0.0,0.0,0.121,1.0,,28/06/2019,0.0829,148.13,Sad
+skeletons,['keshi'],2BuJrxYKhYky20dQqTlobO,2019,68,0.719,0.265,0.273,-12.782,,,0.296,152480.0,1.0,0.0865,2.0,0.108,1.0,,16/07/2019,0.0754,80.021,Sad
+Colors of the Rain,['Naturaleza FX'],4UFlnhDTGyKvlhOQziDHkG,2019,66,0.0,2.02e-05,0.0,-16.873,,,1.33e-05,150879.0,0.0,0.208,1.0,0.311,1.0,,10/10/2019,0.0,0.0,Sad
+New Every Day,['Luke Combs'],429Ok92eZTbjnH8e2ytGh8,2019,63,0.466,0.7,0.563,-5.577,,,0.302,199293.0,0.0,0.0,4.0,0.0798,1.0,,08/11/2019,0.0431,77.087,Happy
+BROWN SKIN GIRL,"['Blue Ivy', 'SAINt JHN', 'BeyoncÃ©', 'WizKid']",0B3FovCVaGKS5w1FTidEUP,2019,69,0.603,0.602,0.595,-7.083,,,0.049,248472.0,0.0,0.0,6.0,0.279,1.0,,19/07/2019,0.23,119.703,Energetic
+Love Wonâ€™t Change,['J.I the Prince of N.Y'],1ji27xS6hNf2LEZQNXGTdT,2019,64,0.551,0.59,0.205,-9.441,,,0.129,128052.0,1.0,0.0,2.0,0.0907,1.0,,11/10/2019,0.394,86.207,Energetic
+16,['Highly Suspect'],7jHJ2MzIKO1kIMxGamKRKn,2019,63,0.534,0.621,0.186,-5.205,,,0.00124,278656.0,1.0,1.39e-05,2.0,0.0596,1.0,,01/11/2019,0.0449,91.845,Sad
+Refiner,"['Maverick City Music', 'Chandler Moore', 'Steffany Gretzinger']",0bHcGi6iafYk4TUrqvDYya,2019,64,0.342,0.18,0.211,-14.847,,,0.872,732554.0,0.0,4.29e-06,4.0,0.145,1.0,,12/11/2019,0.0364,123.979,Sad
+Jealous,['Eyedress'],5s2zbxZI4Ym5LTKwjZHS2V,2019,65,0.474,0.921,0.696,-10.431,,,0.00491,122339.0,0.0,0.859,9.0,0.476,0.0,,06/12/2019,0.0457,93.007,Happy
+Good Vibes,['Chris Janson'],1XVqh0dC0PIl72f2mQhsVt,2019,63,0.582,0.846,0.736,-2.771,,,0.022,165587.0,0.0,0.0,0.0,0.133,1.0,,18/10/2019,0.0451,92.004,Energetic
+Six Feet Apart,['Luke Combs'],5v6gozUHFv9OoNdFYz6p8V,2019,63,0.565,0.598,0.449,-5.894,,,0.335,199068.0,0.0,0.0,6.0,0.124,1.0,,08/11/2019,0.0276,155.814,Sad
+Goodness of God (Live),"['Bethel Music', 'Jenn Johnson']",1gj9poFl2mLKkguqWo5Y1i,2019,65,0.466,0.67,0.395,-4.701,,,0.155,296400.0,0.0,0.0,8.0,0.145,1.0,,25/01/2019,0.0297,126.142,Happy
+Like a Girl,['Lizzo'],5I7sGubUsKo4mVJpBoSVUr,2019,64,0.694,0.807,0.797,-3.183,,,0.0167,184858.0,1.0,0.0,2.0,0.547,1.0,,19/04/2019,0.0888,144.031,Energetic
+A Whole New World (End Title),"['ZAYN', 'Zhavia Ward']",4U9CF27YlwHRtUGKUzhUTT,2019,67,0.302,0.414,0.105,-8.16,,,0.0575,242956.0,0.0,0.0,2.0,0.0861,1.0,,22/05/2019,0.0319,110.508,Sad
+Level Up,['Ciara'],7ssEhls1ZYEGtBsoovkMSe,2019,69,0.746,0.825,0.584,-4.666,,,0.0142,204150.0,0.0,0.0107,1.0,0.121,1.0,,10/05/2019,0.169,152.914,Energetic
+Gasoline,['I Prevail'],6Q1m1GyNxyOwZ2ud3p7XoS,2019,66,0.546,0.945,0.545,-4.399,,,0.000311,153613.0,1.0,0.0,1.0,0.724,1.0,,29/03/2019,0.0531,135.128,Energetic
+Luv Bug,['Kevin Gates'],2ShqM95Kj8k0eCQkd7pVrT,2019,61,0.832,0.515,0.653,-7.112,,,0.0257,185143.0,1.0,6.98e-05,9.0,0.0957,0.0,,31/05/2019,0.375,139.997,Energetic
+Make It Right,['BTS'],6KUE0HSSudAp9AOycaF6SH,2019,73,0.638,0.703,0.261,-7.874,,,0.0104,226321.0,0.0,0.0,7.0,0.132,1.0,,12/04/2019,0.444,105.766,Energetic
+Never Is Enough,['iann dior'],3DIRkZsEx7zFl6ow9qsyHz,2019,65,0.733,0.54,0.642,-4.522,,,0.38,134000.0,1.0,0.0,5.0,0.0633,0.0,,08/11/2019,0.0288,96.03,Happy
+minimal,['ROLE MODEL'],28sNP4vXS6EtFr2VKPhCTQ,2019,64,0.575,0.679,0.204,-4.442,,,0.547,163340.0,1.0,0.0,1.0,0.34,1.0,,03/05/2019,0.0432,169.886,Sad
+i'll die anyway.,['girl in red'],7yyJF1BYBaCifNmO1RGhv7,2019,68,0.472,0.627,0.172,-6.895,,,0.000427,192612.0,0.0,0.574,0.0,0.0798,1.0,,17/07/2019,0.0289,157.909,Sad
+Shotta Flow 2,['NLE Choppa'],6oV5zsbz9V2nZ79PYam9yC,2019,63,0.746,0.527,0.392,-6.93,,,0.00388,132987.0,1.0,0.0,1.0,0.296,1.0,,16/02/2019,0.259,131.792,Energetic
+False God,['Taylor Swift'],5hQSXkFgbxjZo9uCwd11so,2019,66,0.739,0.32,0.351,-10.862,,,0.736,200307.0,0.0,0.000147,11.0,0.111,0.0,,23/08/2019,0.239,79.97,Sad
+Me Niego (feat. Ozuna & Wisin),"['Reik', 'Ozuna', 'Wisin']",4ggiDYAkJ7Yk8d5xOr7Xjo,2019,74,0.777,0.782,0.773,-4.435,,,0.0505,221653.0,0.0,0.0,0.0,0.64,0.0,,31/05/2019,0.0907,94.023,Happy
+Hollywood Whore,['Machine Gun Kelly'],0uFNdjWpogmaJYp2zlNJj5,2019,66,0.734,0.836,0.214,-5.953,,,0.0116,203175.0,1.0,0.0,6.0,0.106,0.0,,05/07/2019,0.0817,100.022,Energetic
+Would Look Perfect,"['Powfu', 'Rxseboy']",2L2mNkEWo818IE4fKbnP0O,2019,67,0.788,0.537,0.434,-4.966,,,0.844,149000.0,0.0,0.0,9.0,0.117,0.0,,18/07/2019,0.107,85.03,Sad
+Si Te Vas,"['Sech', 'Ozuna']",6Y4PDQv4XjYjHLeLmvyOt0,2019,73,0.73,0.644,0.554,-4.124,,,0.0933,204907.0,0.0,4.56e-06,0.0,0.143,1.0,,26/09/2019,0.132,174.101,Energetic
+I'm Something Else,['SomeThingElseyt'],3zRgdfwiFzHeDq4VYOpYpk,2019,66,0.733,0.557,0.331,-9.672,,,0.381,144094.0,1.0,0.0,4.0,0.135,0.0,,22/03/2019,0.0562,92.941,Sad
+Both Sides (feat. Shoreline Mafia),"['Shordie Shordie', 'Shoreline Mafia']",2EEbsvGETiRXbma3hCsAQf,2019,62,0.765,0.82,0.702,-5.856,,,0.0716,167273.0,1.0,0.0,1.0,0.0864,0.0,,11/10/2019,0.214,99.049,Happy
+Peanut Butter Waffles,['Ryan Caraveo'],1qRabaD5y56JZzQSm4qB0n,2019,63,0.688,0.592,0.394,-8.759,,,0.352,193600.0,0.0,3.31e-06,1.0,0.11,1.0,,23/08/2019,0.0347,149.998,Sad
+Home,['Cavetown'],3XRALl9CNCnjjbCZid2L9w,2019,65,0.532,0.474,0.281,-5.223,,,0.387,269897.0,0.0,8.51e-05,1.0,0.11,1.0,,07/06/2019,0.0372,124.86,Sad
+Dark Conversations,['Rod Wave'],7w1yRWWeP2s0anD6luiBYs,2019,61,0.719,0.648,0.61,-5.667,,,0.302,144960.0,1.0,0.0,9.0,0.0561,0.0,,01/11/2019,0.189,158.992,Happy
+Live This Wild,['Lil Mosey'],5fmTiyocDfiXbUZ4SpdXRm,2019,66,0.697,0.685,0.808,-7.005,,,0.14,122853.0,1.0,0.0,7.0,0.0824,1.0,,08/11/2019,0.0712,94.06,Happy
+Untitled,['Jupiter Grains'],3tCBeat5YZBwLf61yoQJ9v,2019,68,0.209,0.0219,0.0358,-25.95,,,0.954,112312.0,0.0,0.938,5.0,0.104,1.0,,12/09/2019,0.0344,78.336,Calm
+Vals De Rodrigues,['Eric Badanti'],3I3WY0C7AQMe6Z6hMUQqd5,2019,69,0.418,0.0368,0.119,-24.304,,,0.993,161209.0,0.0,0.944,11.0,0.0848,0.0,,05/09/2019,0.0499,111.355,Calm
+Chicken Noodle Soup (feat. Becky G),"['j-hope', 'Becky G']",6wyr4ReB05D9sJB1Rsmcqo,2019,73,0.826,0.817,0.168,-4.081,,,0.00502,235497.0,0.0,1.09e-05,2.0,0.294,1.0,,27/09/2019,0.0921,97.053,Energetic
+Every Little Bit Helps,['Luke Combs'],4403SJ69vRequRi3bV57e4,2019,63,0.552,0.876,0.734,-4.268,,,0.0121,247827.0,0.0,0.0,8.0,0.152,1.0,,08/11/2019,0.0437,121.979,Energetic
+Push My Luck,['The Chainsmokers'],4h8Pmw3RELdsanPjssyJoB,2019,69,0.563,0.645,0.523,-6.422,,,0.293,181853.0,0.0,0.0,2.0,0.202,1.0,,06/12/2019,0.0428,89.976,Happy
+IGOR'S THEME,"['Tyler, The Creator']",51RN0kzWd7xeR4th5HsEtW,2019,65,0.467,0.672,0.0648,-7.371,,,0.00559,200693.0,0.0,0.243,10.0,0.607,0.0,,17/05/2019,0.377,163.1,Energetic
+Your Peace (feat. Lil Baby),"['Jacquees', 'Lil Baby']",6uNuT1YKpKjgZOOKiY4Nmf,2019,66,0.51,0.624,0.575,-5.977,,,0.0105,183933.0,1.0,0.0,6.0,0.102,0.0,,08/11/2019,0.16,196.059,Energetic
+PUPPET,"['Tyler, The Creator']",0wEC0GNF74lAqrEFZJMl1m,2019,64,0.508,0.557,0.199,-8.967,,,0.00235,179013.0,1.0,0.0134,8.0,0.588,0.0,,17/05/2019,0.0478,77.572,Energetic
+Alewife,['Clairo'],3jgrNd3uPU1c2PFBKYsV9d,2019,66,0.433,0.329,0.264,-13.288,,,0.932,213000.0,0.0,0.0474,3.0,0.1,1.0,,02/08/2019,0.0343,102.971,Sad
+Hop Off A Jet (feat. Travis Scott),"['Young Thug', 'Travis Scott']",3RZftiuTcLOqpsd8ZlwNhr,2019,65,0.823,0.476,0.353,-8.951,,,0.0115,174067.0,1.0,0.0,7.0,0.213,1.0,,20/12/2019,0.242,144.998,Energetic
+Condemened,['Zach Bryan'],5meBAdUn5dvAwnE56jlnuD,2019,61,0.645,0.15,0.344,-13.517,,,0.827,174673.0,0.0,0.0,5.0,0.204,1.0,,24/08/2019,0.0998,126.267,Sad
+Shotta Flow,['NLE Choppa'],431dK0LJEvFi2KtmSK5HPX,2019,64,0.888,0.43,0.45,-6.728,,,0.0785,160013.0,1.0,1.58e-06,9.0,0.132,1.0,,23/12/2019,0.588,120.083,Energetic
+Toast,['Koffee'],7sd72KZS8D59g5NmhxyHpJ,2019,70,0.906,0.638,0.789,-7.917,,,0.0342,191502.0,0.0,1.7e-05,10.0,0.0725,0.0,,14/03/2019,0.256,99.959,Happy
+"I Canâ€™t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)","['benny blanco', 'Selena Gomez', 'J Balvin', 'Tainy']",1WSGTYKLEpKfNQYYW5Oymt,2019,72,0.541,0.468,0.69,-4.039,,,0.404,158027.0,0.0,3.65e-06,10.0,0.358,0.0,,28/02/2019,0.362,95.266,Energetic
+No Sleep,['Caamp'],2pfAvgMoHLfialvMYn337d,2019,63,0.704,0.71,0.897,-7.387,,,0.533,237760.0,0.0,0.0011,8.0,0.148,1.0,,26/07/2019,0.0284,123.89,Happy
+Baby Blue,['Rence'],1eA6HGJ1qZXEL7NIFKYrXK,2019,63,0.518,0.411,0.0782,-8.909,,,0.896,208000.0,0.0,0.000716,7.0,0.112,1.0,,18/06/2019,0.0335,120.06,Sad
+Good as Hell (feat. Ariana Grande),"['Lizzo', 'Ariana Grande']",2rjjNUYONZqC7wSd1i6OFq,2019,69,0.668,0.892,0.478,-3.001,,,0.298,159011.0,0.0,0.0,5.0,0.735,0.0,,17/04/2019,0.0645,95.927,Energetic
+Bullet With a Name,['Nonpoint'],1jv1Dfe0lS4c1Vql3n9Ssz,2019,62,0.577,0.883,0.683,-3.548,,,0.000236,206405.0,1.0,0.000282,10.0,0.287,0.0,,25/12/2019,0.0898,91.024,Energetic
+Options,['NF'],1Q3HtTFGxjmEljAw7Y0CaR,2019,65,0.808,0.768,0.328,-4.899,,,0.523,206040.0,0.0,1.98e-05,8.0,0.101,1.0,,26/07/2019,0.099,141.006,Happy
+I Was Jack (You Were Diane),['Jake Owen'],3dlCF1mzW1UKMOb4b1XN17,2019,62,0.604,0.868,0.553,-3.539,,,0.086,187027.0,0.0,0.0,6.0,0.0502,1.0,,29/03/2019,0.0445,94.058,Energetic
+In The End - Mellen Gi Remix,"['Tommee Profitt', 'Fleurie', 'Mellen Gi']",5rAUZy2eDdegBxUVYxePK2,2019,77,0.618,0.611,0.224,-6.654,,,0.477,218189.0,0.0,0.0333,7.0,0.162,0.0,,22/03/2019,0.11,88.07,Sad
+Slow Ride,"['Colt Ford', 'Mitchell Tenpenny']",6OEX8FPaHyUyftZJWsve3Y,2019,62,0.671,0.771,0.639,-4.732,,,0.00284,174635.0,0.0,0.0,11.0,0.187,0.0,,20/09/2019,0.0463,142.01,Energetic
+Slow Down (with H.E.R.),"['Skip Marley', 'H.E.R.']",73FDJgnjt6ZcxoiavN6XrS,2019,64,0.683,0.715,0.77,-6.024,,,0.0409,195067.0,0.0,1.72e-06,11.0,0.0935,0.0,,07/11/2019,0.0789,99.989,Happy
+"U Say (feat. Tyler, The Creator & Jay Prince)","['GoldLink', 'Tyler, The Creator', 'Jay Prince']",2p37Mfy2PWajgOS3i2aaep,2019,66,0.926,0.68,0.458,-7.689,,,0.0471,201240.0,1.0,0.000125,2.0,0.119,1.0,,12/06/2019,0.196,114.981,Energetic
+Bad Boy,"['Yung Bae', 'bbno$', 'Billy Marchiafava']",1dtTRXifeGC51adYy0902s,2019,69,0.861,0.82,0.781,-4.807,,,0.032,187571.0,0.0,4.76e-06,1.0,0.0706,0.0,,21/06/2019,0.0728,118.04,Happy
+"Hi, It's Me",['Ashnikko'],2QClD0hEJbn3BmqUtwzuWs,2019,65,0.504,0.605,0.576,-4.156,,,0.03,193594.0,1.0,0.0,11.0,0.381,1.0,,12/07/2019,0.236,84.974,Energetic
+Beauty & Essex,"['Free Nationals', 'Daniel Caesar', 'Unknown Mortal Orchestra']",0cciBj4236w1xByzZvn92D,2019,64,0.552,0.741,0.718,-5.419,,,0.284,277046.0,1.0,8.2e-05,11.0,0.334,0.0,,13/12/2019,0.0542,69.709,Happy
+Eloise,['Penny and Sparrow'],3XnDbrxxtA40HPIIRWLgRT,2019,63,0.606,0.415,0.405,-8.317,,,0.695,168713.0,0.0,0.00149,7.0,0.174,0.0,,02/08/2019,0.0475,137.775,Sad
+No Excuses,['NF'],7ssFG94tZHpX9vbIFM0GVH,2019,65,0.727,0.642,0.351,-4.915,,,0.0291,201720.0,0.0,0.0,1.0,0.0815,1.0,,26/07/2019,0.087,162.935,Happy
+Letting Someone Go,['Zach Bryan'],696UHPdd39wqXwPXJdx2QD,2019,61,0.544,0.116,0.415,-15.167,,,0.801,239761.0,0.0,0.0,0.0,0.147,1.0,,24/08/2019,0.0391,83.477,Sad
+Brown Noise 140 hz Sharp Q,['Granular'],1efbB8dNowPNwBU6HaHjup,2019,68,0.205,0.337,0.18,-37.221,,,0.751,139873.0,0.0,0.972,1.0,0.112,1.0,,07/07/2019,0.0647,135.284,Calm
+Floor Seats (Text Back),['Moxas'],6m37YblnnlJ1x7DfTc3Vj0,2019,67,0.74,0.453,0.178,-7.828,,,0.656,138158.0,1.0,8e-05,3.0,0.111,1.0,,08/11/2019,0.121,75.992,Sad
+N Side,['Steve Lacy'],24G1PXBWoRgV0wDXZKwxzz,2019,64,0.838,0.536,0.89,-6.288,,,0.072,224444.0,0.0,0.000259,2.0,0.208,1.0,,24/05/2019,0.0435,119.956,Happy
+Nurse's Office,['Melanie Martinez'],4fRzunTZ51UC0oNwoVqiKB,2019,66,0.612,0.651,0.556,-8.292,,,0.313,202723.0,0.0,0.0,2.0,0.114,0.0,,06/09/2019,0.19,182.87,Happy
+Get StÃ¼pid,['bÃ¼low'],4PMLEEYw4mblYsPlDSHKyu,2019,65,0.843,0.797,0.613,-4.597,,,0.202,172800.0,1.0,0.000117,11.0,0.0822,0.0,,05/04/2019,0.0419,109.973,Happy
+Bestie (feat. Kodak Black),"['Bhad Bhabie', 'Kodak Black']",4lFBfri98nc9yDjQKVaQZ0,2019,66,0.908,0.625,0.613,-4.519,,,0.0741,140491.0,1.0,0.0,1.0,0.182,1.0,,28/01/2019,0.19,101.993,Happy
+"Gurenge (From ""Demon Slayer: Kimetsu no Yaiba"")",['Akano'],19Qu5BOV1Y8nDrzgYavYdB,2019,68,0.656,0.654,0.612,-7.031,,,0.0276,89784.0,0.0,0.0,7.0,0.109,1.0,,10/05/2019,0.0346,135.044,Happy
+Daylight,['Taylor Swift'],1fzAuUVbzlhZ1lJAx9PtY6,2019,67,0.557,0.496,0.265,-9.602,,,0.808,293453.0,0.0,0.000173,0.0,0.0772,1.0,,23/08/2019,0.0563,149.983,Sad
+Closed On Sunday,['Kanye West'],3JWiDGQX2eTlFvKj3Yssj3,2019,66,0.799,0.291,0.406,-7.353,,,0.873,151873.0,0.0,0.000641,11.0,0.139,0.0,,25/10/2019,0.0318,97.984,Sad
+Angel,['FINNEAS'],7iSEz0IIVF5H4KLXIm99Vk,2019,66,0.535,0.245,0.238,-12.53,,,0.743,311152.0,0.0,0.00338,5.0,0.298,1.0,,12/06/2019,0.0363,130.133,Sad
+Big Stepper,['Roddy Ricch'],6x0QNM6f0C2JEjK0hFF8Ca,2019,64,0.753,0.597,0.616,-8.469,,,0.0477,175170.0,1.0,0.0,8.0,0.197,1.0,,06/12/2019,0.292,76.997,Happy
+El Efecto,"['Rauw Alejandro', 'Chencho Corleone']",4SJHHpKhcuXwDsCsPqshXj,2019,81,0.849,0.781,0.893,-4.635,,,0.406,217143.0,0.0,0.0,0.0,0.0801,0.0,,15/03/2019,0.159,84.041,Happy
+Last Hurrah,['Bebe Rexha'],0i0wnv9UoFdZ5MfuFGQzMy,2019,70,0.514,0.618,0.401,-4.585,,,0.175,150333.0,0.0,0.0,11.0,0.117,0.0,,15/02/2019,0.0317,84.259,Energetic
+Antisocial (with Travis Scott),"['Ed Sheeran', 'Travis Scott']",1DhRbox3xkceP64k3JeYfW,2019,69,0.716,0.823,0.91,-5.313,,,0.132,161747.0,0.0,0.0,5.0,0.361,0.0,,12/07/2019,0.0495,151.957,Happy
+dead girl in the pool.,['girl in red'],5MAjVARSIDzwz8jFG36hFu,2019,68,0.689,0.662,0.673,-6.732,,,0.218,186643.0,1.0,3.25e-05,7.0,0.395,1.0,,08/05/2019,0.0612,129.957,Happy
+Rather Do,['Yxngxr1'],5rAM2UW8MeVtBxKoNTRXUE,2019,64,0.859,0.545,0.722,-9.39,,,0.853,135000.0,1.0,0.0,9.0,0.0928,1.0,,20/10/2019,0.248,128.0,Happy
+Chills,"[""Why Don't We""]",7tN0ceaX3JAz6aVtyXn9mn,2019,69,0.615,0.689,0.783,-5.332,,,0.00483,165597.0,0.0,0.0,1.0,0.177,1.0,,30/12/2019,0.0658,162.919,Energetic
+Just Friends,['Virginia To Vegas'],02Ygu8lo3qSknRpcBnspso,2019,65,0.793,0.714,0.794,-7.562,,,0.156,168947.0,1.0,0.0,7.0,0.136,1.0,,24/05/2019,0.193,100.036,Happy
+Incredible,['James TW'],5bZeugrr7oIATt1CLJuhT4,2019,69,0.556,0.589,0.264,-6.209,,,0.306,246320.0,0.0,0.0,0.0,0.147,1.0,,26/04/2019,0.0431,180.942,Sad
+No Te Contaron Mal,['Christian Nodal'],7hbk4BaF66O09R1gq0bKwj,2019,74,0.644,0.568,0.654,-3.077,,,0.369,156520.0,0.0,0.0,9.0,0.151,0.0,,10/05/2019,0.038,81.409,Happy
+Trapanese,"['lil ricefield', 'seiji oda']",6IlSNchcDRJTOHOU6tg1t3,2019,63,0.834,0.758,0.465,-5.683,,,0.0278,117932.0,1.0,0.0,10.0,0.167,0.0,,26/11/2019,0.158,110.038,Energetic
+Whine Up,"['Nicky Jam', 'Anuel AA']",2pWOMNQJW3g2zmGjP0Vkb0,2019,75,0.817,0.665,0.662,-6.224,,,0.0549,215460.0,0.0,0.0,9.0,0.103,0.0,,01/11/2019,0.0758,104.957,Happy
+Grace,['Lewis Capaldi'],0pEkK8MqbmGSX7fT8WLMbR,2019,71,0.722,0.565,0.488,-5.848,,,0.435,185658.0,0.0,0.0,4.0,0.165,1.0,,17/05/2019,0.0335,104.483,Sad
+LOVE AGAIN,"['Daniel Caesar', 'Brandy']",2fhePAlCSsJplwkjqMYpVm,2019,65,0.553,0.441,0.525,-6.411,,,0.41,214278.0,0.0,2.57e-06,5.0,0.107,1.0,,28/06/2019,0.0918,76.988,Sad
+A Cruel Angel's Thesis (Director's Edit Version),['Shiro Sagisu'],3x4378ztiLvFmm2nuzEI0C,2019,63,0.646,0.676,0.59,-9.477,,,0.0339,245093.0,0.0,1.99e-06,0.0,0.13,0.0,,21/06/2019,0.0431,128.128,Happy
+North Memphis,['Pharmacist'],3UoRLUFPhTSYqhbqSdlf1U,2019,67,0.716,0.946,0.952,-5.531,,,0.000124,136229.0,0.0,0.868,1.0,0.0609,1.0,,07/08/2019,0.0559,167.372,Energetic
+ODIO,"['J Balvin', 'Bad Bunny']",7alOsNr36sJ8CyOEP4aILq,2019,68,0.74,0.698,0.529,-3.838,,,0.215,270400.0,0.0,0.0,6.0,0.116,0.0,,28/06/2019,0.0388,139.99,Happy
+In Control,['YoungBoy Never Broke Again'],5IdAcHb4cwtexqMlOojWhR,2019,61,0.643,0.77,0.863,-4.524,,,0.13,181437.0,1.0,0.0,5.0,0.247,0.0,,11/10/2019,0.228,170.006,Energetic
+Almeda,['Solange'],6IAgarq2wDeYzpsY2Kx0Hw,2019,63,0.827,0.553,0.0631,-5.296,,,0.0227,236120.0,1.0,1.52e-05,1.0,0.176,1.0,,01/03/2019,0.032,110.015,Energetic
+Novocaine,['The Unlikely Candidates'],4GKcaqt6PFor4siHXMO42e,2019,66,0.652,0.833,0.231,-4.898,,,0.00191,245240.0,1.0,0.000536,10.0,0.122,1.0,,22/03/2019,0.0392,116.043,Energetic
+Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy),"['Dreamville', 'Ari Lennox', 'Omen', 'Ty Dolla $ign', 'Dreezy']",4nw0S8MtvcLSpXCS9M8ciL,2019,63,0.664,0.61,0.472,-6.432,,,0.145,284040.0,1.0,0.0,7.0,0.097,0.0,,05/07/2019,0.339,76.024,Happy
+Binz,['Solange'],7yvdp8dqmxExSJwT2fn6Xq,2019,64,0.863,0.625,0.456,-6.323,,,0.101,111227.0,1.0,4.13e-06,8.0,0.166,1.0,,01/03/2019,0.313,83.98,Energetic
+Amigos Con Derechos,"['Reik', 'Maluma']",4yVO0wOhXsZC1RuPgHP524,2019,75,0.678,0.806,0.614,-3.334,,,0.0464,227480.0,0.0,0.0,1.0,0.0673,1.0,,31/05/2019,0.0648,183.984,Energetic
+Harmony Hall,['Vampire Weekend'],39exKIvycQDgs4T6uXdyu0,2019,65,0.653,0.76,0.6,-6.086,,,0.475,308733.0,0.0,0.000129,11.0,0.0917,1.0,,03/05/2019,0.0479,98.008,Sad
+Gravy Train,['Yung Gravy'],3qOkkP9JLltoUvaLjEXTmW,2019,63,0.733,0.622,0.729,-7.689,,,0.324,169600.0,1.0,0.0,6.0,0.165,0.0,,31/05/2019,0.14,143.934,Happy
+QuÃ© Pena,"['Maluma', 'J Balvin']",5099x34vBakWpGkHourFxP,2019,73,0.635,0.661,0.858,-6.425,,,0.102,212711.0,0.0,0.0,11.0,0.336,0.0,,27/09/2019,0.364,126.15,Happy
+cellophane,['FKA twigs'],2cYALQZNXmuFGp2ecgpKMa,2019,66,0.563,0.283,0.228,-11.858,,,0.872,204067.0,0.0,0.000143,2.0,0.0899,1.0,,08/11/2019,0.0395,106.973,Sad
+METHHEAD FREESTYLE,"['Lil Darkie', 'Eric North', 'JOHNNASCUS', 'Half Metal Kaiba', 'BLCKK', 'BRUHMANEGOD', 'LiL CUBENSiS', 'Royalty the Kidd', 'Afourteen', 'Wendigo']",495T3rrTtGF4FRHHvldWjh,2019,63,0.724,0.891,0.71,-0.354,,,0.0261,310250.0,1.0,0.0,1.0,0.273,1.0,,24/06/2019,0.294,92.478,Energetic
+OCD (with Dwn2earth),"['Logic', 'Dwn2earth']",5AebNkVaY2zcdNFCqPBIV7,2019,64,0.679,0.758,0.237,-3.012,,,0.291,291707.0,1.0,0.0177,1.0,0.209,1.0,,25/10/2019,0.14,82.08,Sad
+Tric Or Treat,['Young Dolph'],2nMWvwPhdi1oUizCfC6QLZ,2019,61,0.967,0.766,0.901,-5.302,,,0.206,197600.0,1.0,0.0,1.0,0.191,1.0,,31/10/2019,0.131,115.013,Happy
+No Wind Resistance!,['Kinneret'],0EFdjJZzlyl950oBmPnolV,2019,67,0.694,0.496,0.49,-12.199,,,0.234,198922.0,0.0,0.00625,1.0,0.116,0.0,,10/05/2019,0.0659,139.848,Happy
+El Mismo - En Vivo,['Los Dos Carnales'],6hSV8Iaro3R8BwzSJXUNhy,2019,66,0.49,0.666,0.829,-6.152,,,0.649,157108.0,0.0,9.08e-06,8.0,0.266,1.0,,12/07/2019,0.25,188.163,Happy
+hello!,['ROLE MODEL'],7a2IJHzw9WJjoknwdnCop0,2019,64,0.791,0.462,0.556,-4.023,,,0.505,188547.0,0.0,0.0,10.0,0.0991,1.0,,13/11/2019,0.0383,125.913,Sad
+Don't Check On Me (feat. Justin Bieber & Ink),"['Chris Brown', 'Justin Bieber', 'Ink']",7ILEWkpfdK6AjH2D7jppWk,2019,68,0.66,0.395,0.678,-5.242,,,0.873,204880.0,0.0,0.0,7.0,0.112,1.0,,28/06/2019,0.0333,81.997,Sad
+Remember The Name (feat. Eminem & 50 Cent),"['Ed Sheeran', 'Eminem', '50 Cent']",0AtP8EkGPn6SwxKDaUuXec,2019,71,0.852,0.666,0.726,-6.923,,,0.135,207760.0,1.0,0.0,11.0,0.798,0.0,,12/07/2019,0.184,91.046,Energetic
+Pouring Rain - Striking Thunder,['Ambiworld'],3Ln75GmikP1MXttsNxwjPH,2019,65,0.101,0.845,0.0135,-27.002,,,0.317,212881.0,0.0,0.985,0.0,0.36,0.0,,26/09/2019,0.0631,90.775,Calm
+Don't Waste My Time (feat. Ella Mai),"['Usher', 'Ella Mai']",3Ey11v2aiX14s4wBaYbhlp,2019,64,0.701,0.778,0.609,-5.076,,,0.125,199720.0,0.0,0.0,2.0,0.0828,1.0,,13/12/2019,0.201,99.956,Energetic
+Giants,['Dermot Kennedy'],43CHdbHYdcbUWP10UFKyZ7,2019,75,0.572,0.833,0.588,-5.291,,,0.014,177173.0,0.0,5.77e-05,8.0,0.129,0.0,,04/10/2019,0.0754,158.104,Energetic
+Tip of My Tongue,['Kenny Chesney'],40ufL61vEaDaaOitYhnlQ7,2019,62,0.669,0.559,0.491,-5.003,,,0.0805,199413.0,0.0,0.0,5.0,0.0703,1.0,,12/07/2019,0.0251,95.001,Energetic
+make up,['POORSTACY'],1uxDHAH3cPPg5tmzcoDAIH,2019,64,0.781,0.474,0.584,-7.436,,,0.119,121413.0,1.0,0.0,0.0,0.0685,1.0,,13/09/2019,0.24,87.615,Happy
+Detention,['Melanie Martinez'],7i9AEaOWJrfVBsinUSefma,2019,66,0.832,0.655,0.783,-6.195,,,0.488,236973.0,1.0,0.0,3.0,0.103,0.0,,06/09/2019,0.0676,94.998,Happy
+Wow. - Remix,"['Post Malone', 'Roddy Ricch', 'Tyga']",0fcq51a3gOI6gPvzc0YLsk,2019,67,0.797,0.64,0.486,-6.272,,,0.148,170053.0,1.0,0.0,11.0,0.209,0.0,,15/03/2019,0.194,100.002,Energetic
+Teacher's Pet,['Melanie Martinez'],5o5akY9xnEk6lpMkD8RwD9,2019,66,0.686,0.794,0.532,-6.136,,,0.27,241893.0,1.0,2.25e-05,7.0,0.125,0.0,,06/09/2019,0.0385,140.952,Happy
+Out The Mud,"['Lil Baby', 'Future']",2wZjsbwmWfNVslgV5afl1L,2019,63,0.746,0.497,0.25,-5.785,,,0.00944,157816.0,1.0,8.6e-05,1.0,0.101,1.0,,21/06/2019,0.149,160.051,Energetic
+Cross Me (feat. Chance the Rapper & PnB Rock),"['Ed Sheeran', 'Chance the Rapper', 'PnB Rock']",543bCW2ruMPmxUBWirQ3MR,2019,70,0.746,0.787,0.607,-6.373,,,0.214,206187.0,1.0,0.0,4.0,0.0669,1.0,,24/05/2019,0.12,95.005,Happy
+Painkiller,['Ruel'],1abFkY2jm6KDFMZ7RD9YJh,2019,66,0.675,0.414,0.439,-6.508,,,0.105,213598.0,0.0,0.0,5.0,0.192,1.0,,30/04/2019,0.0569,128.927,Happy
+Walk Me Home,['P!nk'],6jfEZdUJ2Yla6h7gTJgKuo,2019,70,0.652,0.453,0.432,-6.119,,,0.0519,177391.0,0.0,0.0,1.0,0.179,1.0,,25/04/2019,0.0445,88.038,Happy
+Come Around,"['Hoodie Allen', 'Christian French']",2zkhW5YaOPPaPgNWXmjTjF,2019,62,0.726,0.727,0.815,-4.919,,,0.363,166696.0,1.0,0.0,9.0,0.231,1.0,,16/08/2019,0.0969,77.543,Happy
+Never Be Alright,['Seon'],6zJffE1wHyAu5WwNYwt0VI,2019,64,0.835,0.283,0.282,-10.121,,,0.625,168281.0,1.0,3.4e-06,7.0,0.102,0.0,,23/01/2019,0.0781,86.983,Sad
+King Of Kings,['Hillsong Worship'],5E2v6b4Mo4jxuPrcK4YEIF,2019,61,0.489,0.477,0.177,-7.343,,,0.122,265133.0,0.0,0.0,2.0,0.1,1.0,,11/10/2019,0.0299,136.045,Sad
+Killing Me Slowly,['Bad Wolves'],34lLAsdH4Y5TLf1B2SIj1I,2019,65,0.345,0.89,0.276,-4.175,,,0.000725,237065.0,0.0,2.98e-06,1.0,0.204,0.0,,25/10/2019,0.0774,137.973,Energetic
+El Buho,['Luis R Conriquez'],6IK6ltyraU1WrC586feemA,2019,67,0.917,0.54,0.935,-6.27,,,0.7,176704.0,0.0,0.0,0.0,0.0753,0.0,,30/12/2019,0.0578,112.579,Happy
+I Lost a Friend,['FINNEAS'],49MMefftWPcltNP4OOJGSs,2019,67,0.453,0.209,0.216,-11.917,,,0.587,237020.0,0.0,0.0,11.0,0.119,1.0,,03/05/2019,0.223,169.316,Sad
+WHY,['NF'],7yNgSAuwbDJcdRNrBDtKPq,2019,65,0.741,0.827,0.418,-6.343,,,0.451,187933.0,0.0,0.0,10.0,0.292,0.0,,26/07/2019,0.549,158.317,Energetic
+Poof,['Piâ€™erre Bourne'],4k95J448xydiVtD4PXMvpY,2019,64,0.804,0.506,0.611,-8.413,,,0.0506,183108.0,1.0,1.26e-06,0.0,0.134,0.0,,21/06/2019,0.261,81.451,Energetic
+SzundikÃ¡l,['Mayer Julcsa'],7wMtecN31PghxCJGvAwN8n,2019,64,0.141,0.0353,0.111,-31.019,,,0.993,269750.0,0.0,0.779,4.0,0.0865,0.0,,13/12/2019,0.113,173.056,Calm
+(Nice Dream),Radiohead,4QbQ55kHcRNho6XLaPctT1,28/03/1995,55,0.262,0.567,0.377,-11.075,0.0,The Bends,,,,,,,,,,,,Sad
+15 Step,Radiohead,6dsq7Nt5mIFzvm5kIYNORy,28/12/2007,61,0.6,0.853,0.847,-7.584,0.0,In Rainbows,,,,,,,,,,,,Happy
+2 + 2 = 5,Radiohead,37kUGdEJJ7NaMl5LFW4EA4,2003,57,0.443,0.717,0.386,-5.498,0.0,Hail To the Thief,,,,,,,,,,,,Happy
+A Brain in a Bottle,Thom Yorke,0ztEZNjeZQ45nMcsqYxxyc,2014,43,0.787,0.558,0.431,-12.365,0.0,Tomorrow's Modern Boxes,,,,,,,,,,,,Sad
+A Punch Up At a Wedding,Radiohead,2LfUYXF8jfrHCfwYyf2pRj,2003,50,0.603,0.507,0.568,-9.965,0.0,Hail To the Thief,,,,,,,,,,,,Sad
+A Wolf At the Door,Radiohead,66cuLvkHsW7dNkfNk6gQP9,2003,52,0.48,0.675,0.37,-7.134,0.0,Hail To the Thief,,,,,,,,,,,,Sad
+Airbag,Radiohead,3OsUjkcv1C1v5udFhgRSFg,28/05/1997,58,0.306,0.872,0.648,-7.313,0.0,OK Computer,,,,,,,,,,,,Happy
+Airbag - Remastered,Radiohead,4F4Wtw45jKohdzu9onG6WH,23/06/2017,48,0.319,0.935,0.63,-5.709,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Happy
+Amok,Atoms For Peace,2r4cSpg6mKnb8wBBN5g5hz,25/02/2013,38,0.618,0.811,0.669,-7.075,0.0,AMOK,,,,,,,,,,,,Happy
+An Audition,Thom Yorke,74hnCqoBekV3fj5ACDKNIP,26/10/2018,25,0.198,0.397,0.0395,-13.971,1.0,Suspiria (Music for the Luca Guadagnino Film),,,,,,,,,,,,Sad
+Analyse,Thom Yorke,5fOOQFVHQb1M58iSYebKeW,10/07/2006,45,0.56,0.841,0.42,-8.394,0.0,The Eraser,,,,,,,,,,,,Energetic
+Analyse (Various Remix),Thom Yorke,5kvkww23niURT9M1F9sjGs,2008,19,0.726,0.706,0.589,-7.402,0.0,The Eraser Rmxs,,,,,,,,,,,,Happy
+And It Rained All Night,Thom Yorke,0jXGA2HfX89Ofgm0F5vVjI,10/07/2006,38,0.306,0.914,0.34,-7.083,0.0,The Eraser,,,,,,,,,,,,Energetic
+And It Rained All Night (Burial Remix),Thom Yorke,70jx2rO4bbtUqlgGu96Q3X,2008,25,0.688,0.959,0.676,-7.056,0.0,The Eraser Rmxs,,,,,,,,,,,,Energetic
+Anyone Can Play Guitar,Radiohead,4NUc1M0CS7b6zvWoyvibju,22/02/1993,50,0.294,0.813,0.554,-10.772,0.0,Pablo Honey,,,,,,,,,,,,Energetic
+Atoms For Peace (Four Tet Remix),Thom Yorke,2rxBZkJX2MXrsFEJrSWi27,2008,32,0.622,0.629,0.73,-10.661,0.0,The Eraser Rmxs,,,,,,,,,,,,Sad
+Backdrifts,Radiohead,6CVdTDYoDbwYj4xn8u5Gha,2003,51,0.718,0.718,0.732,-10.06,0.0,Hail To the Thief,,,,,,,,,,,,Sad
+Bangers + Mash,Radiohead,2mAWzzAi9pdKwteyg0lNqj,03/12/2007,42,0.637,0.98,0.65,-4.981,0.0,In Rainbows (Disk 2),,,,,,,,,,,,Energetic
+Before Your Very Eyes...,Atoms For Peace,5kbhsf3kdmjbzCFtTaufPd,01/07/2013,21,0.554,0.801,0.408,-11.339,0.0,Before Your Very Eyes... / Magic Beanz,,,,,,,,,,,,Sad
+Black Star,Radiohead,6JzzI3YxHCcjZ7MCQS2YS1,28/03/1995,55,0.288,0.555,0.307,-7.431,0.0,The Bends,,,,,,,,,,,,Energetic
+Black Swan,Thom Yorke,4VbV8Zyjuu1qz0QteX1wVC,10/07/2006,56,0.613,0.791,0.509,-7.293,0.0,The Eraser,,,,,,,,,,,,Happy
+Black Swan (Cristian Vogel Spare Parts Remix),Thom Yorke,3H4exceNzDQZd5gi0hS70f,2008,22,0.655,0.939,0.471,-8.744,0.0,The Eraser Rmxs,,,,,,,,,,,,Happy
+Black Swan (Vogel Bonus Beat Eraser Remix),Thom Yorke,6Ee6U8v7H7REp4l0AsW7tL,2008,19,0.855,0.705,0.534,-9.887,0.0,The Eraser Rmxs,,,,,,,,,,,,Sad
+Bloom,Radiohead,6tLALP9mi7VbNC7s16iBRK,18/02/2011,51,0.518,0.959,0.341,-7.596,0.0,The King Of Limbs,,,,,,,,,,,,Sad
+Bloom (Blawan Rmx),Radiohead,1AVrv7FD10FoKW38oBiKRg,10/10/2011,29,0.582,0.949,0.0327,-7.958,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Bloom (Harmonic 313 Rmx),Radiohead,1CxhtUbe1o2PeMM3l5Kch6,10/10/2011,32,0.443,0.665,0.185,-13.055,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Bloom (Mark Pritchard Rmx),Radiohead,2H7Y8wYixrSlKJoaZ1N2yl,10/10/2011,31,0.414,0.712,0.286,-7.97,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Bloom (Objekt RMX),Radiohead,6M0NzgHVT1FL7vPIUTZlXD,10/10/2011,27,0.832,0.674,0.237,-9.099,0.0,TKOL RMX 1234567,,,,,,,,,,,,Happy
+Blow Out,Radiohead,6qttbImnJ5wuA8AtDKEy18,22/02/1993,45,0.284,0.719,0.289,-10.739,0.0,Pablo Honey,,,,,,,,,,,,Happy
+Bodysnatchers,Radiohead,4m0Vgr48VFaMYw0Sp1ozJu,28/12/2007,59,0.343,0.977,0.727,-4.993,0.0,In Rainbows,,,,,,,,,,,,Energetic
+Bones,Radiohead,0OT4Rhd9cw1yajN9ZxL6qL,28/03/1995,52,0.358,0.705,0.419,-8.284,0.0,The Bends,,,,,,,,,,,,Energetic
+Burn the Witch,Radiohead,3pcCifdPTc2BbqmWpEhtUd,08/05/2016,57,0.541,0.847,0.62,-6.52,0.0,A Moon Shaped Pool,,,,,,,,,,,,Happy
+Climbing Up the Walls,Radiohead,0R332cdlS9LyE0Ge2PSlVC,28/05/1997,55,0.172,0.655,0.221,-7.476,0.0,OK Computer,,,,,,,,,,,,Sad
+Climbing Up the Walls - Remastered,Radiohead,2Pquc3xvWghdFuf0HrjLUx,23/06/2017,45,0.266,0.633,0.227,-6.933,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Codex (Illum Sphere),Radiohead,7krim8C3DpTu1ShdoZezix,10/10/2011,30,0.441,0.575,0.0678,-10.58,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Creep,Radiohead,6b2oQwSGFkzsMtQruIWm2p,22/02/1993,82,0.515,0.43,0.104,-9.935,0.0,Pablo Honey,,,,,,,,,,,,Sad
+Cymbal Rush (The Field Late Night Essen Und Trinken Remix),Thom Yorke,1pTo3vsa6ERI8OXN6ezA5b,2008,24,0.66,0.488,0.0317,-16.641,0.0,The Eraser Rmxs,,,,,,,,,,,,Sad
+Default,Atoms For Peace,6F25XOoQ6bZsdh0Xc47ob6,04/12/2012,20,0.793,0.855,0.697,-4.863,0.0,Default / What the Eyeballs Did,,,,,,,,,,,,Happy
+Dollars & Cents,Radiohead,2mvmuCtmmrERnm03ULdDye,12/03/2001,45,0.325,0.565,0.0881,-7.303,0.0,Amnesiac,,,,,,,,,,,,Sad
+Dollars & Cents (Live),Radiohead,3dM4EViXbO9TH5SYsvcVmj,2001,31,0.261,0.71,0.237,-10.308,0.0,I Might Be Wrong,,,,,,,,,,,,Sad
+Down Is The New Up,Radiohead,6CNt7GXfOOS5Hkxu8e4vav,03/12/2007,43,0.532,0.845,0.125,-6.967,0.0,In Rainbows (Disk 2),,,,,,,,,,,,Sad
+Dropped,Atoms For Peace,3UpMuTtzhnVNQGUlfP5zfj,25/02/2013,37,0.611,0.739,0.69,-5.735,0.0,AMOK,,,,,,,,,,,,Happy
+Electioneering,Radiohead,6PBHfI3G8MlQ8qdItoVoxL,28/05/1997,53,0.185,0.889,0.331,-5.491,0.0,OK Computer,,,,,,,,,,,,Energetic
+Electioneering - Remastered,Radiohead,2HpUjdaboRlwPOSZT1UZrZ,23/06/2017,44,0.204,0.951,0.44,-4.345,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Energetic
+Exit Music (For a Film),Radiohead,4Na0siMtWOW9pJoWJ1Ponv,28/05/1997,67,0.293,0.276,0.196,-11.353,1.0,OK Computer,,,,,,,,,,,,Sad
+Exit Music (For a Film) - Remastered,Radiohead,0s0lnAIcclHVjQ4fITlOoU,23/06/2017,50,0.355,0.296,0.205,-10.074,1.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Fake Plastic Trees,Radiohead,045sp2JToyTaaKyXkGejPy,28/03/1995,70,0.454,0.229,0.134,-12.592,1.0,The Bends,,,,,,,,,,,,Sad
+FeelingPulledApartByHorses,Thom Yorke,53MpsXQZGUULbdPEa90sPl,2009,31,0.647,0.702,0.538,-8.799,0.0,FeelingPulledApartByHorses,,,,,,,,,,,,Sad
+Feral,Radiohead,0eECFDnWy0RdjMmJ8NOeAL,18/02/2011,44,0.49,0.777,0.729,-11.521,0.0,The King Of Limbs,,,,,,,,,,,,Energetic
+Feral (Lone RMX),Radiohead,3zkFTfcboFcOdno0CHCmTc,10/10/2011,31,0.761,0.877,0.222,-7.806,0.0,TKOL RMX 1234567,,,,,,,,,,,,Energetic
+Ful Stop,Radiohead,4CzTgOmc3Sdm4EgKQWzjQl,08/05/2016,52,0.426,0.661,0.178,-9.877,0.0,A Moon Shaped Pool,,,,,,,,,,,,Sad
+Give Up The Ghost (Brokenchord Rmx),Radiohead,410fAd2tXU8aEb4vrGzslY,10/10/2011,29,0.454,0.615,0.0964,-9.076,0.0,TKOL RMX 1234567,,,,,,,,,,,,Energetic
+Give Up The Ghost (Thriller Houseghost Remix),Radiohead,1gaAIZ4vGQ6QvDUgN2Xyus,10/10/2011,30,0.596,0.894,0.143,-9.477,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Go To Sleep,Radiohead,6TdGeb9e2KL6RZG0VxoTMd,2003,51,0.288,0.86,0.66,-6.311,0.0,Hail To the Thief,,,,,,,,,,,,Energetic
+Good Evening Mrs Magpie (Modeselektor RMX),Radiohead,0tKuiKb2mazZYdA6fPP7kI,10/10/2011,31,0.774,0.637,0.0438,-11.858,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Harrowdown Hill,Thom Yorke,2C3xIudHEjCIS5KT4JuM0b,10/07/2006,44,0.705,0.668,0.217,-8.426,0.0,The Eraser,,,,,,,,,,,,Sad
+Harrowdown Hill (Extended Mix),Thom Yorke,37tMM4xyX5fi5e3LTjdP5Q,21/08/2006,19,0.755,0.613,0.173,-10.254,0.0,Spitting Feathers,,,,,,,,,,,,Sad
+Harrowdown Hill (The Bug Remix),Thom Yorke,2jvBbSXn5aeA9rNwEtcPYA,2008,23,0.534,0.958,0.141,-5.932,0.0,The Eraser Rmxs,,,,,,,,,,,,Energetic
+Hearing Damage,Thom Yorke,7z8KQiJ4kclFjGGjDRkvFK,18/10/2009,56,0.627,0.86,0.144,-6.321,0.0,Hearing Damage,,,,,,,,,,,,Sad
+High And Dry,Radiohead,5jafMI8FLibnjkYTZ33m0c,28/03/1995,73,0.418,0.383,0.352,-11.782,0.0,The Bends,,,,,,,,,,,,Sad
+House Of Cards,Radiohead,3Jc6X15OZCCyhGSHBF4hwB,28/12/2007,63,0.71,0.496,0.637,-9.638,0.0,In Rainbows,,,,,,,,,,,,Sad
+How Do You?,Radiohead,71wIOoaoVMUwskK5yCXZL4,22/02/1993,46,0.185,0.964,0.239,-8.316,0.0,Pablo Honey,,,,,,,,,,,,Energetic
+I Can't,Radiohead,48IEDejXX5LH8TAC3VIGpc,22/02/1993,43,0.284,0.825,0.276,-10.256,0.0,Pablo Honey,,,,,,,,,,,,Energetic
+I Might Be Wrong,Radiohead,0JhpYE9xA3UpSFrmXTZyIF,12/03/2001,58,0.601,0.735,0.505,-8.321,0.0,Amnesiac,,,,,,,,,,,,Sad
+I Might Be Wrong (Live),Radiohead,2hWZJox4TXssEA8lNUBxPN,2001,36,0.409,0.943,0.332,-8.843,0.0,I Might Be Wrong,,,,,,,,,,,,Energetic
+I Promise,Radiohead,6V9PDDZ2pHQCUleRXvRYQ1,23/06/2017,54,0.441,0.435,0.487,-8.457,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Identikit,Radiohead,3LhtqibvTtjOUrzKs7Vsz1,08/05/2016,52,0.692,0.458,0.35,-9.461,0.0,A Moon Shaped Pool,,,,,,,,,,,,Sad
+Idioteque,Radiohead,7xqeIdLJSf3bgmZ7vUvHrE,01/10/2000,59,0.615,0.931,0.53,-7.8,0.0,Kid A,,,,,,,,,,,,Energetic
+Idioteque (Live In Oxford),Radiohead,3Em5EatvVONefKtPAjXad0,2001,36,0.493,0.979,0.322,-6.132,0.0,I Might Be Wrong,,,,,,,,,,,,Energetic
+Iluvya,Thom Yorke,1hTaPnoIphvtCMr4uVkVV7,21/08/2006,16,0.613,0.985,0.702,-6.347,0.0,Spitting Feathers,,,,,,,,,,,,Happy
+Impossible Knots,Thom Yorke,0yOwZ2cIZAJpBKZKfSKZUI,27/06/2019,38,0.218,0.675,0.53,-10.789,0.0,ANIMA,,,,,,,,,,,,Calm
+Jigsaw Falling Into Place,Radiohead,15ea10YpJIl3mJq75yzqsD,28/12/2007,63,0.461,0.833,0.808,-6.082,0.0,In Rainbows,,,,,,,,,,,,Happy
+Judge Jury and Executioner,Atoms For Peace,24YY8ILPDSKapND4kzP1gi,25/02/2013,35,0.89,0.66,0.634,-7.706,0.0,AMOK,,,,,,,,,,,,Sad
+Just,Radiohead,4SE81CrzH0qPA8KHqM9Syz,28/03/1995,61,0.291,0.767,0.358,-6.913,0.0,The Bends,,,,,,,,,,,,Energetic
+Karma Police,Radiohead,3SVAN3BRByDmHOhKyIDxfC,28/05/1997,74,0.36,0.505,0.317,-9.129,0.0,OK Computer,,,,,,,,,,,,Sad
+Karma Police - Remastered,Radiohead,24yaR0CyO2oRISmeL2AvVj,23/06/2017,49,0.389,0.577,0.367,-7.578,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Happy
+Kid A,Radiohead,4x7XJOE2ml2P3o3i77466j,01/10/2000,55,0.63,0.429,0.168,-15.54,0.0,Kid A,,,,,,,,,,,,Sad
+Knives Out,Radiohead,2xbrMtkxp399aSiCJ8EAON,12/03/2001,57,0.433,0.675,0.184,-6.702,0.0,Amnesiac,,,,,,,,,,,,Sad
+Let Down,Radiohead,4aOAzvRdOsZSwZIgwcdeL0,28/05/1997,60,0.352,0.674,0.145,-9.018,0.0,OK Computer,,,,,,,,,,,,Energetic
+Let Down - Remastered,Radiohead,7BOXzaH1Rv9JLUgwvAkID5,23/06/2017,49,0.364,0.752,0.122,-7.125,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Energetic
+Lift,Radiohead,0EbIifYAM9wTYlPzKgTwFA,23/06/2017,48,0.309,0.547,0.157,-7.752,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Little By Little,Radiohead,4tCwsdqqG4jASHhbsMHCx0,18/02/2011,46,0.619,0.886,0.604,-8.423,0.0,The King Of Limbs,,,,,,,,,,,,Sad
+Little By Little (Caribou Rmx),Radiohead,6Unw1AAcpS1ZgZoRlj2jxA,10/10/2011,39,0.8,0.586,0.126,-9.633,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Little By Little (Shed),Radiohead,1mlpZ1Zv1CZSAVsXKQYnQY,10/10/2011,29,0.344,0.79,0.472,-9.084,0.0,TKOL RMX 1234567,,,,,,,,,,,,Energetic
+Lotus Flower,Radiohead,1amSa5xo79zINsgrpNlNge,18/02/2011,58,0.721,0.676,0.621,-8.78,0.0,The King Of Limbs,,,,,,,,,,,,Happy
+Lotus Flower (Jacques Greene Rmx),Radiohead,5hfzW7LG97Hxv62HHUKgaj,10/10/2011,39,0.629,0.592,0.169,-8.405,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Lotus Flower (SBTRKT RMX),Radiohead,1MheF7RyAsg9tuI6Vje9SB,10/10/2011,31,0.792,0.49,0.422,-8.229,0.0,TKOL RMX 1234567,,,,,,,,,,,,Sad
+Lucky,Radiohead,6n7GUf2h8D2Ad2wUy5s7nE,28/05/1997,57,0.206,0.4,0.196,-9.813,1.0,OK Computer,,,,,,,,,,,,Sad
+Lucky - Remastered,Radiohead,7DqQtB1w0fHeSwjwq3IYU1,23/06/2017,45,0.233,0.453,0.152,-9.31,1.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Lurgee,Radiohead,2B5P22cfUadACK7jLQegU6,22/02/1993,43,0.42,0.548,0.408,-12.298,0.0,Pablo Honey,,,,,,,,,,,,Happy
+Magic Beanz,Atoms For Peace,1Udj37KFsXJkbCERPfbTCD,01/07/2013,24,0.344,0.951,0.18,-7.031,0.0,Before Your Very Eyes... / Magic Beanz,,,,,,,,,,,,Sad
+Man of War,Radiohead,552BIJ9kKwwqiGf4YojYbL,23/06/2017,52,0.274,0.472,0.14,-7.614,1.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Meeting in the Aisle - Remastered,Radiohead,5tDkjUaPiTYne5aDtg6ZUE,23/06/2017,43,0.385,0.776,0.148,-4.871,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Energetic
+Morning Bell (Live In Oxford),Radiohead,5MwVV6v5ak6NecRGXazcPJ,2001,33,0.519,0.8,0.341,-7.207,0.0,I Might Be Wrong,,,,,,,,,,,,Sad
+Morning Mr Magpie,Radiohead,3wxmJSQ3Z1HfAuxeHQoZcE,18/02/2011,46,0.648,0.588,0.403,-10.993,0.0,The King Of Limbs,,,,,,,,,,,,Sad
+Morning Mr Magpie (Nathan Fake Rmx),Radiohead,64lecUR19lBSu317AzVZv3,10/10/2011,33,0.661,0.707,0.846,-7.023,0.0,TKOL RMX 1234567,,,,,,,,,,,,Happy
+Morning Mr Magpie (Pearson Sound Scavenger RMX),Radiohead,7KKglMFf5KV0PIDSAOqfnH,10/10/2011,30,0.481,0.336,0.0901,-12.43,1.0,TKOL RMX 1234567,,,,,,,,,,,,Calm
+My Iron Lung,Radiohead,4dPKQxaraW6CG1rTBzV6DW,28/03/1995,55,0.242,0.859,0.671,-8.4,0.0,The Bends,,,,,,,,,,,,Energetic
+Myxomatosis,Radiohead,38WL6GlG9NHFiQS6JxV84r,2003,48,0.499,0.815,0.57,-7.079,0.0,Hail To the Thief,,,,,,,,,,,,Happy
+No Surprises,Radiohead,1bSpwPhAxZwlR2enJJsv7U,28/05/1997,71,0.255,0.393,0.118,-10.654,1.0,OK Computer,,,,,,,,,,,,Sad
+No Surprises - Remastered,Radiohead,5O3FBCAj4Y3rvPXrEmlinc,23/06/2017,49,0.274,0.449,0.0797,-9.303,1.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Nose Grows Some,Thom Yorke,0MgBSd3GVQQyK4ihtXO6LZ,2014,37,0.517,0.636,0.878,-13.75,0.0,Tomorrow's Modern Boxes,,,,,,,,,,,,Happy
+Not The News,Thom Yorke,7ypjELqhyUT3BBCws8kzKN,27/06/2019,42,0.558,0.813,0.28,-8.919,0.0,ANIMA,,,,,,,,,,,,Energetic
+Not The News - Clark Remix,Thom Yorke,2ezoMtz1cFPocOoxN8f5Ox,02/08/2019,17,0.77,0.495,0.21,-6.832,0.0,Not the News Rmx EP,,,,,,,,,,,,Sad
+Not The News - Equiknoxx Remix Feat. Time Cow & Gavsborg,Thom Yorke,3NCEIiE6td1hK0UKSvjlUC,02/08/2019,19,0.638,0.758,0.0463,-7.151,0.0,Not the News Rmx EP,,,,,,,,,,,,Sad
+Not The News - Extendo Mix,Thom Yorke,4bQHxrQJbRnWoqpXvuf3jQ,02/08/2019,22,0.616,0.739,0.203,-8.684,0.0,Not the News Rmx EP,,,,,,,,,,,,Sad
+Not The News - Mark Pritchard Remix,Thom Yorke,2Ipmxha3s61AeoZHUteMAq,02/08/2019,23,0.435,0.461,0.506,-12.808,0.0,Not the News Rmx EP,,,,,,,,,,,,Sad
+Optimistic,Radiohead,4DE6Wkt9fW7R5e9gJGWQim,01/10/2000,53,0.403,0.757,0.573,-9.931,0.0,Kid A,,,,,,,,,,,,Energetic
+Palo Alto - Remastered,Radiohead,7BFYY2EFrru8QHolUiKpEE,23/06/2017,40,0.406,0.819,0.325,-7.825,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Energetic
+Paranoid Android,Radiohead,2nTsKOXIVGDf2iPeVQO2Gm,28/05/1997,67,0.252,0.849,0.194,-6.501,0.0,OK Computer,,,,,,,,,,,,Energetic
+Paranoid Android - Remastered,Radiohead,1QgI14YcWg3tOobXjzlNMl,23/06/2017,52,0.332,0.826,0.216,-7.269,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Energetic
+Pearly* - Remastered,Radiohead,4ozum7awQLhJ6D6fQL5xPy,23/06/2017,41,0.324,0.853,0.317,-5.811,0.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Energetic
+Planet Telex,Radiohead,05evePUsIT1cmIURp1hgu6,28/03/1995,55,0.429,0.88,0.255,-8.013,0.0,The Bends,,,,,,,,,,,,Happy
+Polyethylene (Parts 1 & 2) - Remastered,Radiohead,0QHoKFOWwMSFxB4zc5HDzG,23/06/2017,43,0.22,0.499,0.209,-8.363,1.0,OK Computer OKNOTOK 1997 2017,,,,,,,,,,,,Sad
+Prove Yourself,Radiohead,4D6ZExVvYLZxhcAvifX5px,22/02/1993,43,0.25,0.62,0.319,-10.915,0.0,Pablo Honey,,,,,,,,,,,,Energetic
+Pulk/Pull Revolving Doors,Radiohead,4doFWLhPChHDgs89rHs5nr,12/03/2001,45,0.58,0.625,0.14,-12.073,0.0,Amnesiac,,,,,,,,,,,,Sad
+Reckoner,Radiohead,56Z7hbyMrndw1naxb6I5Oi,28/12/2007,62,0.518,0.656,0.203,-7.438,0.0,In Rainbows,,,,,,,,,,,,Sad
+Reverse Running,Atoms For Peace,1fnUU2RQ4I0RDn2WgXfhWV,25/02/2013,36,0.419,0.616,0.282,-9.863,0.0,AMOK,,,,,,,,,,,,Sad
+Ripcord,Radiohead,4nklmaiY4gfQI3SB1sLGsd,22/02/1993,43,0.256,0.906,0.254,-10.436,0.0,Pablo Honey,,,,,,,,,,,,Energetic
+Runwayaway,Thom Yorke,1WQA1SHyH5aw1KUiTZKWka,26/06/2019,38,0.588,0.454,0.152,-12.477,0.0,ANIMA,,,,,,,,,,,,Sad
+S.A.D.,Atoms For Peace,3ctDYlZOkEjmEl0zPLlwfW,11/03/2013,25,0.669,0.748,0.364,-10.349,0.0,Judge Jury and Executioner / S.A.D.,,,,,,,,,,,,Sad
+Scatterbrain,Radiohead,467FBnBDRfL8Hz9ktUUybj,2003,46,0.492,0.753,0.234,-8.617,0.0,Hail To the Thief,,,,,,,,,,,,Energetic

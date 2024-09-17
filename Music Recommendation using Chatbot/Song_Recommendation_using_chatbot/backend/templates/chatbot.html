@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Bot 🤖</title>
+    <!-- it is connected to two stylesheets -->
+    <link rel="stylesheet" type="text/css" href="../static/css/Stylesheet_main.css"><!-- this is the main stylesheet -->
+    <!-- desktop first approach is used for the same. -->
+    <link rel="stylesheet" type="text/css" href="../static/css/primary page responsive.css">
+    <!-- this is the style sheet with all the media queries -->
+    <!-- this script is just for font awesome fonts -->
+    <script src="https://kit.fontawesome.com/2d9b67a497.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+<!-- body -->
+
+<body>
+    <!-- top navigation bar -->
+    <nav class="navigation-bar">
+        <!--This div contains the logo and title of the page-->
+        <div class="title-combo">
+            <div class="website-logo">
+                <img src="../static/assets/website_logo.png">
+            </div>
+            <div class="website-name">
+                <h2>
+                    Studio
+                </h2>
+                <h6>
+                    Music Player
+                </h6>
+            </div>
+        </div>
+        <!-- this is the animated favourites text -->
+        <div class="favs">
+            <a href="/">
+                <h4>
+                    Home
+                </h4>
+            </a>
+        </div>
+        <!-- this is for search bar -->
+        <!-- <div class="search-bar"> -->
+        <!-- <div> -->
+        <!-- magnifying glass- search icon -->
+        <!-- <i class="fas fa-search search-ico"></i> -->
+        <!-- </div> -->
+        <!-- <input type="text" name="search" placeholder="Search"> -->
+        <!-- <div> -->
+        <!-- mic icon -->
+        <!-- <i class="fas fa-microphone mic-ico"></i> -->
+        <!-- </div> -->
+        <!-- </div> -->
+        <!-- this is for notification bell -->
+        <!-- <div class="notification-bell">
+            <img src="media/bell_icon.png"> Notifications
+
+        </div> -->
+        <!-- this is for profile picture -->
+        <!-- <div class="profile-picture">
+            <img src="media/profile_picture.png">
+        </div> -->
+    </nav>
+    <!-- this is the main center part of the page and it is divided into two sections, namely section 1 and section 2-->
+    <!-- I have separated these sections using the aside tag for each section -->
+    <main>
+        <!-- aside section 1 -->
+        <aside class="aside section-1">
+            <!-- this is for the carousel -->
+            <div class="outer-carousel">
+                <div class="animate__animated animate__flipInX carousel">
+
+                    <!-- chat bot starts here  -->
+                    <div class="chatbot-container">
+                        <div class="chat-container">
+                            <div class="chat-header">
+                                <h2 class="welcome">Chat Bot</h2>
+                            </div>
+                            <div id="chat-log">
+                                <div class="messages">
+                                    {% for chat in chat_history %}
+                                    <div class="message">
+                                        <div class="response">{{ chat["req"] }}</div>
+                                        <div class="opposite">{{ chat["res"] }}</div>
+                                    </div>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                            <form class="chat-input" action="/chatbot" method="POST">
+                                <div class="user-input-container">
+                                    <input name="message" type="text" id="user-input" placeholder="Type your message..."
+                                        autofocus>
+                                    <button type="submit" id="send-button">Send</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- chat bot ends here  -->
+                </div>
+            </div>
+            <!-- this is the latest release section -->
+            <div class="latest-release">
+                <h1 style="margin-bottom: 12px;">
+                    Latest Release
+                </h1>
+                <!-- this is the content of the latest release section -->
+                <!-- it will contain the "cards" -->
+                <div class="latest-release-content">
+                    <!-- first card -->
+                    {% for track_id in latest_releases %}
+                    <div class="card">
+                        <iframe style="border-radius:12px"
+                            src="https://open.spotify.com/embed/track/{{ track_id }}?utm_source=generator" width="100%"
+                            height="152" frameBorder="0" allowfullscreen=""
+                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                            loading="lazy"></iframe>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            </div>
+            </div>
+            
+            <!-- this is the popular artists section -->
+            <!-- this is the music themes part, the one with the tri-gradient background -->
+            <div class="music-themes">
+                <!-- this div will be the logo of music themes, see the output, the one with 3 squares/rects  -->
+                <!-- the logo with orange, green and yellow color -->
+                <!-- <div class="stations">
+                    <div id="div1">
+                        <div id="div2">
+                            <div id="div3">
+                                <img src="media/website_logo.png">
+                                <p>Stations</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- this is the content part of them themes -->
+                <!-- the one which changes colors on hover -->
+                <!-- <div class="theme-main">
+                    <div class="theme-content">
+                        <img src="media/music themes/chill.jpg">
+                        <p>Vibe</p>
+                    </div>
+                    <div class="theme-content">
+                        <img src="media/music themes/rock.jpg">
+                        <p>Rock</p>
+                    </div>
+                    <div class="theme-content">
+                        <img src="media/music themes/love.jpg">
+                        <p>Love</p>
+                    </div>
+                    <div class="theme-content">
+                        <img src="media/music themes/pop.jpg">
+                        <p>Pop</p>
+                    </div>
+                    <div class="theme-content">
+                        <img src="media/music themes/retro.jpg">
+                        <p>Retro</p>
+                    </div>
+                    <div class="theme-content">
+                        <img src="media/music themes/workout.jpg">
+                        <p>GYM</p>
+                    </div>
+                </div> -->
+            </div>
+            <!-- this is another themes portion, that electronic, party and road theme
+            <div class="music-themes-2">
+                <3 divs content -->
+
+        </aside>
+        <!-- one aside section is complete -->
+        <!-- now the second aside section will start from here -->
+        <!-- the page is responsive. please try reducing the width of the page -->
+        <!-- the aside section will collapse and a "more button will be shown to you." -->
+        <!-- clicking on this more button, you will be shown the aside section 2  -->
+        <!-- its position will be absolute at lower resolutions -->
+        <!-- this is the label for that more button -->
+        <label for="more"><i class="fas fa-angle-double-left"></i>More</label>
+        <!-- this is that more button -->
+        <!-- and this is the check box. this will always be hidden -->
+        <!-- check the stylesheet_main.css when the label is clicked, this checkbox will be checked -->
+        <!-- which will invoke the aside section 2 on lower resolutions -->
+        <input type="checkbox" id="more">
+        <!-- here starts the section 2 of our page -->
+        <aside class="aside section-2">
+            <!-- this is the section heading part. the heading will be static -->
+            <div class="heading">
+                <h1>Songs For your Mood</h1>
+                <!-- <h4>
+                    <a href="#queue-option-box">Queue <i class="fas fa-chevron-circle-down"></i></a>
+                </h4> -->
+            </div>
+            <!-- this is the queue box which will be shown when the user clicks on the Queue button -->
+            <!-- it will have 3 options, playlists, favourite songs and Close button. it will close when one clicks on the close button. -->
+            <div class="queue-options" id="queue-option-box">
+                <p><a href style="color:#007bff; font-weight:bolder;">Playlists</a></p>
+                <hr>
+                <p><a href style="color:#007bff; font-weight:bolder;">Favourite songs</a></p>
+                <hr>
+                <p><a href="#" style="color:red; font-weight:bolder;">Close</a></p>
+            </div>
+            <!-- this is the content of the playlist. it will be dynamic. -->
+            <div class="playlist-content">
+                <!-- first playlist item -->
+                {% for track in suggestion_list %}
+                <div class=playlist-item>
+                    <iframe style="border-radius:12px"
+                        src="https://open.spotify.com/embed/track/{{ track.id }}?utm_source=generator" width="100%"
+                        height="152" frameBorder="0" allowfullscreen=""
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy"></iframe>
+                </div>
+                {% endfor %}
+            </div>
+        </aside>
+    </main>
+
+</body>
+
+</html>

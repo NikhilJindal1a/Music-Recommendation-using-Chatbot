@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  song_recommend:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: song_recommendation:latest
+    container_name: song_recommend
+    ports:
+      - 5000:5000
+    restart: on-failure:5
+    volumes: 
+      - .:/app
+    # command: python backend/output_chatbot.py
